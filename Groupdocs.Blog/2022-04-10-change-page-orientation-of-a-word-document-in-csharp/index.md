@@ -3,6 +3,8 @@ title: 'Change Page Orientation of a Word Document in C#'
 date: Sun, 10 Apr 2022 14:14:00 +0000
 draft: false
 url: /2022/04/10/change-page-orientation-of-a-word-document-in-csharp/
+aliases:
+    - /2019/11/13/change-page-orientation-of-a-word-document-in-csharp/
 author: 'Shoaib Khan'
 summary: 'Every page of the document may contain different layouts. It depends on the content of the page; that which orientation suits it. As a developer, we can change the orientation of each page to the one it suits. In this article, we will learn to **change the orientation of a page in a Word document using C#**. Separately, we will see how to change the portrait layout to landscape and then how to change the landscape orientation to portrait with the .NET applications.'
 tags: ['change orientation', 'change page orientation in CSharp', 'how to change the orientation of one page in word', 'how to make one page landscape in word', 'landscape to portrait', 'page orientation', 'portrait to landscape in CSharp']
