@@ -12,7 +12,6 @@ summary: 'We often require removing the unwanted, obsolete, highly confidential 
 tags: ['delete pages', 'delete pages in csharp', 'remove pages', 'remove pages in csharp', 'delete pages from pdf in csharp', 'delete pages in csharp']
 categories: ['GroupDocs.Merger Product Family']
 ---
-# Remove or Delete Pages from PDF in C#
 
 We often require removing the unwanted, obsolete, highly confidential pages from the documents while sharing or finalizing the drafts. In this article, we will learn **how to programmatically remove such pages from the PDF document using C#**. Requirements may differ at times, so we will discuss different ways to remove the different sets of pages within the PDF document. The following topics are discussed below:
 
