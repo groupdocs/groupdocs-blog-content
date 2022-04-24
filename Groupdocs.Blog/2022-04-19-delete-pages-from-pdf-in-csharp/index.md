@@ -13,8 +13,11 @@ tags: ['delete pages', 'delete pages in csharp', 'remove pages', 'remove pages i
 categories: ['GroupDocs.Merger Product Family']
 ---
 
-We often require removing the unwanted, obsolete, highly confidential pages from the documents while sharing or finalizing the drafts. In this article, we will learn **how to programmatically remove such pages from the PDF document using C#**. Requirements may differ at times, so we will discuss different ways to remove the different sets of pages within the PDF document. The following topics are discussed below:
+We often require removing the unwanted, obsolete, highly confidential pages from the documents while sharing or finalizing the drafts. In this article, we will learn **how to programmatically remove such pages from the PDF document using C#**. Requirements may differ at times, so we will discuss different ways to remove the different sets of pages within the PDF document. 
 
+The following topics are discussed below:
+
+- [PDF Page Removal .NET API](#pdf-page-removal-dotnet-api)
 - [Remove Selection/List of Pages](#remove-pdf-pages-list-in-csharp)
 - [Delete Pages Range](#remove-pdf-pages-range-in-csharp)
 - [Remove Even or Odd Range of Pages](#remove-even-odd-pdf-pages-in-csharp)
@@ -33,7 +36,7 @@ PM> Install-Package GroupDocs.Merger
 
 Just provide the list of pages from the loaded PDF document to remove. The below steps allow removing the provided list of selective pages from a PDF document using C#.
 
-- Initialize [RemoveOptions][5] class with the list of page numbers to remove.
+- Initialize [RemoveOptions][5] class with the **list of page numbers** to remove.
 - Instantiate [Merger][6] object with source document path or stream.
 - Call RemovePages() method to delete the listed pages.
 - Call the appropriate Save() method to save the resultant document.
@@ -47,7 +50,7 @@ The following C# code example removes the selected 3rd and 5th pages from the PD
 Likewise, you can remove any range of pages within the PDF document. The following steps allow removing a sequence of pages within the provided range using C#.
 
 - Initialize [RemoveOptions][5].
-- Provide the page range by setting starting and ending page number.
+- Provide the **page range** by setting **starting** and **ending** page number.
 - Instantiate [Merger][6] object with source document path or stream.
 - Call RemovePages() method with the range.
 - Call the appropriate Save() method to save the resultant document.
