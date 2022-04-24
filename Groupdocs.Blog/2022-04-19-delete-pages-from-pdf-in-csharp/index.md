@@ -33,9 +33,9 @@ PM> Install-Package GroupDocs.Merger
 
 Just provide the list of pages from the loaded PDF document to remove. The below steps allow removing the provided list of selective pages from a PDF document using C#.
 
-- Initialize [RemoveOptions][5] class with page numbers to remove.
+- Initialize [RemoveOptions][5] class with the list of page numbers to remove.
 - Instantiate [Merger][6] object with source document path or stream.
-- Call RemovePages() method to delete the selected pages.
+- Call RemovePages() method to delete the listed pages.
 - Call the appropriate Save() method to save the resultant document.
 
 The following C# code example removes the selected 3rd and 5th pages from the PDF document.
@@ -46,9 +46,10 @@ The following C# code example removes the selected 3rd and 5th pages from the PD
 
 Likewise, you can remove any range of pages within the PDF document. The following steps allow removing a sequence of pages within the provided range using C#.
 
-- Initialize [RemoveOptions][5] class with page numbers to remove.
+- Initialize [RemoveOptions][5].
+- Provide the page range by setting starting and ending page number.
 - Instantiate [Merger][6] object with source document path or stream.
-- Call RemovePages() method to delete the selected pages.
+- Call RemovePages() method with the range.
 - Call the appropriate Save() method to save the resultant document.
 
 The following C# sample code removes all the pages from the PDF document within the provided range i.e. 2 to 4.
@@ -59,9 +60,10 @@ The following C# sample code removes all the pages from the PDF document within 
 
 Similarly, you can remove all the even or odd pages of the document. The following steps show how to remove even or odd pages of the PDF file within the given range using C#.
 
-- Initialize [RemoveOptions][5] class with page numbers to remove.
+- Initialize [RemoveOptions][5] class with the page range.
+- Set the mode to **even** or **odd**.
 - Instantiate [Merger][6] object with source document path or stream.
-- Call RemovePages() method to delete the selected pages.
+- Call RemovePages() method with the removal options.
 - Call the appropriate Save() method to save the resultant document.
 
 The following C# code sample removes all the even pages from the PDF document within the provided range i.e. 1-6.
