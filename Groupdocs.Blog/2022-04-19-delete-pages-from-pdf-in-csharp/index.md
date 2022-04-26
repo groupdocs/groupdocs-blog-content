@@ -2,7 +2,7 @@
 title: 'Remove Pages from PDF using C# | Even, Odd, List & Range'
 date: Tue, 19 Apr 2022 11:00:00 +0000
 draft: false
-description: 'Remove any set of pages from the PDF files using C#. Delete list of pages, any given range, even or odd pages from PDF files within .NET application.' 
+description: "Remove any set of pages from the PDF files using C#. Delete list of pages, any given range, even or odd pages from PDF files within .NET application." 
 url: /2022/04/19/delete-pages-from-pdf-in-csharp/
 aliases:
     - /2019/10/29/delete-one-or-more-pages-from-a-document-in-c/
