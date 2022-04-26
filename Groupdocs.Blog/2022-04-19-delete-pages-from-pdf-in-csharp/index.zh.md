@@ -2,7 +2,7 @@
 title: "使用 C# 从 PDF 中删除页面 |偶数、奇数、列表和范围"
 date: Tue, 19 Apr 2022 11:00:00 +0000
 draft: false
-description：'使用 C# 从 PDF 文件中删除任何一组页面。从 .NET 应用程序中的 PDF 文件中删除页面列表、任何给定范围、偶数页或奇数页。
+description："使用 C# 从 PDF 文件中删除任何一组页面。从 .NET 应用程序中的 PDF 文件中删除页面列表、任何给定范围、偶数页或奇数页。"
 url: /zh/2022/04/19/delete-pages-from-pdf-in-csharp/
 aliases:
 - /zh/2019/10/29/delete-one-or-more-pages-from-a-document-in-c/

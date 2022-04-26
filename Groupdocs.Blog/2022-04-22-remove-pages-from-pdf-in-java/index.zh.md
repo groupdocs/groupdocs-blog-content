@@ -2,7 +2,7 @@
 title: "在 Java 中从 PDF 中删除页面 |偶数、奇数、列表和范围"
 date: Fri, 22 Apr 2022 11:00:00 +0000
 draft: false
-description：'使用 Java 从 PDF 文件中删除任何一组页面。从应用程序中的 PDF 文件中删除页面列表、任何给定范围、偶数页或奇数页。
+description："使用 Java 从 PDF 文件中删除任何一组页面。从应用程序中的 PDF 文件中删除页面列表、任何给定范围、偶数页或奇数页。"
 url: /zh/2022/04/22/remove-pages-from-pdf-in-java/
 author: 'Shoaib Khan'
 summary: "更新旧文档时；要求从最新版本的文档中删除过时、过时甚至高度机密的页面。在本文中，我们将学习**如何以编程方式从 Java 中的 PDF 文档中删除此类页面**。此外，我们将讨论删除 PDF 文档的页面列表、页面范围、偶数页和奇数页的不同方法。"
