@@ -2,7 +2,7 @@
 title: "Supprimer des pages d'un PDF en Java | Pair, impair, liste et plage"
 date: Fri, 22 Apr 2022 11:00:00 +0000
 draft: false
-description: 'Supprimez n'importe quel ensemble de pages des fichiers PDF à l'aide de Java. Supprimer la liste des pages, toute plage donnée, les pages paires ou impaires des fichiers PDF dans les applications.'
+description: "Supprimez n'importe quel ensemble de pages des fichiers PDF à l'aide de Java. Supprimer la liste des pages, toute plage donnée, les pages paires ou impaires des fichiers PDF dans les applications."
 url: /fr/2022/04/22/remove-pages-from-pdf-in-java/
 author: 'Shoaib Khan'
 summary: "Lorsqu'un ancien document est mis à jour ; les pages obsolètes, obsolètes ou même hautement confidentielles doivent être supprimées de la dernière version du document. Dans cet article, nous allons apprendre **comment supprimer par programmation de telles pages des documents PDF en Java**. De plus, nous discuterons des différentes façons de supprimer la liste des pages, la plage de pages, les pages paires et impaires du document PDF."
