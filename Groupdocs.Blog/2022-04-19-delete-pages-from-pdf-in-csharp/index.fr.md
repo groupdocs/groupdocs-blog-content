@@ -2,7 +2,7 @@
 title: "Supprimer des pages d'un PDF à l'aide de C# | Pair, impair, liste et plage"
 date: Tue, 19 Apr 2022 11:00:00 +0000
 draft: false
-description: 'Supprimez n'importe quel ensemble de pages des fichiers PDF à l'aide de C#. Supprimer la liste des pages, toute plage donnée, les pages paires ou impaires des fichiers PDF dans l'application .NET.'
+description: "Supprimez n'importe quel ensemble de pages des fichiers PDF à l'aide de C#. Supprimer la liste des pages, toute plage donnée, les pages paires ou impaires des fichiers PDF dans l'application .NET."
 url: /fr/2022/04/19/delete-pages-from-pdf-in-csharp/
 aliases:
     - /fr/2019/10/29/delete-one-or-more-pages-from-a-document-in-c/
