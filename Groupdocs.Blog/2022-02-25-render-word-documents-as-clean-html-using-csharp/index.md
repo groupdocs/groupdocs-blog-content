@@ -1,5 +1,7 @@
 ---
 title: 'Render Word documents as Clean HTML using C#'
+seoTitle: "Render Word documents as Clean HTML using C# | Minify HTML"
+description: "Render the Word DOC/DOCX documents to minified HTML using C#. Convert the Word files with embedded or external resources within the .NET application."
 date: Fri, 25 Feb 2022 05:38:00 +0000
 draft: false
 url: /2022/02/25/render-word-documents-as-clean-html-using-csharp/

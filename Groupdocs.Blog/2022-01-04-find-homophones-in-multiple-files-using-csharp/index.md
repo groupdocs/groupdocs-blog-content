@@ -1,5 +1,7 @@
 ---
 title: 'Find Homophones in Multiple Files using C#'
+seoTitle: "Find Word and its Homophones in Multiple Files using C#"
+description: "Find specific word and its homophones within different files of a folder using C#. Build .NET app for homophones using document searching API by GroupDocs"
 date: Tue, 04 Jan 2022 10:54:00 +0000
 draft: false
 url: /2022/01/04/find-homophones-in-multiple-files-using-csharp/

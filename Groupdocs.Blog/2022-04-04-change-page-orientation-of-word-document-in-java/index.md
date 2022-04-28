@@ -1,5 +1,7 @@
 ---
 title: 'Change Page Orientation of a Word Document in Java'
+seoTitle: "Change Page Orientation of Word Document in Java"
+description: "Change the orientation of pages in Word DOC/DOCX documents in Java. Set pages as portrait or landscape within applications using GroupDocs."
 date: Mon, 04 Apr 2022 14:14:00 +0000
 draft: false
 url: /2022/04/04/change-page-orientation-of-word-document-in-java/

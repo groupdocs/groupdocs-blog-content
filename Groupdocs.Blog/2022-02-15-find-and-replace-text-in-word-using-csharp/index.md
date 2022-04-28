@@ -1,5 +1,7 @@
 ---
 title: 'Find and Replace Words in Word Documents using C#'
+seoTitle: "Find and Replace Words in Word Documents using C# | Text Redaction"
+description: "Find, replace, or hide text, words, phrases in Word DOC/DOCX files using C#. Redact and perform text, case-sensitive & RegEx search with .NET Redaction API."
 date: Tue, 15 Feb 2022 10:41:00 +0000
 draft: false
 url: /2022/02/15/find-and-replace-text-in-word-using-csharp/
@@ -9,7 +11,7 @@ aliases:
     - /2019/09/20/find-and-replace-text-in-word-documents-using-net-api/
     - /2019/09/20/find-and-replace-text-in-word-excel-powerpoint-pdf-documents-net-api/
 author: 'Shoaib Khan'
-summary: 'There could be many reasons to replace a word or phrase in the document. Whether you want to erase the sensitive content before publically sharing the document or you want to hide/remove all the private information like email IDs or Social Security Numbers, you need to redact the document content. This article guides you on **how to redact Word documents programmatically** in your .NET applications using C#. We will separately discuss how to redact by hiding the text and how to **find and replace the text, words, or phrases** using different techniques.'
+summary: "There could be many reasons to replace a word or phrase in the document. Whether you want to erase the sensitive content before publically sharing the document or you want to hide/remove all the private information like email IDs or Social Security Numbers, you need to redact the document content. This article guides you on **how to redact Word documents programmatically** in your .NET applications using C#. We will separately discuss how to redact by hiding the text and how to **find and replace the text, words, or phrases** using different techniques."
 tags: ['case sensitive find and replace', 'Find &amp; Replace in Word', 'Find and replace text', 'Redact in CSharp', 'Redact Word in CSharp', 'Replace words in CSharp', 'text redaction']
 categories: ['GroupDocs.Redaction Product Family']
 ---

@@ -1,5 +1,7 @@
 ---
 title: 'Read MP3 Tags using C# - (ID3, Lyrics, APE)'
+seoTitle: "Read MP3 Tags using C# - (ID3, Lyrics, APE) | .NET Metadata API"
+description: "Extract MP3 tags from the mp3 files using C#. Read the ID3v1, ID3v2, Lyrics and APEv2 metadata standard tags from the mp3 files using .NET Metadata API."
 date: Sat, 22 Jan 2022 12:49:38 +0000
 draft: false
 url: /2022/01/22/read-mp3-tags-using-csharp/

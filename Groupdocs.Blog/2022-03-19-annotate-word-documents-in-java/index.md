@@ -1,5 +1,7 @@
 ---
 title: 'Add or Remove Annotations or Markup Word files in Java'
+seoTitle: "Annotate Word DOC DOCX files in Java | Add or Remove Annotations"
+description: "Add or remove annotations from Word DOC/DOCX files in Java. Add arrow, rectangle, ellipse, watermark annotations using document Annotation API."
 date: Sat, 19 Mar 2022 15:42:43 +0000
 draft: false
 url: /2022/03/19/annotate-word-documents-in-java/

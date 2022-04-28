@@ -1,5 +1,7 @@
 ---
 title: 'Render Word documents as Minified HTML in Java'
+seoTitle: "Render Word documents as Clean HTML in Java | Minify HTML"
+description: "Render the Word DOC/DOCX documents to minified HTML in Java. View or convert the Word files with embedded or external resources within the applications."
 date: Fri, 04 Mar 2022 12:12:56 +0000
 draft: false
 url: /2022/03/04/render-word-documents-as-minified-html-in-java/

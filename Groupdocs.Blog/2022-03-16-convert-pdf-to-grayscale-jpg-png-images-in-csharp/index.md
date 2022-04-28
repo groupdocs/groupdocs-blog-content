@@ -1,5 +1,7 @@
 ---
 title: 'Convert PDF to Grayscale using C#'
+seoTitle: "Convert PDF to Grayscale JPG & PNG Images using C#"
+description: "Transform PDF documents to grayscale JPG or PNG images in C#. Apply gamma, manage contrast or control brightness within .NET application."
 date: Wed, 16 Mar 2022 12:05:00 +0000
 draft: false
 url: /2022/03/16/convert-pdf-to-grayscale-jpg-png-images-in-csharp/

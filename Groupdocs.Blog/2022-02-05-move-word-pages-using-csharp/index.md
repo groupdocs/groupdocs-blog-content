@@ -1,5 +1,7 @@
 ---
 title: 'How to Rearrange Pages in Word using C#'
+seoTitle: "Rearrange Pages in Word using C# | Organize DOC/DOCX Pages"
+description: "Reorder the pages of Word files using C#. The running example shows how to change the order of pages in DOC/DOCX files using the .NET API."
 date: Sat, 05 Feb 2022 08:19:00 +0000
 draft: false
 url: /2022/02/05/move-word-pages-using-csharp/

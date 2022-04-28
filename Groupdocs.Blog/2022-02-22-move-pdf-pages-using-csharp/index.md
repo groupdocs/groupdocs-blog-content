@@ -1,5 +1,7 @@
 ---
 title: 'How to Rearrange PDF Pages using C#'
+seoTitle: "Rearrange PDF Pages using C# | Organize with .NET API"
+description: "Reorder the pages of PDF files using C#. The running example shows how to correct the sequence of unordered PDF pages within the .NET application."
 date: Tue, 22 Feb 2022 12:10:45 +0000
 draft: false
 url: /2022/02/22/move-pdf-pages-using-csharp/

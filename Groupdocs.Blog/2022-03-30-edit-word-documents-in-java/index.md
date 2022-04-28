@@ -1,5 +1,7 @@
 ---
 title: 'Edit Word Documents in Java'
+seoTitle: "Edit Word Documents in Java | Build your own Java Word Editor"
+description: "Editing Word documents is explained with Java examples to edit DOC, DOCX, ODT files within your applications using document editing Java API."
 date: Wed, 30 Mar 2022 05:58:00 +0000
 draft: false
 url: /2022/03/30/edit-word-documents-in-java/

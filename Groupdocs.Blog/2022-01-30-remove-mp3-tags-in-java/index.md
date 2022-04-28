@@ -1,5 +1,7 @@
 ---
 title: 'Remove MP3 Tags in Java'
+seoTitle: "Remove MP3 Tags in Java - (ID3, Lyrics, APE) | Java Metadata API"
+description: "Remove MP3 tags from the mp3 files in Java. Delete the ID3v1, ID3v2, Lyrics, and APEv2 metadata tags from the mp3 files using Java Metadata API."
 date: Sun, 30 Jan 2022 05:05:23 +0000
 draft: false
 url: /2022/01/30/remove-mp3-tags-in-java/

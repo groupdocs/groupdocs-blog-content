@@ -1,10 +1,12 @@
 ---
-title: 'Read MP3 Tags in Java - (ID3, Lyrics, APE)'
+title: "Read MP3 Tags in Java - (ID3, Lyrics, APE)"
+seoTitle: "Read MP3 Tags in Java - (ID3, Lyrics, APE) | Java Metadata API"
+description: "Extract MP3 tags from the mp3 files in Java. Read the ID3v1, ID3v2, Lyrics, and APEv2 metadata standard tags from the mp3 files using Java Metadata API."
 date: Sat, 12 Feb 2022 11:43:14 +0000
 draft: false
 url: /2022/02/12/read-mp3-tags-in-java/
 author: 'Shoaib Khan'
-summary: 'Metadata variants are attached with documents of different file formats. MP3 files commonly contain ID3 metadata tags. This article discusses **how to read different MP3 tags in Java**. One by one, we will see how to extract ID3 (IDEv1, ID3v2), Lyrics, and APEv2 metadata tags from the mp3 files using Java Metadata API.'
+summary: "Metadata variants are attached with documents of different file formats. MP3 files commonly contain ID3 metadata tags. This article discusses **how to read different MP3 tags in Java**. One by one, we will see how to extract ID3 (IDEv1, ID3v2), Lyrics, and APEv2 metadata tags from the mp3 files using Java Metadata API."
 tags: ['read ID3 tags', 'read mp3 lyrics', 'Read MP3 tags', 'Read MP3 Tags in Java']
 categories: ['GroupDocs.Metadata Product Family']
 ---

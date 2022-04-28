@@ -1,5 +1,7 @@
 ---
 title: 'How to Edit Excel Files in Java'
+seoTitle: "Edit Excel Files in Java | Build your Online Java Excel Sheet Editor"
+description: "Edit Excel files (XLS, XLSX, ODS) with your Java application. Examples to edit spreadsheets using spreadsheet and document editing Java API."
 date: Fri, 01 Apr 2022 09:54:00 +0000
 draft: false
 url: /2022/04/01/edit-excel-files-in-java/

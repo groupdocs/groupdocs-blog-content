@@ -1,5 +1,7 @@
 ---
 title: 'Convert PDF to Grayscale in Java'
+seoTitle: "Convert PDF to Grayscale JPG & PNG Images in Java"
+description: "Transform PDF documents to grayscale JPG or PNG images in Java. Apply gamma, manage contrast or control brightness within Java application."
 date: Wed, 02 Mar 2022 15:53:00 +0000
 draft: false
 url: /2022/03/02/convert-pdf-to-grayscale-jpg-png-images-in-java/

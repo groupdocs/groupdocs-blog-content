@@ -1,5 +1,7 @@
 ---
 title: 'Find and Replace Text in PDF using C#'
+seoTitle: "Find and Replace Text in PDF using C# | Replace or Hide PDF Text"
+description: "Programmatically find certain text, words, phrases in PDF documents with case sensitivity and RegEx using C#. Replace or hide the text to redact PDF files."
 date: Sat, 19 Feb 2022 04:42:16 +0000
 draft: false
 url: /2022/02/19/find-and-replace-text-in-pdf-using-csharp/

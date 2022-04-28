@@ -1,5 +1,7 @@
 ---
 title: 'Convert AutoCAD DWG Drawings to PDF in Java'
+seoTitle: "Convert CAD Drawings (DWG, DGN, DWF) to PDF in Java"
+description: "Convert the CAD files like DWG to PDF in Java. DWF, DGN, and AutoCAD drawings to PDF using document and image conversion Java API by GroupDocs."
 date: Tue, 08 Feb 2022 16:48:40 +0000
 draft: false
 url: /2022/02/08/convert-cad-drawings-to-pdf-in-java/

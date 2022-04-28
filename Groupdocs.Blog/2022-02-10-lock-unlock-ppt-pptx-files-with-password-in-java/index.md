@@ -1,5 +1,7 @@
 ---
 title: 'Password Protection of PowerPoint Presentations in Java'
+seoTitle: "Password Protect PowerPoint Files in Java | Lock Unlock PPT & PPTX"
+description: "How to lock PowerPoint files with passwords in Java. Change the existing password and remove it to unlock the PPT/PPTX files using the Java API."
 date: Thu, 10 Feb 2022 10:00:00 +0000
 draft: false
 url: /2022/02/10/lock-unlock-ppt-pptx-files-with-password-in-java/
