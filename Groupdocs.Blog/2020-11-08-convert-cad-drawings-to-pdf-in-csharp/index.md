@@ -1,9 +1,11 @@
 ---
+seoTitle: "Convert CAD Drawings to PDF in C# .NET | DGN DWG DWF to PDF in C#"
 title: 'Convert CAD Drawings to PDF in C#'
 date: Sun, 08 Nov 2020 04:03:43 +0000
 draft: false
 url: /2020/11/08/convert-cad-drawings-to-pdf-in-csharp/
 author: 'Shoaib Khan'
+description: "C# guide to convert the CAD files like DWG, DGN, and DWF to PDF format using document and image conversion .NET API by GroupDocs."
 summary: 'Today, we will learn how to programmatically convert the CAD drawings to PDF format in C#. Previously, in an [earlier post][1], we did the same but in Java. We looked to convert the DWG, DGN, and DWF files into PDF document with the code example. Let us do it in C# using the document conversion API for .NET.'
 tags: ['convert cad to pdf', 'convert cad to pdf in csharp', 'convert dgn to pdf in csharp', 'convert dwf to pdf in csharp', 'convert dwg to pdf in csharp']
 categories: ['GroupDocs.Conversion Product Family']

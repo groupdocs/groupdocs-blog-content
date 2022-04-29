@@ -1,4 +1,5 @@
 ---
+seoTitle: "Add Watermark to Images in C# | Text & Image Watermarks"
 title: 'Add Watermark to Images using C#'
 date: Sun, 20 Dec 2020 11:03:00 +0000
 draft: false
@@ -8,6 +9,7 @@ aliases:
     - /2019/10/21/csharp-dotnet-api-to-add-watermark-to-images/
     - /2019/10/21/c-api-to-add-watermark-on-photos-or-images/
 author: 'Shoaib Khan'
+description: "C# ways to add text to image as watermark, or add image watermarks to PNG, JPG/JPEG, WebP, GIF, TIFF, BMP images using .NET Watermarking API by GroupDocs."
 summary: 'Let us see today, how to add watermarks to images. This helps you branding your official photography, and protects your pictures from any unauthorized use. This article will guide you to **programmatically add text and images watermarks to your image files using C#**. In an earlier post, we have seen the same to [add text and image based watermarks to images using Java][1]. After reading this article, it will not be difficult for you to add watermarks to **JPG/JPEG, PNG, WebP, GIF, TIFF, JP2, BMP** images using C# within your .NET application.'
 tags: ['add watermark in csharp', 'how to add watermark in csharp', 'watermark dotnet api', 'watermark images in csharp']
 categories: ['GroupDocs.Watermark Product Family']

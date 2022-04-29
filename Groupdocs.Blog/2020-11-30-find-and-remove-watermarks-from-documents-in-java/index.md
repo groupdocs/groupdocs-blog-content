@@ -1,4 +1,5 @@
 ---
+seoTitle: "Find and Remove Watermarks from Documents in Java"
 title: 'Find and Remove Watermarks from Documents in Java'
 date: Mon, 30 Nov 2020 10:55:51 +0000
 draft: false
@@ -6,6 +7,7 @@ url: /2020/11/30/find-and-remove-watermarks-from-documents-in-java/
 aliases:
     - /2019/10/10/find-and-remove-watermarks-from-documents-in-java/
 author: 'Shoaib Khan'
+description: "Java API to find and remove text and image watermarks from documents like PDF, Word, Excel, PowerPoint, and Visio files programmatically."
 summary: 'This article is useful for **Java** developers who are looking for a way to **find and remove text** or **image watermarks** from **PDF, Word, Excel, PowerPoint,** and **Visio** documents. In one of our posts we have learnt [finding and removing watermarks from documents in C#][1]. Let us now jump to quickly see a little about a Java API that allows adding, finding and removing watermarks from various documents in different ways.'
 tags: ['find and remove watermarks in Java', 'find watermarks in Java', 'remove watermarks using Java', 'watermarking API for Java']
 categories: ['GroupDocs.Watermark Product Family']

@@ -1,9 +1,11 @@
 ---
+seoTitle: "Handle EXIF Data of JPEG, PNG, TIFF & WebP Images in Java"
 title: 'Manage EXIF Data of JPEG, PNG, TIFF &amp; WebP  Images in Java'
 date: Tue, 12 May 2020 07:09:04 +0000
 draft: false
 url: /2020/05/12/handle-exif-data-of-jpg-png-webp-images-in-java/
 author: 'Shoaib Khan'
+description: "Manipulate EXIF metadata of images in Java. Extract, update, add or remove EXIF data of JPG/JPEG, PNG, WebP, or other images programmatically using Java API."
 summary: '**EXIF** (_Exchangeable Image File Format_) is the standard to specify the image and sound formats mainly used by digital cameras and scanners. EXIF data includes the tagging and metadata information about the captured image file. Metadata may contain information like camera make, model, shutter speed, date and time, aperture, exposure time, X resolution, Y resolution. etc.'
 tags: ['exif data', 'exif data of jpeg in java', 'exif metadata', 'exif metadata in java', 'extract exif data', 'extract exif data in java', 'remove exif data from images', 'remove exif metadata', 'update exif']
 categories: ['GroupDocs.Metadata Product Family']

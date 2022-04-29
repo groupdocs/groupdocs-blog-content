@@ -1,9 +1,11 @@
 ---
+seoTitle: "Add Watermark to Images in Java | Text & Image Watermarks"
 title: 'Add Watermark to Images in Java'
 date: Tue, 15 Sep 2020 14:16:12 +0000
 draft: false
 url: /2020/09/15/add-watermark-to-images-in-java/
 author: 'Shoaib Khan'
+description: "Add text to image as watermark, or add image watermarks to JPG, WebP, PNG, BMP images using Java Watermarking API by GroupDocs."
 summary: 'In this article, we will learn to **add text and image watermarks to images using Java**. There can be two ways to add watermark to images. Either you want to add the watermark with the personalized text or add an image watermark over the source image. We will see both scenarios. Currently, in addition to the JPG and PNG, this Java API supports BMP, GIF, JP2, TIFF & WebP image formats for adding watermarks on it. We can also change the style, orientation, and appearance of the watermark text.'
 tags: ['add text and image watermarks java', 'add text to images in Java', 'image watermarks in Java', 'text watermarks in Java']
 categories: ['GroupDocs.Watermark Product Family']

@@ -1,9 +1,11 @@
 ---
+seoTitle: "Insert OLE Objects in Word, Excel, PowerPoint with Java"
 title: 'Insert OLE Objects in Word, Excel, PowerPoint using Java'
 date: Mon, 19 Oct 2020 06:02:40 +0000
 draft: false
 url: /2020/10/19/insert-ole-objects-in-word-excel-powerpoint-with-java/
 author: 'Shoaib Khan'
+description: "Embed documents as OLE objects into other Word documents, Excel Spreadsheets, Powerpoint presentations programmatically in Java using GroupDocs.Merger API."
 summary: 'Today, we will be learning to **embed PDF** and other different documents **as OLE objects in Word, Excel, PowerPoint files using Java**. For embedding the documents via **Object Linking and Embedding**, we will be using the GroupDocs.Merger for Java API that also allows us to efficiently combine/merge and split multiple documents with minimum lines of Java code.'
 tags: ['embed OLE objects using Java', 'insert OLE objects in Excel using Java', 'insert OLE objects in java', 'insert OLE objects in presentations using Java', 'insert OLE objects in Word using Java']
 categories: ['GroupDocs.Merger Product Family']

@@ -1,9 +1,11 @@
 ---
+seoTitle: "C# Convert WebP Images to JPG, PNG, TIFF & PDF | .NET WebP Converter"
 title: 'Convert WebP to JPG, PNG, TIFF, and PDF in C#'
 date: Tue, 30 Jun 2020 07:03:38 +0000
 draft: false
 url: /2020/06/30/convert-webp-to-jpg-png-tiff-and-pdf-in-csharp/
 author: 'Shoaib Khan'
+description: "How to convert WebP to JPG, PNG, TIFF, or PDF in C#. Use opensource .NET Conversion API. Working examples are also available at GroupDocs GitHub Repository."
 summary: 'In our previous [post][1], we discussed WebP images and learned to convert WebP Images in Java. Today, in this article, we will learn to programmatically convert the WebP images into JPG, PNG, TIFF, and other formats using C#.'
 tags: ['convert webp in csharp', 'convert webp to jpg in csharp', 'convert webp to pdf in csharp', 'convert webp to png in csharp']
 categories: ['GroupDocs.Conversion Product Family']

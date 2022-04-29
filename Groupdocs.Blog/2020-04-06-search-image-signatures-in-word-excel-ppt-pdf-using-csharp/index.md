@@ -1,4 +1,5 @@
 ---
+seoTitle: "Search Image Signature in C# in Word, Excel, PowerPoint, PDF"
 title: 'Search Image Signatures in Word, Excel, PowerPoint, PDF Documents in C#'
 date: Mon, 06 Apr 2020 02:26:52 +0000
 draft: false
@@ -6,6 +7,7 @@ url: /2020/04/06/search-image-signatures-in-word-excel-ppt-pdf-using-csharp/
 aliases:
     - /2020/04/06/search-image-signatures-in-word-excel-ppt-pdf-documents/
 author: 'Shoaib Khan'
+description: "Search Barcode, QR Code, digital, or electronic signature with image data content from any document (DOC, XLS, PPT, PDF) in C# using .NET Signature API."
 summary: "**Electronic Signature** is the digital data that is attached to an electronically transmitted document. It verifies the sender's intention to sign the document."
 tags: ['Search Barcode in CSharp', 'Search Electronic Signature in CSharp', 'Search QR code in CSharp', 'Search Signatures in CSharp']
 categories: ['GroupDocs.Signature Product Family']

@@ -1,4 +1,5 @@
 ---
+seoTitle: "C# Diff Library - Compare Text Files (PDF, DOC(X), XLS, TXT) in .NET"
 title: 'C# Diff Library for Comparing Text Files'
 date: Thu, 30 Apr 2020 14:41:00 +0000
 draft: false
@@ -6,6 +7,7 @@ url: /2020/04/30/groupdocs-comparison-for-net-c-sharp-diff-library-for-comparing
 aliases:
     - /2014/07/04/groupdocs-comparison-for-net-c-sharp-diff-library-for-comparing-text-files/
 author: 'Muhammad Sohail'
+description: "It compares and merges Microsoft Word, Excel, PowerPoint, OpenDocument ODT, PDF, Text and HTML documents. Document comparison API compares content to detect changes for words, paragraphs and characters."
 summary: 'The [GroupDocs.Comparison for .NET][1] is a C# library which allows you to compare documents and find differences. Compare and merge Microsoft Word, Excel, PowerPoint, OpenDocument, PDF, Text, HTML and [many other documents][2], retrieve a list of changes between source and target document(s), apply or reject changes and save results with GroupDocs.Comparison API. In addition to this, GroupDocs.Comparison can identify styling and formatting changes - like bold, italic, underlines, strikethroughs, font types, etc.'
 tags: ['compare text files', 'diff view library', 'GroupDocs Comparison']
 categories: ['GroupDocs.Comparison Product Family']

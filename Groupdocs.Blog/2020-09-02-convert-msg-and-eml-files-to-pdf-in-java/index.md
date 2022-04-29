@@ -1,9 +1,11 @@
 ---
+seoTitle: "Convert MSG and EML files to PDF using Java Conversion API"
 title: 'Convert MSG and EML files to PDF in Java'
 date: Wed, 02 Sep 2020 14:04:02 +0000
 draft: false
 url: /2020/09/02/convert-msg-and-eml-files-to-pdf-in-java/
 author: 'Shoaib Khan'
+description: "Java Conversion API to programmatically convert email files (MSG, EML, EMLX) into PDF documents within your java based applications."
 summary: 'Emails to PDF conversions are often required for referencing and requirements like sharing the email content. In this article, we will learn about **how to convert email message files like MSG and EML into PDF using Java**. Previously, in one of the [earlier blog posts][1], we have already learned to convert MSG & EML files using C# in .NET application. This will help to automate the Email conversion within the desktop or web applications.'
 tags: ['convert emails to pdf', 'Convert MSG or EML to PDF in Java', 'eml to pdf in java', 'MSG to PDF in Java']
 categories: ['GroupDocs.Conversion Product Family']

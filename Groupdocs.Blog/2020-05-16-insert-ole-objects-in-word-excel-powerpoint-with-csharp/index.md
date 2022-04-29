@@ -1,9 +1,11 @@
 ---
+seoTitle: "Insert OLE Objects in Word, Excel, PowerPoint with C#"
 title: 'Insert OLE Objects in Word, Excel, PowerPoint with C#'
 date: Sat, 16 May 2020 13:06:31 +0000
 draft: false
 url: /2020/05/16/insert-ole-objects-in-word-excel-powerpoint-with-csharp/
 author: 'Shoaib Khan'
+description: "Embed or insert document OLE objects in Word documents, Excel Spreadsheets, or Powerpoint presentations programmatically in C# using .NET API."
 summary: '**OLE** stands for [Object Linking and Embedding][1]. It is provided by Microsoft and allows you to create and edit documents containing items or objects that are created by various applications.'
 tags: ['embed OLE object in word in csharp', 'Insert OLE objects in csharp', 'insert OLE objects in excel in csharp', 'insert OLE objects in presentations in csharp']
 categories: ['GroupDocs.Merger Product Family']

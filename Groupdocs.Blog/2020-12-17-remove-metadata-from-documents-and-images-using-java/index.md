@@ -1,9 +1,11 @@
 ---
+seoTitle: "Clean Metadata of Documents and Images using Java"
 title: 'Metadata Cleaner for Documents and Images using Java'
 date: Thu, 17 Dec 2020 10:02:00 +0000
 draft: false
 url: /2020/12/17/remove-metadata-from-documents-and-images-using-java/
 author: 'Shoaib Khan'
+description: "Java API to remove all or selective metadata properties of DOCX, XLSX, PPTX, PDF documents, JPEG, PNG, WebP images, email, eBooks, Visio Drawings, Zip, etc."
 summary: '**Metadata** is the data that provides information about the actual data. It is commonly described as "**data about data**". When sending a file to someone, it is not a good practice to send metadata along. It can reveal your information to the receiver that you may not want to share. Some of the examples include; Name, Company Name, Document Modification Date, Make and Model of Camera, etc. In this article, we will be **programmatically removing metadata from the images and documents using Java**.'
 tags: ['metadata cleaner using Java', 'remove metadata from documents in Java', 'remove metadata from images in Java', 'remove metadata using Java']
 categories: ['GroupDocs.Metadata Product Family']

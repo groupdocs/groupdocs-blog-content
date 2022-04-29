@@ -1,9 +1,11 @@
 ---
+seoTitle: "Verify Digital Signature in Documents using Java"
 title: 'Verify Digital Signature in Documents using Java'
 date: Tue, 06 Oct 2020 11:24:19 +0000
 draft: false
 url: /2020/10/06/verify-digital-signature-in-documents-using-java/
 author: 'Shoaib Khan'
+description: "Verify digital signatures in digitally signed Word documents, Excel sheets, PowerPoint presentations, and PDF files using Electronic Signature Java API."
 summary: 'In this article, we will be learning to **programmatically verify the digitally signed documents using Java**. The example uses PDF document for the verification, however, you may also perform verification of digitally signed word processing documents like MS Word **DOC/DOCX**, Excel spreadsheets **XLS/XLSX**, and presentations **PPT/PPTX**.'
 tags: ['verify digital signatures in java', 'verify digitally signed documents in java']
 categories: ['GroupDocs.Signature Product Family']

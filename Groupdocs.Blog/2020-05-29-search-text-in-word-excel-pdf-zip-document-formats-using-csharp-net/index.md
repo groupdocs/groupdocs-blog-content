@@ -1,9 +1,11 @@
 ---
+seoTitle: "Search Text in Word, Excel, PDF, ZIP Document Formats using C# .NET"
 title: 'Search Text in Word, Excel, PDF, ZIP and other Document Formats using C# .NET'
 date: Fri, 29 May 2020 09:25:45 +0000
 draft: false
 url: /2020/05/29/search-text-in-word-excel-pdf-zip-document-formats-using-csharp-net/
 author: 'Muhammad Sohail'
+description: "GroupDocs.Search is a powerful full-text search API that allows you to search through over 70 document formats in your applications."
 summary: 'We often need a full-text search API that enables our applications to search through documents for particular information specified as a textual search query. The documents can be of any format such as Word (Doc, Docx), PDF, HTML, EPUB, Spreadsheet (XLS, XLSX), Presentation (PPT, PPTX), images, and videos.'
 tags: ['Full Text Search Csharp', 'Search text in multiple Documents', 'Search text in PDF Document', 'Search text in Word Document']
 categories: ['GroupDocs.Search Product Family']

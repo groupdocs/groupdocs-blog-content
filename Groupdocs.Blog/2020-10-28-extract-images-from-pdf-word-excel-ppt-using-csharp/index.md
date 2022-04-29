@@ -1,9 +1,11 @@
 ---
+seoTitle: "Extract Images from PDF, Excel, PPT, Word Documents in C#"
 title: 'Extract Images from Documents using C#'
 date: Wed, 28 Oct 2020 18:27:00 +0000
 draft: false
 url: /2020/10/28/extract-images-from-pdf-word-excel-ppt-using-csharp/
 author: 'Shoaib Khan'
+description: ".NET API with features to extract images from PDF, spreadsheets, presentations, word-processing documents, and from specific pages using parsing API in C#."
 summary: 'In this article, we will be learning to **programmatically extract images from PDF, Excel, PowerPoint, and Word documents in a C#** application using document parsing .NET API. [GroupDocs.Parser for .NET][1] is document parsing and data extraction .NET API. It supports **document parsing** and **extraction of images, text,** and **metadata** from **word-processing documents**, **spreadsheets**, **presentations, archives,** and **email** documents.'
 tags: ['csharp parser', 'Dcoument Parsing API', 'extract images from PDF in csharp', 'extract images in csharp', 'Image extractor']
 categories: ['GroupDocs.Parser Product Family']

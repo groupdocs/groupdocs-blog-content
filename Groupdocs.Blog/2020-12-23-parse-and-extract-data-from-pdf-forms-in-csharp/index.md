@@ -1,9 +1,11 @@
 ---
+seoTitle: "Parse and Extract Fillable PDF Form Field Values in C#"
 title: 'Read PDF Form Fields using C#'
 date: Wed, 23 Dec 2020 12:39:01 +0000
 draft: false
 url: /2020/12/23/parse-and-extract-data-from-pdf-forms-in-csharp/
 author: 'Shoaib Khan'
+description: "Parse fillable PDF forms and extract form field values of PDF documents in C# using parsing & data extraction .NET API by GroupDocs."
 summary: 'In this article, we will learn **how to read and parse PDF documents and then programmatically extract PDF form field values in C#**. Earlier, we have seen [how to extract values from PDF forms in Java][1]. After reading these articles, if you have filled feedback forms, you can extract the values within your .NET & Java applications for analysis or save them in the database.'
 tags: ['Extract Text from PDF Forms in CSharp', 'Parse PDF Forms in CSharp', 'Read PDF Form Fields in CSharp']
 categories: ['GroupDocs.Parser Product Family']

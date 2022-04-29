@@ -1,4 +1,5 @@
 ---
+seoTitle: "Split or Merge PDF, PowerPoint, Excel, Word, Documents in Java"
 title: 'Split or Merge PDF, Word, Excel Documents in Java'
 date: Wed, 20 May 2020 08:22:00 +0000
 draft: false
@@ -8,6 +9,7 @@ aliases:
     - /2020/02/20/split-or-merge-pdf-word-excel-documents-in-csharp-or-java/
     - /2020/02/20/split-or-merge-pdf-word-excel-documents-in-c-or-java/
 author: 'Shoaib Khan'
+description: "Split or Merge PDF, Word DOC/DOCX, XLS/XLSX Excel spreadsheets, PPT/PPTX presentations, Visio Drawings, eBooks, & more documents in Java. Steps & examples."
 summary: 'Worried about merge or split documents of various types in multiple platforms? There could be many statements in your mind: * How to merge PDF documents together in Java? * Want to split word documents, or merge excel spreadsheets. * What to do if I need to merge PPT/PPTX presentations. * Many more questions, the list may not end.'
 tags: ['Merge Documents in Java', 'Merge PDF in Java', 'Merge Word in Java', 'Split Documents in Java', 'Split PDF in Java', 'Split PPT in Java']
 categories: ['GroupDocs.Merger Product Family']

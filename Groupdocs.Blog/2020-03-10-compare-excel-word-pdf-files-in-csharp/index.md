@@ -1,4 +1,5 @@
 ---
+seoTitle: "C# Compare Excel, Word, Text Files | .NET Document Comparison API"
 title: 'Compare Two Files or More in C#'
 date: Tue, 10 Mar 2020 22:25:55 +0000
 draft: false
@@ -7,6 +8,7 @@ aliases:
     - /2020/03/10/compare-two-files-or-more-in-csharp-word-document-excel-spreadsheet/
     - /2015/01/14/groupdocs-comparsion-for-dot-net-sample-compare-two-documents-in-csharp-and-display-diffs-on-aps-net-sites/
 author: 'Shoaib Khan'
+description: "Compare two files or more using C#. .NET SDK allows comparing two Excel spreadsheets, Word documents, PDF files or compare text files in CSharp."
 summary: "Document comparison is one of the most common requirements for today's programming world. Whether it is to compare word files, compare excel files, PDF documents or even compare text files or any other document format, accuracy is the key factor while comparing."
 tags: ['compare documents', 'compare excel files', 'compare PDF files', 'compare text files', 'compare two documents', 'compare two excel files', 'compare two files', 'compare two word documents', 'compare word documents', 'document comparison', 'file compare']
 categories: ['GroupDocs.Comparison Product Family']

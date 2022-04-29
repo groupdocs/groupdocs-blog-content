@@ -1,9 +1,11 @@
 ---
+seoTitle: "Customer Feedback Sentiment Analysis in C# | C# .NET Code Examples"
 title: 'Classify your Customer Feedback using Sentiment Analysis in C#'
 date: Wed, 17 Jun 2020 08:28:00 +0000
 draft: false
 url: /2020/06/17/classify-customers-feedback-using-sentiment-analysis-in-csharp/
 author: 'Shoaib Khan'
+description: "C# Sentiment Analysis Automation. Analyze customer feedback with C# API. Check how positive/negative are the comments about your product."
 summary: 'Suppose that you have the opportunity to receive comments or reviews from your customers or some other source and you want to evaluate how positive they are. There is a way to analyze such comments called **sentiment analysis**. This post focuses on the sentiment analysis tool based on a deep neural network model using C#. This model is suitable for a wide range of tasks.'
 tags: ['csharp code for sentiment analysis', 'csharp sentiment analysis', 'sentiment analysis csharp', 'sentiment analysis in csharp', 'sentiment classification in csharp']
 categories: ['GroupDocs.Classification Product Family']

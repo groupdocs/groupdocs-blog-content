@@ -1,4 +1,5 @@
 ---
+seoTitle: "Get 25% OFF on GroupDocs.Total | .NET and Java APIs"
 title: 'Get 25% OFF on GroupDocs.Total'
 date: Tue, 01 Dec 2020 00:00:17 +0000
 draft: false
@@ -6,6 +7,7 @@ url: /2020/12/01/groupdocs-offers-discount/
 aliases:
     - /2020/12/01/discount-offer-on-groupdocs-total/
 author: 'Shoaib Khan'
+description: "Winter Sale - 'Use HOLOFF2020' coupon code to get 25% OFF on GroupDocs.Total - A complete collection of .NET & Java APIs for document manipulation."
 summary: 'GroupDocs offers you **25% OFF** on [GroupDocs.Total][1] - all GroupDocs APIs you have ever wanted. Do not forget to use the **HOLOFF2020** coupon code while ordering to avail this discount offer.'
 tags: ['25% off on GroupDocs.Total', 'groupdocs discount', 'New Year Sale for GroupDocs.Total', 'Winter Sale for GroupDocs.Total']
 categories: ['GroupDocs.Total Product Family']
