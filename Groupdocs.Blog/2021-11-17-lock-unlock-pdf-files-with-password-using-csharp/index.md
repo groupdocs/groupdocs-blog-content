@@ -1,5 +1,7 @@
 ---
 title: 'Lock and Unlock PDF Files with Password using C#'
+seoTitle: "Password Protect PDF Files in C# | Lock Unlock PDF"
+description: "Let's learn how to lock PDF files with password protection using C#. Change the existing password or remove it to unlock the PDF files using .NET API."
 date: Wed, 17 Nov 2021 12:28:00 +0000
 draft: false
 url: /2021/11/17/lock-unlock-pdf-files-with-password-using-csharp/

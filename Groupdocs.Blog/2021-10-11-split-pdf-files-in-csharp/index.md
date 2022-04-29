@@ -1,5 +1,7 @@
 ---
-title: 'How to Split PDF Files using C#'
+title: "How to Split PDF Files using C#"
+seoTitle: "Split PDF File into Multiple Files using C# | Split API for .NET"
+description: "Different ways to split PDF files using C#. Separate large PDF files and extract specific pages using different splitting options."
 date: Mon, 11 Oct 2021 04:14:00 +0000
 draft: false
 url: /2021/10/11/split-pdf-files-in-csharp/

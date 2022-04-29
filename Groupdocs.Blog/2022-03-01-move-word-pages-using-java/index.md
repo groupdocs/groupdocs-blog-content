@@ -1,5 +1,7 @@
 ---
 title: 'How to Rearrange Pages in Word using Java'
+seoTitle: "Rearrange Word Pages in Java | Organize DOC/DOCX Pages"
+description: "Reorder the pages of Word files in Java. The running example shows how to change the order of pages in DOC/DOCX files using document automation Java API."
 date: Tue, 01 Mar 2022 06:28:00 +0000
 draft: false
 url: /2022/03/01/move-word-pages-using-java/
@@ -8,8 +10,6 @@ summary: 'Word processing documents are one of the most common file formats that
 tags: ['Move Pages in DOC/DOCX', 'Move Pages in Java', 'Rearrange Document', 'Rearrange Document Pages in Java', 'Rearrange Pages in Java', 'Rearrange pages in Word']
 categories: ['GroupDocs.Merger Product Family']
 ---
-
-
 
 {{< figure align=center src="images/rearrange-word-pages-in-java.jpg" alt="Rearrange Word Pages in Java">}}
 

@@ -1,5 +1,8 @@
 ---
 title: 'Remove Annotations from PDF or Word Documents in Java'
+seoTitle: "Remove Annotations from PDF & Word Documents in Java"
+description: "Programmatically remove annotations from PDF & Word files in Java. Remove all annotations, remove by IDs, or by annotation types using Java Annotation API."
+
 date: Sat, 12 Mar 2022 16:43:18 +0000
 draft: false
 url: /2022/03/12/remove-annotations-from-pdf-or-word-documents-in-java/

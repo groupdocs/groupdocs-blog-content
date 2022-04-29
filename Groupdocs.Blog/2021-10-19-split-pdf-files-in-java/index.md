@@ -1,5 +1,7 @@
 ---
-title: 'Different Ways to Split PDF Files in Java'
+title: "Different Ways to Split PDF Files in Java"
+seoTitle: "Split PDF Files into Multiple Files in Java | Split API for Java"
+description: "Different ways to split PDF files into multiple files in Java. Separate large PDF files and extract specific pages using different splitting options."
 date: Tue, 19 Oct 2021 14:41:58 +0000
 draft: false
 url: /2021/10/19/split-pdf-files-in-java/

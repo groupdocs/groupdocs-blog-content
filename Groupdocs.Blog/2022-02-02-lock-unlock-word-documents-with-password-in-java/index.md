@@ -1,5 +1,7 @@
 ---
 title: 'How to Password Protect and Remove Protection from Word Documents in Java'
+seoTitle: "Password Protect / UnProtect Word Documents in Java | Lock Unlock Files"
+description: "Add passwords to Word documents within Java applications. Change the existing password of protected DOC DOCX files or remove passwords to unlock."
 date: Wed, 02 Feb 2022 08:45:00 +0000
 draft: false
 url: /2022/02/02/lock-unlock-word-documents-with-password-in-java/

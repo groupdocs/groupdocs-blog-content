@@ -1,5 +1,7 @@
 ---
 title: 'Find Homophones in Multiple Files in Java'
+seoTitle: "Find Word and its Homophones in Multiple Files using Java"
+description: "Find specific word and its homophones within different files of a folder using Java. Build application for homophones using document searching Java API."
 date: Thu, 13 Jan 2022 06:28:19 +0000
 draft: false
 url: /2022/01/13/find-homophones-in-multiple-files-using-java/

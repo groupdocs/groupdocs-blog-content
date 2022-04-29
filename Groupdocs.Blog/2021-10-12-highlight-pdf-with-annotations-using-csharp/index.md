@@ -1,5 +1,7 @@
 ---
-title: 'Highlight PDF using Annotations in C#'
+title: "Highlight PDF using Annotations in C#"
+seoTitle: "Highlight PDF with Annotations using C# | Annotate PDF with Highlight"
+description: "Highlight text in PDF with highlight annotations using C#. Document and image annotation .NET API allows to Annotate PDF files by highlighting any area."
 date: Tue, 12 Oct 2021 14:08:00 +0000
 draft: false
 url: /2021/10/12/highlight-pdf-with-annotations-using-csharp/

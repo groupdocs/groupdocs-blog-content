@@ -1,9 +1,11 @@
 ---
+seoTitle: "在 C# 应用程序中更改 Word 文档的页面方向"
 title: "在 C# 中更改 Word 文档的页面方向"
 date: Sun, 10 Apr 2022 14:14:00 +0000
 draft: false
 url: /zh/2022/04/10/change-page-orientation-of-a-word-document-in-csharp/
 author: 'Shoaib Khan'
+description: "使用 C# 更改 Word DOC/DOCX 文档中页面的方向。 使用 GroupDocs 在 .NET 应用程序中将页面设置为纵向或横向。"
 summary: "文档的每一页都可能包含不同的布局。这取决于页面的内容；哪个方向适合它。作为开发人员，我们可以将每个页面的方向更改为适合的方向。在本文中，我们将学习**使用 C#** 更改 Word 文档中页面的方向。另外，我们将看到如何将纵向布局更改为横向，然后如何使用 .NET 应用程序将横向更改为纵向。"
 tags: ['change orientation', 'change page orientation in CSharp', 'how to change the orientation of one page in word', 'how to make one page landscape in word', 'landscape to portrait', 'page orientation', 'portrait to landscape in CSharp']
 categories: ['GroupDocs.Merger Product Family']

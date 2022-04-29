@@ -1,5 +1,7 @@
 ---
 title: 'How to Edit Excel Files using C#'
+seoTitle: "Edit Excel Files in C# | Build your own Online Excel Sheet Editor"
+description: "Editing Excel files is explained with C# examples to edit XLS, XLSX, ODS files within your .NET application using spreadsheet and document editing API."
 date: Sun, 06 Feb 2022 13:45:16 +0000
 draft: false
 url: /2022/02/06/edit-excel-files-in-csharp/

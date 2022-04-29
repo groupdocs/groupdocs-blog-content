@@ -1,8 +1,9 @@
 ---
-title: 'Remove Pages from PDF in Java | Even, Odd, List & Range'
+title: "Remove Pages from PDF in Java"
+seoTitle: "Remove Pages from PDF in Java | Even, Odd, List & Range"
+description: "Remove any set of pages from the PDF files in Java. Delete list of pages, any given range, even or odd pages from PDF files within applications."
 date: Fri, 22 Apr 2022 11:00:00 +0000
 draft: false
-description: 'Remove any set of pages from the PDF files using Java. Delete list of pages, any given range, even or odd pages from PDF files within applications.' 
 url: /2022/04/22/remove-pages-from-pdf-in-java/
 author: 'Shoaib Khan'
 summary: 'When an old document is updated; the outdated, obsolete, or even highly confidential pages are required to be removed from the latest version of the document. In this article, we will learn **how to programmatically remove such pages from the PDF documents in Java**. Further, we will discuss different ways to remove list of pages, pages range, even and odd pages of PDF document.'

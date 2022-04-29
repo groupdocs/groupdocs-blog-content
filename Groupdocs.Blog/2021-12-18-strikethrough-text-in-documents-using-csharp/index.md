@@ -1,5 +1,7 @@
 ---
 title: 'Strikethrough Text in Documents using C#'
+seoTitle: "Strikethrough Text in Documents using C# | C̶r̶o̶s̶s̶ o̶u̶t̶ Text in Word, PDF"
+description: "Use the strikeout annotation to cross out the invalid text within the documents using C#. Automate the document and image annotations with the .NET API."
 date: Sat, 18 Dec 2021 19:10:44 +0000
 draft: false
 url: /2021/12/18/strikethrough-text-in-documents-using-csharp/

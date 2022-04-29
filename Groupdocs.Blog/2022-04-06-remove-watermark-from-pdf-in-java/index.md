@@ -1,5 +1,7 @@
 ---
 title: 'Remove Watermarks from PDF Documents in Java'
+seoTitle: "Remove Watermark from PDF Documents in Java | Watermark Java API"
+description: "Delete or remove watermarks from PDF and other documents in Java. An overview for Java developers to create a watermark removing applications."
 date: Wed, 06 Apr 2022 14:14:00 +0000
 draft: false
 url: /2022/04/06/remove-watermark-from-pdf-in-java/

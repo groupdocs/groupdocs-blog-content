@@ -1,5 +1,7 @@
 ---
 title: 'How to Password Protect and Remove Protection from Word Documents using C#'
+seoTitle: "Password Protect Word Documents in C# | Lock Unlock DOC DOCX"
+description: "C# way to add passwords to Word documents within .NET application. Change the existing password of protected DOC DOCX files or remove passwords to unlock."
 date: Sat, 27 Nov 2021 04:30:16 +0000
 draft: false
 url: /2021/11/27/password-protect-word-documents-using-csharp/

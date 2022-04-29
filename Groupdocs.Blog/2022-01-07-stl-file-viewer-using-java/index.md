@@ -1,5 +1,7 @@
 ---
 title: 'STL File Viewer using Java'
+seoTitle: "STL File Viewer using Java | View STL as PDF, HTML, JPG, PNG"
+description: "View STL files as PDF using Java. Additionally, render the stereolithography (STL) files into HTML, JPG and PNG formats using Java examples."
 date: Fri, 07 Jan 2022 10:49:14 +0000
 draft: false
 url: /2022/01/07/stl-file-viewer-using-java/

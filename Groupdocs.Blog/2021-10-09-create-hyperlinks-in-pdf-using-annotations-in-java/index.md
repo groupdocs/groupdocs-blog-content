@@ -1,5 +1,7 @@
 ---
-title: 'Create Hyperlinks in PDF using Annotations in Java'
+title: "Create Hyperlinks in PDF using Annotations in Java"
+seoTitle: "Create Hyperlinks in PDF using Link Annotations in Java | Annotate PDF"
+description: "Annotate PDF files by creating hyperlinks using link annotations in Java. Document and image annotation Java API allows annotating by linking external data."
 date: Sat, 09 Oct 2021 15:29:53 +0000
 draft: false
 url: /2021/10/09/create-hyperlinks-in-pdf-using-annotations-in-java/

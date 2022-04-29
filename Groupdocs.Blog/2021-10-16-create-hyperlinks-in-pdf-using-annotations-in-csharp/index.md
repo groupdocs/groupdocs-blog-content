@@ -1,5 +1,7 @@
 ---
-title: 'Create Hyperlinks in PDF using Annotations in C#'
+title: "Create Hyperlinks in PDF using Annotations in C#"
+seoTitle: "Create Hyperlinks in PDF using Link Annotations in C# | Annotate PDF"
+description: "Annotate PDF files by creating hyperlinks using link annotations in C#. Document and image annotation .NET API allows annotating by linking external data."
 date: Sat, 16 Oct 2021 01:00:00 +0000
 draft: false
 url: /2021/10/16/create-hyperlinks-in-pdf-using-annotations-in-csharp/

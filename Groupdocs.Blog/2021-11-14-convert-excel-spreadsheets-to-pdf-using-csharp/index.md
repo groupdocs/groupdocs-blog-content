@@ -1,5 +1,7 @@
 ---
 title: 'Convert Excel Spreadsheets to PDF using C#'
+seoTitle: "Convert Excel Spreadheets to PDF using C# | .NET Excel Files Converter"
+description: "Convert Excel files to PDF using C#. Convert full workbook, selected sheets, sub-sequence of sheets, or any cell range using spreadsheet conversion .NET API."
 date: Sun, 14 Nov 2021 17:48:00 +0000
 draft: false
 url: /2021/11/14/convert-excel-spreadsheets-to-pdf-using-csharp/

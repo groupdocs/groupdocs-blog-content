@@ -1,5 +1,7 @@
 ---
-title: 'Redact PDF Scanned Documents in Java'
+title: "Redact PDF Scanned Documents in Java"
+seoTitle: "Redact PDF and Scanned Documents in Java | Blackout Text in PDF"
+description: "Redact text in PDF and other documents using Java in your applications. Redact documents to blackout text and also the text within the embedded images."
 date: Tue, 05 Oct 2021 04:21:00 +0000
 draft: false
 url: /2021/10/05/redact-text-and-scanned-images-using-java/

@@ -1,5 +1,7 @@
 ---
 title: 'Word Search and Replace Text in PDF in Java'
+seoTitle: "Find and Replace Text in PDF in Java | Replace or Hide PDF Text"
+description: "Programmatically find certain text, words, phrases in PDF documents with case sensitivity and RegEx in Java. Replace or hide the text to redact PDF files."
 date: Tue, 08 Mar 2022 10:10:00 +0000
 draft: false
 url: /2022/03/08/find-and-replace-text-in-pdf-in-java/

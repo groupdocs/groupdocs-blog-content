@@ -1,5 +1,7 @@
 ---
-title: 'Search Synonyms in Multiple Files using Java'
+title: "Search Synonyms in Multiple Files using Java"
+seoTitle: "Find any Word and its Synonyms in Multiple Files using Java"
+description: "Find specific word and its synonyms within different files using Java. Similary, get all the synonyms, grouped by different meanings using Java Search API."
 date: Sun, 03 Oct 2021 07:50:04 +0000
 draft: false
 url: /2021/10/03/find-synonyms-in-multiple-files-using-java/

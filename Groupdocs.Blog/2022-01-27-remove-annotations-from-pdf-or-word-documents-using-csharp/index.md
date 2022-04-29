@@ -1,5 +1,7 @@
 ---
 title: 'Remove Annotations from PDF or Word Documents using C#'
+seoTitle: "Remove Annotations from PDF, Word Documents using C#"
+description: "Programmatically remove annotations from PDF and Word files using C#. Remove all annotations, remove by providing IDs, annotation types using .NET API."
 date: Thu, 27 Jan 2022 14:29:00 +0000
 draft: false
 url: /2022/01/27/remove-annotations-from-pdf-or-word-documents-using-csharp/

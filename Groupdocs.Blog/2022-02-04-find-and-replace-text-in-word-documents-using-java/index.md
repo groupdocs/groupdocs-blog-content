@@ -1,5 +1,7 @@
 ---
 title: 'Word Search and Replace Text in Word Documents using Java'
+seoTitle: "Word Search and Replace Text in Word Documents using Java"
+description: "Perform word search, replace or hide text in Word DOC/DOCX files using Java. Redact and perform text, case-sensitive & RegEx search with Java Redaction API."
 date: Fri, 04 Feb 2022 15:24:00 +0000
 draft: false
 url: /2022/02/04/find-and-replace-text-in-word-documents-using-java/

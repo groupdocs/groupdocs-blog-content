@@ -1,5 +1,7 @@
 ---
 title: 'Password Protection of PDF Files in Java'
+seoTitle: "Password Protect PDF Files in Java | Lock Unlock PDF"
+description: "Learn to lock & unlock PDF files with password protection in Java. Change the current password, or remove it within Java applications."
 date: Tue, 07 Dec 2021 07:36:00 +0000
 draft: false
 url: /2021/12/07/password-protect-pdf-files-in-java/

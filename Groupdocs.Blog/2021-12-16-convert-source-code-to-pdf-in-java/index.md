@@ -1,5 +1,7 @@
 ---
 title: 'Convert Source Code to PDF in Java'
+seoTitle: "Convert Source Code to PDF using Java | Python, PHP, Java, CPP, etc"
+description: "Transform source code files to PDF format in Java. Convert Python, Java, PHP, and more programming language files to PDF using document conversion API."
 date: Thu, 16 Dec 2021 16:44:27 +0000
 draft: false
 url: /2021/12/16/convert-source-code-to-pdf-in-java/

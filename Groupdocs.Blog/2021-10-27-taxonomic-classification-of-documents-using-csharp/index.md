@@ -1,5 +1,7 @@
 ---
-title: 'Taxonomic Classification of Documents using C# - (IAB-2 &amp; Document Taxonomy)'
+title: "Taxonomic Classification of Documents using C# - (IAB-2 &amp; Document Taxonomy)"
+seoTitle: "Classify Documents with IAB-2 & Document Taxonomy using C#"
+description: "Taxonomic classification of documents using C# within .NET applications. Classify PDF, Word, & password-protected documents with IAB-2 & document taxonomy."
 date: Wed, 27 Oct 2021 12:24:00 +0000
 draft: false
 url: /2021/10/27/taxonomic-classification-of-documents-using-csharp/

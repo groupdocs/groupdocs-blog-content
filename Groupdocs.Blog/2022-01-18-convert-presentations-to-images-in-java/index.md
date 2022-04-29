@@ -1,5 +1,7 @@
 ---
 title: 'Convert Presentations to Images in Java'
+seoTitle: "Convert Presentations to Images in Java | PPT to JPG | PPT to PNG"
+description: "Convert PowerPoint presentations of PPT/PPTX format to JPG or PNG format in Java. Transform slides to images programmatically using Java conversion API."
 date: Tue, 18 Jan 2022 09:02:01 +0000
 draft: false
 url: /2022/01/18/convert-presentations-to-images-in-java/

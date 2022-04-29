@@ -1,5 +1,7 @@
 ---
 title: 'Convert Presentations to Images using C#'
+seoTitle: "Convert Presentations to Images in C# | PPT to JPG | PPT to PNG"
+description: "Transform your PowerPoint presentations of PPT/PPTX format to JPG or PNG format using C#. Convert presentations to images programmatically using .NET API."
 date: Mon, 10 Jan 2022 04:03:00 +0000
 draft: false
 url: /2022/01/10/convert-presentations-to-images-using-csharp/

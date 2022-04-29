@@ -1,5 +1,7 @@
 ---
 title: 'Convert Source Code to PDF in C#'
+seoTitle: "Convert Source Code to PDF in C# | Python, PHP, Java, CPP, etc"
+description: "Transform source code files to PDF format in C#. Convert Python, Java, PHP, and other programming language files to PDF using document conversion .NET API."
 date: Fri, 03 Dec 2021 17:19:00 +0000
 draft: false
 url: /2021/12/03/convert-source-code-to-pdf-in-csharp/

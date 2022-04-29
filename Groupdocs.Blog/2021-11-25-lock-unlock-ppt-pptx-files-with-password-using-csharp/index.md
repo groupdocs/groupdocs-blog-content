@@ -1,5 +1,7 @@
 ---
 title: 'Lock and Unlock PowerPoint Files with Password using C#'
+seoTitle: "Password Protect PowerPoint Files in C# | Lock Unlock PPT & PPTX"
+description: "How to lock PowerPoint files with passwords using C#. Change the existing password and remove it to unlock the PPT/PPTX files using the .NET API."
 date: Thu, 25 Nov 2021 15:48:29 +0000
 draft: false
 url: /2021/11/25/lock-unlock-ppt-pptx-files-with-password-using-csharp/

@@ -1,5 +1,7 @@
 ---
 title: 'How to Rearrange PDF Pages in Java'
+seoTitle: "Rearrange PDF Pages in Java | Organize with Java API"
+description: "Reorder the pages of PDF files in Java. The running example shows how to correct the sequence of unordered PDF pages within the Java application."
 date: Thu, 10 Mar 2022 14:49:46 +0000
 draft: false
 url: /2022/03/10/move-pdf-pages-in-java/

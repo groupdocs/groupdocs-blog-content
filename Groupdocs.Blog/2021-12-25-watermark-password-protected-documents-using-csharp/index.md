@@ -1,5 +1,7 @@
 ---
 title: 'Watermark Password Protected Documents using C#'
+seoTitle: "Watermark Protected Files using C# | Text & Image Watermarks"
+description: "Add text watermarks and image watermarks to password-protected Word, PDF, PowerPoint, Excel files using C#. Customize watermark appearance using .NET API."
 date: Sat, 25 Dec 2021 07:54:23 +0000
 draft: false
 url: /2021/12/25/watermark-password-protected-documents-using-csharp/

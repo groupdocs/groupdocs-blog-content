@@ -1,5 +1,7 @@
 ---
 title: 'Add or Remove Annotations or Markup PDF files using C#'
+seoTitle: "Add or Remove Annotations | Annotate PDF files using C#"
+description: "Programmatically annotate PDF files in C#. Add or remove annotations like arrows, rectangle, ellipse, highlight, watermark annotations using .NET API."
 date: Tue, 25 Jan 2022 14:15:00 +0000
 draft: false
 url: /2022/01/25/annotate-pdf-files-using-csharp/
