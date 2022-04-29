@@ -1,5 +1,7 @@
 ---
-title: 'Convert CSV to Excel (XLS XLSX) &amp; Vice Versa in Java'
+title: "Convert CSV to Excel (XLS XLSX) &amp; Vice Versa in Java"
+seoTitle: "Convert CSV and Excel Data in Java | CSV to XLS - XLSX to CSV"
+description: "Convert XLS & XLSX to CSV and CSV to Excel formats within Java applications. Automate your files conversion using Java API for document conversion."
 date: Sat, 31 Jul 2021 04:07:00 +0000
 draft: false
 url: /2021/07/31/convert-csv-and-excel-xls-xlsx-in-java/

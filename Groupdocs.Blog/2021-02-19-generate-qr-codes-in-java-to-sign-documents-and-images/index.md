@@ -1,5 +1,7 @@
 ---
-title: 'Generate QR Code in Java to Sign Documents and Images'
+title: "Generate QR Code in Java to Sign Documents and Images"
+seoTitle: "Generate QR Codes in Java | Sign Documents and Images"
+description: "Electronically sign documents and Images by generating QR codes in Java. Add QR Code in Word, Excel, PDF, PNG, JPG, WebP files using API for signatures."
 date: Fri, 19 Feb 2021 11:45:00 +0000
 draft: false
 url: /2021/02/19/generate-qr-codes-in-java-to-sign-documents-and-images/

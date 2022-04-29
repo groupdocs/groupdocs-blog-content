@@ -1,5 +1,7 @@
 ---
-title: 'Find Synonyms of Words using Java'
+title: "Find Synonyms of Words using Java"
+seoTitle: "Find Synonyms of any Word in Java | Synonym Groups by Meanings"
+description: "Find all the possible synonyms of any word in Java. Get different collections of synonyms arranged by different meanings of the same word using Search API."
 date: Thu, 30 Sep 2021 14:17:00 +0000
 draft: false
 url: /2021/09/30/find-synonyms-of-words-using-java/

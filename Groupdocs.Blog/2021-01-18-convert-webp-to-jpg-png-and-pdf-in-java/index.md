@@ -1,5 +1,7 @@
 ---
-title: 'Convert WebP to JPG, PNG, and PDF in Java'
+title: "Convert WebP to JPG, PNG, and PDF in Java"
+seoTitle: "Convert WebP to JPG, PNG, and PDF in Java | Free Online & Java"
+description: "How to convert WebP to JPG, PNG, or PDF in Java using an open-source document conversion API. Convert WebP online for free. Running examples are available."
 date: Mon, 18 Jan 2021 22:52:00 +0000
 draft: false
 url: /2021/01/18/convert-webp-to-jpg-png-and-pdf-in-java/

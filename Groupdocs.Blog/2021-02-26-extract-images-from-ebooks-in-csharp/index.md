@@ -1,5 +1,7 @@
 ---
-title: 'Extract Images from EPUB, FB2, CHM eBooks in C#'
+title: "Extract Images from EPUB, FB2, CHM eBooks in C#"
+seoTitle: "Extract Images from eBooks in C# | EPUB, FB2, CHM"
+description: "Programmatically extract images from EPUB, FB2, CHM eBooks in C# using document parser API for .NET. Save the images in JPG, PNG, WebP, GIF, or BMP format."
 date: Fri, 26 Feb 2021 07:26:57 +0000
 draft: false
 url: /2021/02/26/extract-images-from-ebooks-in-csharp/

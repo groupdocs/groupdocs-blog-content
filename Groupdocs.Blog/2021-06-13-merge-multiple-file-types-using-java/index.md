@@ -1,5 +1,7 @@
 ---
-title: 'Merge Multiple File Types into One using Java'
+title: "Merge Multiple File Types into One using Java"
+seoTitle: "Merge Multiple File Types into One File using Java | PDF, DOC, XLS, PPT"
+description: "Combine two or more documents of different file formats into one single file in Java. Automate merging PDF Word Excel PPT into PDF with Document Merger API."
 date: Sun, 13 Jun 2021 05:49:00 +0000
 draft: false
 url: /2021/06/13/merge-multiple-file-types-using-java/

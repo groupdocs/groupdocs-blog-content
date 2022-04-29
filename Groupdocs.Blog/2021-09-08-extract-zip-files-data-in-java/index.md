@@ -1,5 +1,7 @@
 ---
-title: 'Extract ZIP Files Data in Java'
+title: "Extract ZIP Files Data in Java"
+seoTitle: "Extract ZIP Archives Data using Java | Extract Text and Images"
+description: "Extract ZIP files data using document parsing Java API. Parse archives and extract whole text and images within the enclosed files in Java."
 date: Wed, 08 Sep 2021 13:14:00 +0000
 draft: false
 url: /2021/09/08/extract-zip-files-data-in-java/

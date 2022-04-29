@@ -1,5 +1,7 @@
 ---
-title: 'Extract Data from Invoices and Receipts in Java'
+title: "Extract Data from Invoices and Receipts in Java"
+seoTitle: "Extract Data from Invoices or Receipts in Java | Parse PDF"
+description: "Extract Invoice data from PDF invoices or receipts programmatically in Java. Document parsing & data extraction API by GroupDocs supports various formats."
 date: Fri, 22 Jan 2021 16:48:00 +0000
 draft: false
 url: /2021/01/22/extract-data-from-invoices-or-receipts-in-java/

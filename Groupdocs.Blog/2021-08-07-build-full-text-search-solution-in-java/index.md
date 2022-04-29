@@ -1,5 +1,7 @@
 ---
-title: 'Build Full-Text Search Solution in Java'
+title: "Build Full-Text Search Solution in Java"
+seoTitle: "Build Full Text Search Solution in Java | Find in Files and Folders"
+description: "Full-text search API for Java applications to search via indexing. Find text in multiple Word, Excel, PDF, TXT files of a folder & highlight search results."
 date: Sat, 07 Aug 2021 08:09:00 +0000
 draft: false
 url: /2021/08/07/build-full-text-search-solution-in-java/

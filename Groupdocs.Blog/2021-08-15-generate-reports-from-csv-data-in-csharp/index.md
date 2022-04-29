@@ -1,5 +1,7 @@
 ---
-title: 'Generate Reports from CSV Data using C#'
+title: "Generate Reports from CSV Data using C#"
+seoTitle: "PDF & Word Reports from CSV Data using C# | .NET Reporting API"
+description: "Convert CSV to PDF & Word formats with templates using C#. Automate PDF & DOC/DOCX reports generation using .NET Reporting API by GroupDocs."
 date: Sun, 15 Aug 2021 10:50:32 +0000
 draft: false
 url: /2021/08/15/generate-reports-from-csv-data-in-csharp/

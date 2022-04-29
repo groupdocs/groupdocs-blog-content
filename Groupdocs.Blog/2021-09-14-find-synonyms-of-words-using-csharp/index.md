@@ -1,5 +1,7 @@
 ---
-title: 'Find Synonyms of Words using C#'
+title: "Find Synonyms of Words using C#"
+seoTitle: "Find Synonyms of any Word using C# | Synonym Groups by Meanings"
+description: "Find all the possible synonyms of any word in C# using .NET API. Get different collections of synonyms arranged by different meanings of the same word."
 date: Tue, 14 Sep 2021 13:40:00 +0000
 draft: false
 url: /2021/09/14/find-synonyms-of-words-using-csharp/

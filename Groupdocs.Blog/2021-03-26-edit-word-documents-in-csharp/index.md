@@ -1,5 +1,7 @@
 ---
-title: 'Edit Word Documents in C#'
+title: "Edit Word Documents in C#"
+seoTitle: "Edit Word Documents in C# | Build your own .NET Word Editor"
+description: "Editing Word documents is explained with C# examples to edit DOC, DOCX, ODT files within your .NET application using document editing API."
 date: Fri, 26 Mar 2021 09:42:00 +0000
 draft: false
 url: /2021/03/26/edit-word-documents-in-csharp/

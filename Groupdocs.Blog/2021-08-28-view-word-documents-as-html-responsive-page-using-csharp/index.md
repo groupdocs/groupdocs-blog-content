@@ -1,5 +1,7 @@
 ---
-title: 'View Word Documents as HTML Responsive Page using C#'
+title: "View Word Documents as HTML Responsive Page using C#"
+seoTitle: "Word Document as HTML Responsive Pages using C# | HTML Viewer"
+description: "Render Word documents to view as responsive HTML pages using C#. Convert DOC, DOCX files to HTML responsive pages using document viewer .NET API."
 date: Sat, 28 Aug 2021 12:35:45 +0000
 draft: false
 url: /2021/08/28/view-word-documents-as-html-responsive-page-using-csharp/

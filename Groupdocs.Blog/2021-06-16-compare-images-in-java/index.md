@@ -1,5 +1,7 @@
 ---
-title: 'Image Comparison in Java to Spot the Differences'
+title: "Image Comparison in Java to Spot the Differences"
+seoTitle: "Compare Images in Java to Highlight Differences | Photo Comparison"
+description: "Programmatically compare your photos and images in Java. Image comparison of JPG, PNG, GIF, BMP, DICOM and other images within your Java applications."
 date: Wed, 16 Jun 2021 14:07:12 +0000
 draft: false
 url: /2021/06/16/compare-images-in-java/

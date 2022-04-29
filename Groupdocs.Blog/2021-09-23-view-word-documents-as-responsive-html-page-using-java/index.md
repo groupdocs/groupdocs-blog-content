@@ -1,5 +1,7 @@
 ---
-title: 'View Word Documents as Responsive HTML Page using Java'
+title: "View Word Documents as Responsive HTML Page using Java"
+seoTitle: "Word Documents as HTML Responsive Pages in Java | HTML Viewer"
+description: "Render Word documents to view as responsive HTML pages in Java. Convert DOC, DOCX files to HTML responsive pages using document viewer Java API."
 date: Thu, 23 Sep 2021 10:31:47 +0000
 draft: false
 url: /2021/09/23/view-word-documents-as-responsive-html-page-using-java/

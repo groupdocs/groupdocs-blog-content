@@ -1,5 +1,7 @@
 ---
-title: 'GroupDocs.Total Discount Offer Ends January 31st'
+title: "GroupDocs.Total Discount Offer Ends January 31st"
+seoTitle: "Discount Offer on GroupDocs.Total Ending Soon | .NET & Java APIs"
+description: "Complete set of .NET & Java APIs in 25% Off. Use "HOLOFF2020" coupon code to get GroupDocs.Total - The complete collection of APIs for document manipulation."
 date: Fri, 01 Jan 2021 00:00:00 +0000
 draft: false
 url: /2021/01/01/groupdocs-discount-offer-ends-soon/

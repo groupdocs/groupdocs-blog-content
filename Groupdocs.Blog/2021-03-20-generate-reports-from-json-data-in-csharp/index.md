@@ -1,5 +1,7 @@
 ---
-title: 'Generate Reports from JSON Data in C#'
+title: "Generate Reports from JSON Data in C#"
+seoTitle: "Generate PDF and Word Reports from JSON Data in C#"
+description: "Programmatically generate reports by converting JSON to PDF & Word using templates in C#. Automate PDF & DOCX reports using .NET API."
 date: Sat, 20 Mar 2021 10:45:45 +0000
 draft: false
 url: /2021/03/20/generate-reports-from-json-data-in-csharp/

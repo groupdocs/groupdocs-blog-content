@@ -1,5 +1,7 @@
 ---
-title: 'Generate QR Code in C# to Sign Documents and Images'
+title: "Generate QR Code in C# to Sign Documents and Images"
+seoTitle: "Generate QR Codes in C# | Sign Documents and Images"
+description: "Electronically sign documents and Images by generating QR codes in C# and attach these to Word, Excel, PDF, PNG, JPG, WebP files using .NET Signature API."
 date: Wed, 27 Jan 2021 22:39:00 +0000
 draft: false
 url: /2021/01/27/generate-qr-codes-in-csharp-to-sign-documents-and-images/

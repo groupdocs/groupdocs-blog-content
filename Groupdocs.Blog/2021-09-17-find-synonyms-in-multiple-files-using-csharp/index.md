@@ -1,5 +1,7 @@
 ---
-title: 'Search Synonyms in Multiple Files using C#'
+title: "Search Synonyms in Multiple Files using C#"
+seoTitle: "Find any Word and its Synonyms in Multiple Files using C#"
+description: "Find specific words and their synonyms within different files of a folder using C#. Get all the synonyms, grouped by different meanings using .NET API."
 date: Fri, 17 Sep 2021 10:57:00 +0000
 draft: false
 url: /2021/09/17/find-synonyms-in-multiple-files-using-csharp/

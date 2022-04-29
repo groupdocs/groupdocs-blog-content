@@ -1,5 +1,7 @@
 ---
-title: 'Generate Barcode in Java – Add Barcode to Documents and Images'
+title: "Generate Barcode in Java – Add Barcode to Documents and Images"
+seoTitle: "Generate Barcode in Java | Add Barcodes to Documents & Images"
+description: "Generate barcodes in Java and electronically sign documents & Images by adding barcodes to Word, Excel, PDF, PNG, JPG, WebP files with Java e-Signing API."
 date: Wed, 11 Aug 2021 17:05:00 +0000
 draft: false
 url: /2021/08/11/generate-barcode-in-java-to-sign-documents-and-images/

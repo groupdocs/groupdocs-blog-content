@@ -1,5 +1,7 @@
 ---
-title: 'Redact PDF Scanned Documents in C#'
+title: "Redact PDF Scanned Documents in C#"
+seoTitle: "Redact PDF and Scanned Documents in C# | Blackout Text in PDF"
+description: "Redact text in PDF and other documents using C# in your .NET applications. Redact documents to blackout text and also the text within the embedded images."
 date: Sat, 25 Sep 2021 09:31:01 +0000
 draft: false
 url: /2021/09/25/redact-text-and-scanned-images-using-csharp/

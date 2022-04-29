@@ -1,5 +1,7 @@
 ---
-title: 'Convert Documents to Excel XLS, XLSX in Java'
+title: "Convert Documents to Excel XLS, XLSX in Java"
+seoTitle: "Convert to Spreadsheet in Java | PDF to Excel | Word to XLS XLSX"
+description: "Convert DOC, DOCX to Excel (XLS, XLSX) or convert PDF to Excel spreadsheet in Java using document conversion Java API. Build your own Conversion App."
 date: Sat, 22 May 2021 18:39:23 +0000
 draft: false
 url: /2021/05/22/convert-documents-to-excel-xls-xlsx-in-java/

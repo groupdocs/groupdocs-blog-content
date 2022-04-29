@@ -1,5 +1,7 @@
 ---
-title: 'Play and Pause Animated GIF and APNG Images in Web Pages using C#'
+title: "Play and Pause Animated GIF and APNG Images in Web Pages using C#"
+seoTitle: "Play and Pause Animated GIF and APNG Images using C#"
+description: "Programmatically render animated GIF and APNG images to HTML web page in C# with play and pause feature. Build your own animation viewer using .NET."
 date: Sun, 28 Feb 2021 12:52:00 +0000
 draft: false
 url: /2021/02/28/play-pause-animated-gif-and-apng-in-web-pages-using-csharp/

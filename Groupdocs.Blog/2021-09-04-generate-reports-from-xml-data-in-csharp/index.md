@@ -1,5 +1,7 @@
 ---
-title: 'Generate Reports from XML Data in C#'
+title: "Generate Reports from XML Data in C#"
+seoTitle: "PDF & Word Reports from XML in C# | XML to PDF and DOCX"
+description: "Automate reports generation in C# by converting XML data into PDF & DOC/DOCX via text-based templates using .NET API by GroupDocs."
 date: Sat, 04 Sep 2021 17:18:55 +0000
 draft: false
 url: /2021/09/04/generate-reports-from-xml-data-in-csharp/
