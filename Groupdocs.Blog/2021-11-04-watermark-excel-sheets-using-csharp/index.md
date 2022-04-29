@@ -1,5 +1,7 @@
 ---
 title: 'Watermark Excel Sheets using C#'
+seoTitle: "Add Watermark to Excel Workbooks using C# | Text Watermarks"
+description: "Insert watermarks into Excel workbooks using C#. Watermark all sheets or insert watermark to just specific sheet even as background using .NET API."
 date: Thu, 04 Nov 2021 18:46:00 +0000
 draft: false
 url: /2021/11/04/watermark-excel-sheets-using-csharp/

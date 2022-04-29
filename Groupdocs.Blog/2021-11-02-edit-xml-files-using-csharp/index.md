@@ -1,5 +1,7 @@
 ---
 title: 'Edit XML Files using C#'
+seoTitle: "How to Edit XML Files using C# | XML Editing .NET API"
+description: "Edit or update your XML data programmatically within your .NET applications using C#. Modify XML files and save the changes in various formats."
 date: Tue, 02 Nov 2021 13:18:00 +0000
 draft: false
 url: /2021/11/02/edit-xml-files-using-csharp/

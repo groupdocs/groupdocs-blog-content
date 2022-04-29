@@ -1,5 +1,7 @@
 ---
 title: 'Compare PDF Documents using C# - Highlight, Accept or Reject Changes'
+seoTitle: "Compare PDF Files using C# | Highlight, Accept or Reject Changes"
+description: "Compare two or more PDF files in C# using document Comparison API for .NET. Highlight the differences and accept/reject changes even if password-protected."
 date: Fri, 10 Dec 2021 10:20:37 +0000
 draft: false
 url: /2021/12/10/compare-pdf-documents-using-csharp/

@@ -1,5 +1,7 @@
 ---
 title: 'Watermark Password Protected Documents in Java'
+seoTitle: "Watermark Protected Files in Java | Text & Image Watermarks"
+description: "Use Java API to add text & image watermark to password-protected Word, PDF, PowerPoint, Excel files. Customize watermark appearance using GroupDocs API."
 date: Fri, 26 Nov 2021 09:36:00 +0000
 draft: false
 url: /2021/11/26/watermark-password-protected-documents-in-java/

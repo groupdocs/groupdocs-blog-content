@@ -1,5 +1,7 @@
 ---
 title: 'Strikethrough Text in Documents using Java'
+seoTitle: "Strikethrough Text in Documents in Java | C̶r̶o̶s̶s̶ o̶u̶t̶ Text in Word, PDF"
+description: "Let's strikeout the text within documents using Java. Automate the crossing out of invalid text using strikethrough annotation with Java API."
 date: Mon, 06 Dec 2021 07:19:00 +0000
 draft: false
 url: /2021/12/06/strikethrough-text-in-documents-using-java/

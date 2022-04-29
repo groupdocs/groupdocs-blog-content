@@ -1,5 +1,7 @@
 ---
 title: 'Convert Excel Spreadsheets to PDF in Java'
+seoTitle: "Convert Excel Spreadheets to PDF in Java | Excel Files Java Converter"
+description: "Convert Excel files to PDF in Java. Convert compelete workbook, selected or successive sheets or any cell range using spreadsheet conversion Java API."
 date: Sun, 21 Nov 2021 07:32:11 +0000
 draft: false
 url: /2021/11/21/convert-excel-spreadsheets-to-pdf-in-java/

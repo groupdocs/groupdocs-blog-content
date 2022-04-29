@@ -1,5 +1,7 @@
 ---
-title: 'Taxonomic Classification of Raw Text using C# - (IAB-2 &amp; Document Taxonomy)'
+title: "Taxonomic Classification of Raw Text using C# - (IAB-2 &amp; Document Taxonomy)"
+seoTitle: "Classify Text with IAB-2 & Document Taxonomies using C#"
+description: "Taxonomic classification of documents using C# within .NET applications. Classify the text with IAB-2 or Documents taxonomies using classification API."
 date: Sun, 31 Oct 2021 10:22:00 +0000
 draft: false
 url: /2021/10/31/taxonomic-classification-of-text-using-csharp/

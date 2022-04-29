@@ -1,5 +1,7 @@
 ---
 title: 'Watermark Excel Sheets in Java'
+seoTitle: "Add Watermark to Excel Workbooks in Java | Text Watermarks"
+description: "Insert watermarks into Excel workbooks using Java. Watermark all sheets or apply it to just specific sheet even as background using watermark Java API."
 date: Wed, 10 Nov 2021 14:04:00 +0000
 draft: false
 url: /2021/11/10/watermark-excel-sheets-in-java/

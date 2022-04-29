@@ -1,5 +1,7 @@
 ---
 title: 'STL File Viewer using C#'
+seoTitle: "STL File Viewer using C# | View STL as PDF, HTML, JPG, PNG"
+description: "View STL files as PDF using C#. Further render the stereolithography (STL) files into HTML, JPG and PNG formats within .NET applications."
 date: Tue, 28 Dec 2021 11:00:00 +0000
 draft: false
 url: /2021/12/28/stl-file-viewer-using-csharp/

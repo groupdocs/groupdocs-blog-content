@@ -1,5 +1,7 @@
 ---
 title: 'Edit XML Files in Java'
+seoTitle: "How to Edit XML Files in Java | Java API for XML Editing"
+description: "Edit or update XML data within your Java applications. Modify XML files and save the changes in various formats using Editing Java API ."
 date: Sat, 06 Nov 2021 10:28:27 +0000
 draft: false
 url: /2021/11/06/edit-xml-files-in-java/

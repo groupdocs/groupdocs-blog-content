@@ -1,5 +1,7 @@
 ---
-title: 'Highlight PDF using Annotations in Java'
+title: "Highlight PDF using Annotations in Java"
+seoTitle: "Highlight PDF using Annotations in Java | Annotate PDF with Highlight"
+description: "Highlight text in PDF with highlight annotations using Java. Document and image annotation Java API allows to Annotate PDF files by highlighting any area."
 date: Thu, 07 Oct 2021 10:35:00 +0000
 draft: false
 url: /2021/10/07/highlight-pdf-using-annotations-in-java/

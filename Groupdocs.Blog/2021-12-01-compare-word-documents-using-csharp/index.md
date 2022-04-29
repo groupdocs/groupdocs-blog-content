@@ -1,5 +1,7 @@
 ---
 title: 'Compare Word Documents using C#'
+seoTitle: "Compare Word Documents using C# with .NET Comparison Library"
+description: "Compare two or more Word documents using Comparison API for .NET. Highlight differences & accept/reject changes in C# even for password-protected documents."
 date: Wed, 01 Dec 2021 09:58:00 +0000
 draft: false
 url: /2021/12/01/compare-word-documents-using-csharp/

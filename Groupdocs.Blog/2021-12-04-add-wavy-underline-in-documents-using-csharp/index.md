@@ -1,5 +1,7 @@
 ---
 title: 'Add Wavy Underline in Word, PDF &amp; Other Documents using C#'
+seoTitle: "Add Wavy Underline in Word, PDF, PPT using C# | Squiggly Annotation"
+description: "Insert different colored wavy underlines in Word, PDF, and other documents using C#. Add squiggly annotation in documents within the .NET applications."
 date: Sat, 04 Dec 2021 15:37:01 +0000
 draft: false
 url: /2021/12/04/add-wavy-underline-in-documents-using-csharp/
