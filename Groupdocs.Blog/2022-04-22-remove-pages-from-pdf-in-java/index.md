@@ -34,6 +34,7 @@ Get the library from the [downloads section][3]. For your Maven-based Java appli
 	<name>GroupDocs Java API</name>
 	<url>http://repository.groupdocs.com/repo/</url>
 </repository>
+
 <dependency>
         <groupId>com.groupdocs</groupId>
         <artifactId>groupdocs-merger</artifactId>
