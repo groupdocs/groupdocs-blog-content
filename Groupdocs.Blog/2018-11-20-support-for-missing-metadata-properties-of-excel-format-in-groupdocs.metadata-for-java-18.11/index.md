@@ -5,8 +5,8 @@ draft: false
 url: /2018/11/20/support-for-missing-metadata-properties-of-excel-format-in-groupdocs.metadata-for-java-18.11/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata for Java', 'GroupDocs.Metadata for Java Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata', 'GroupDocs.Metadata for Java', 'GroupDocs.Metadata for Java Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/12/groupdocs-metadata-java.png "GroupDocs-Metadata-theme-100x100")We are glad to announce the monthly releaseof [GroupDocs.Metadata for Java](https://products.groupdocs.com/metadata/java) **18.11**. The latest version supports missing metadata properties of Excel format and allows working with FLV file format's metadata. Furthermore, memory consumption is now reduced for working with PDF and Excel file formats. We recommend you to [install](https://artifact.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-metadata/maven-metadata.xml) and use the latest version of the API.
@@ -34,6 +34,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) – Technical support forum for GroupDocs.Metadata product family
 
 ## FeedbackWe always love to hear your valuable feedback. Share your suggestions, questions, or queries related to GroupDocs.Metadata for Java at our [forum](https://forum.groupdocs.com/c/metadata).
+
 
 
 

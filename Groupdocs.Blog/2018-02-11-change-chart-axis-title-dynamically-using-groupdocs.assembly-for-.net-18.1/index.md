@@ -5,8 +5,8 @@ draft: false
 url: /2018/02/11/change-chart-axis-title-dynamically-using-groupdocs.assembly-for-.net-18.1/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['assembly for .net library', 'document assembly']
-categories: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly Product Family']
+tags: ['assembly for .net library', 'document assembly', 'GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-assembly-net.png)At [GroupDocs](https://www.groupdocs.com/) we keep on updating our API's for better user experience. In this regard, we are proudly announcing the monthly release of [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net) **18.1**. Using the latest version, you can now change **chart axis title dynamically** in the spreadsheet,  presentation, and email documents. We recommend you to [download](https://downloads.groupdocs.com/assembly/net) and use the latest version of API.
@@ -29,6 +29,7 @@ categories: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Release
 *   [Product Support Forum ](https://forum.groupdocs.com/c/assembly "GroupDocs.Assembly for .NET Support forum")\- Technical Support Forum for GroupDocs.Assembly
 
 ## FeedbackWe will be happy to know your thoughts and we will try to enhance your experience with the **GroupDocs.Assembly for .NET API**. Just create a [forum thread](https://forum.groupdocs.com/c/assembly "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

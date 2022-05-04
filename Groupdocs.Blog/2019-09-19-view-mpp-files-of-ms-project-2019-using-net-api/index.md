@@ -5,8 +5,8 @@ draft: false
 url: /2019/09/19/view-mpp-files-of-ms-project-2019-using-net-api/
 author: 'Usman Aziz'
 summary: ''
-tags: ['MPP Viewer']
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['MPP Viewer', 'GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 
@@ -39,6 +39,7 @@ Not only this, but you can also avail the following bug fixes after upgrading to
 So if you are interested in getting the above-mentioned features and fixes, just [download](https://downloads.groupdocs.com/viewer/net/new-releases/-groupdocs.viewer-for-.net-19.9/) and integrate GroupDocs.Viewer for .NET 19.9 in your application. If you haven't used the API before, have a look at the [documentation](https://docs.groupdocs.com/display/viewernet/Home) of the API. In order to evaluate API features, download or clone the examples project from [GitHub repository](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET).
 
 As always, do write to us on our [forum](https://forum.groupdocs.com/categories) in case you would have any questions or queries.
+
 
 
 

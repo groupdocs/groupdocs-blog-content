@@ -5,7 +5,8 @@ draft: false
 url: /2015/02/23/groupdocs-viewer-for-net-library-version-2-8-0-new-page-layout-smoother-scrolling-enhanced-document-sharing-security/
 author: 'Denis Gvardionov'
 summary: ''
-tags: ['.net library', 'GroupDocs Viewer', 'release notes', 'zArchive']
+tags: ['.net library', 'release notes', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs.Viewer for .NET](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/04/GD_VWR_NETIcon_114.png)](https://docs.groupdocs.com/viewer/net)Recently we’ve updated our [GroupDocs.Viewer for .NET library](https://docs.groupdocs.com/viewer/net) up to the version 2.8.0. In this post I’d like to discover some of the most remarkable updates implemented in this latest version:
@@ -49,6 +50,7 @@ The default localization is **en-US**. You can change it to any other from the l
 *   Numerous code optimizations and bug fixes.
 
 The new version of the GroupDocs.Viewer for .NET library is already available in our files archive, so you are welcome to [download it](http://groupdocs.com/Community/getting-started/dot-net/document-viewer-library.aspx), test it and report any issues or suggestions in our [forum](http://groupdocs.com/Community/forums/groupdocs.viewer-product-family/4/showforum.aspx).
+
 
 
 

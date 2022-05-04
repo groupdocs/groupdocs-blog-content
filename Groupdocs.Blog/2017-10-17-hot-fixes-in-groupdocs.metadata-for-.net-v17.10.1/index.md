@@ -5,8 +5,8 @@ draft: false
 url: /2017/10/17/hot-fixes-in-groupdocs.metadata-for-.net-v17.10.1/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")GroupDocs team is proudly announcing the release of version **17.10.1** of the [**GroupDocs.Metadata for .NET**](http://www.groupdocs.com/products/metadata/net) API. Based on our customer's feedback provided on our [public forums](https://forum.groupdocs.com/c/metadata), we have fixed number of bugs in this hotfix release. We recommend you to [download](https://downloads.groupdocs.com/metadata/net/new-releases/groupdocs.metadata-for-.net-17.10.1/) or update your applications to use the latest version of the API for a better and smoother experience.
@@ -35,6 +35,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 *   As always, if you have some questions, queries or suggestions about [GroupDocs.Metadata](http://www.groupdocs.com/products/metadata/net ".NET Metadata API") for .NET API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/metadata).
+
 
 
 

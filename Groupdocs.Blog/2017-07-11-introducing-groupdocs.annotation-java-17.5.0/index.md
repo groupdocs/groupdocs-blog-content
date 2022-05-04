@@ -5,8 +5,8 @@ draft: false
 url: /2017/07/11/introducing-groupdocs.annotation-java-17.5.0/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for Java']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 [![Logo Image](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/12/groupdocs-annotation-java.png)](http://www.groupdocs.com/products/annotation/java)We are pleased to announce the release of [GroupDocs.Annotation for Java 17.5.0](https://downloads.groupdocs.com/annotation/java). This release comes with multitude of new features, improvements and bug fixes. Some new image formats are introduced such as EMF/WMF and CAD. Furthermore, importing annotations from Word documents is improved and exporting the repeated reply comments issue (Export to MS-Word) is resolved. For further information, please see [release notes](https://docs.groupdocs.com/display/annotationjava/GroupDocs.Annotation+for+Java+17.5.0+Release+Notes). We'd recommend you to fetch latest release of the API, integrate it in your project and share your valuable feedback.
@@ -47,6 +47,7 @@ categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Fami
 *   [Product Support Forum](http://groupdocs.com/Community/forums/groupdocs.annotation-product-family/5/showforum.aspx "Support forum") - Technical Support Forum for GroupDocs.Annotation
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.annotation-product-family/5/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

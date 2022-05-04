@@ -7,7 +7,7 @@ url: /fr/2022/04/22/remove-pages-from-pdf-in-java/
 author: 'Shoaib Khan'
 summary: "Lorsqu'un ancien document est mis à jour ; les pages obsolètes, obsolètes ou même hautement confidentielles doivent être supprimées de la dernière version du document. Dans cet article, nous allons apprendre **comment supprimer par programmation de telles pages des documents PDF en Java**. De plus, nous discuterons des différentes façons de supprimer la liste des pages, la plage de pages, les pages paires et impaires du document PDF."
 tags: ['delete pages', 'delete pages in java', 'remove pages', 'remove pages in java', 'delete pages from pdf in java']
-categories: ['GroupDocs.Merger Product Solution']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 Lorsqu'un ancien document est mis à jour ; les pages obsolètes, obsolètes ou même hautement confidentielles doivent être supprimées de la dernière version du document. Dans cet article, nous allons apprendre **comment supprimer par programmation de telles pages des documents PDF en Java**. De plus, nous discuterons des différentes façons de supprimer la liste des pages, la plage de pages, les pages paires et impaires du document PDF.

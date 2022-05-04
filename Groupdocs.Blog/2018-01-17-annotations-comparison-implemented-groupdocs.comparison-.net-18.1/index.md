@@ -5,8 +5,8 @@ draft: false
 url: /2018/01/17/annotations-comparison-implemented-groupdocs.comparison-.net-18.1/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-comparison-net.png)](https://www.groupdocs.com/products/comparison/net)Another monthly release of [GroupDocs.Comparison for .NET 18.1](https://products.groupdocs.com/comparison/net "Document Comparison API ") in on-board and ready for download. This release covers a new feature and some improvements. API allows annotations comparison and improvements like public bool property **LicenseChecker**, page mapper for PDF and comparison of table are intorduced. You can follow release notes [here](https://docs.groupdocs.com/display/comparisonnet/GroupDocs.Comparison+for+.NET+18.1+Release+Notes). We'd recommend you to download latest version of the API and share your document comparison experience.
@@ -38,6 +38,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 You are always welcome to share your feedback and suggestions to improve this product, we take it very seriously and try to incorporate it as much as its possible for upcoming releases . We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/comparison) and our dedicated support team will be there to respond.
+
 
 
 

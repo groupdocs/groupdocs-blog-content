@@ -5,8 +5,8 @@ draft: false
 url: /2017/11/16/dynamic-insertion-of-images-and-barcode-using-groupdocs.assembly-for-.net-v17.11/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['.NET Reporting API', 'Document Generation API for .NET', 'Report Generation API for .NET', 'Reporting API for .NET']
-categories: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly Product Family']
+tags: ['.NET Reporting API', 'Document Generation API for .NET', 'Report Generation API for .NET', 'Reporting API for .NET', 'GroupDocs.Assembly for .NET']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-assembly-net.png)Team [GroupDocs](https://www.groupdocs.com/) is really glad to announce the release of **version** **17.11** of the [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net) API. You can now insert images and barcodes in email formats and remove selective chart series dynamically. Furthermore, new identifiers for barcodes are introduced in this new release. For a better experience with the API, we recommend you to [download](https://downloads.groupdocs.com/assembly/net) the latest release and try out the new features introduced in GroupDocs.Assembly for .NET.
@@ -37,6 +37,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 We observe your feedback carefully, please share your feedback about **GroupDocs.Assembly for .NET API**. We will be happy to know your thoughts and we will try to enhance your experience with the API. Just create a [forum thread](https://forum.groupdocs.com/c/assembly "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

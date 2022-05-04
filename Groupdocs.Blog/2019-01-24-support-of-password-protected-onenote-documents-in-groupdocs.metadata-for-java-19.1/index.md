@@ -5,8 +5,8 @@ draft: false
 url: /2019/01/24/support-of-password-protected-onenote-documents-in-groupdocs.metadata-for-java-19.1/
 author: 'Usman Aziz'
 summary: ''
-tags: ['document-metadata', 'extract metadata', 'metadata API for Java', 'metadata extraction API for Java', 'metadata extractor']
-categories: ['GroupDocs.Metadata for Java Releases', 'GroupDocs.Metadata Product Family']
+tags: ['document-metadata', 'extract metadata', 'metadata API for Java', 'metadata extraction API for Java', 'metadata extractor', 'GroupDocs.Metadata for Java Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/12/groupdocs-metadata-java.png "GroupDocs.Metadata for Java")We are glad to announce the monthly release of [GroupDocs.Metadata for Java 19.1](https://products.groupdocs.com/metadata/java). In this version, we have introduced two new features and added seven enhancements. Using the latest version, you can extract metadata from Matroska Multimedia Container (.MKV) files. Furthermore, the latest version allows you to extract metadata from password-protected OneNote documents. Please have a look at the [release notes](https://docs.groupdocs.com/display/metadatajava/GroupDocs.Metadata+for+java+19.1+Release+Notes) for more details.
@@ -50,6 +50,7 @@ For working examples on how to reduce memory consumption, please visit [this](ht
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) – Technical support forum for GroupDocs.Metadata for Java
 
 ## FeedbackWe always love to hear your valuable feedback. Share your suggestions, questions, or queries related to GroupDocs.Metadata for Java at our [forum](https://forum.groupdocs.com/c/metadata).
+
 
 
 

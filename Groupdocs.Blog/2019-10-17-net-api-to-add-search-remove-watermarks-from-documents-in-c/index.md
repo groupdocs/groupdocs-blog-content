@@ -5,8 +5,8 @@ draft: false
 url: /2019/10/17/net-api-to-add-search-remove-watermarks-from-documents-in-c/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Document Watermarking']
-categories: ['GroupDocs.Watermark for .NET Release', 'GroupDocs.Watermark Product Family']
+tags: ['Document Watermarking', 'GroupDocs.Watermark for .NET Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 
@@ -78,6 +78,7 @@ The following code samples show how to get document information from the local f
 {{< gist GroupDocsGists 50d5bd1274a6564091e4e1ee221526be "GetDocumentInfoNew.cs" >}}
 
 For more details, please have a look at the [migration notes](https://docs.groupdocs.com/display/watermarknet/Migration+Notes). Visit the [release notes](https://docs.groupdocs.com/display/watermarknet/GroupDocs.Watermark+for+.NET+19.10+Release+Notes) of v19.10 to see all the changes in the public API. You can download or clone the [examples](https://github.com/groupdocs-watermark/GroupDocs.Watermark-for-.NET) project from GitHub to evaluate each feature of the API. In case you would have any question or querie, you can raise it via our [forum](https://forum.groupdocs.com/c/watermark).
+
 
 
 

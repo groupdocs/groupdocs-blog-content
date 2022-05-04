@@ -5,8 +5,8 @@ draft: false
 url: /2016/07/04/releasing-groupdocs-assembly-net-3-1-0-new-features-enhancements/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly Product Family']
+tags: ['GroupDocs.Assembly for .NET Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [](http://groupdocs.com/dot-net/document-assembly-library)
@@ -33,6 +33,7 @@ At [GroupDocs](http://www.groupdocs.com "GroupDocs"), we are always keen to impr
 *   [Product Support Forum ](http://groupdocs.com/Community/forums/groupdocs.assembly-product-family/8/showforum.aspx "GroupDocs.Assembly for .NET Support forum")\- Technical Support Forum for GroupDocs.Assembly
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this **Document Generation API**. We will be happy to know your thoughts. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.assembly-product-family/8/showforum.aspx "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2016/09/19/search-api-net-released-1-2/
 author: 'Noman Ullah'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)[GroupDocs.Search for .NET](http://www.groupdocs.com/products/search/net "GroupDocs.Search") API version 1.2 is available now with support of more Microsoft Word, Excel and PowerPoint formats. There is enhancement in Search API in form of user warnings with not supported seach settings in Fuzzy search, Regular expression and Synonym search. Some more enhancements in similarity level setting for Fuzzy search and total hit count for search results in this release.
@@ -36,6 +36,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 For any of your suggestions, questions and queries for improving the [Search API](http://www.groupdocs.com/products/search/net "Search API"), we will be happy to know about your thoughts. Create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your feedback.
+
 
 
 

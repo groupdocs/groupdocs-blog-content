@@ -5,8 +5,8 @@ draft: false
 url: /2019/07/05/get-image-representation-of-a-document/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Merger for Java', 'GroupDocs.Merger Product Family']
+tags: ['GroupDocs.Merger for Java']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 Did you ever wish to get image representation of a document? GroupDocs.Merger for Java [19.6](https://docs.groupdocs.com/display/mergerjava/GroupDocs.Merger+for+Java+19.6+Release+Notes) will make your wish come true. This feature is also helpful for front end application development.
@@ -35,6 +35,7 @@ MovePage method was not working accurately for EPUB and EPS formats. This issue 
 Issue in saving and loading of LaTex documents is resolved.
 
 You can download latest version of the API [here](https://downloads.groupdocs.com/merger/java). Share your feedback or post your queries [here](https://forum.groupdocs.com/c/merger).
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2018/02/07/edit-watermark-objects-in-word-documents-groupdocs.watermark-for-.net-18.2/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'document-watermark', 'Watermarking API C#', 'Watermarking API for .NET']
-categories: ['GroupDocs.Watermark for .NET Release', 'GroupDocs.Watermark Product Family']
+tags: ['.NET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'document-watermark', 'Watermarking API C#', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/05/GroupDocs-Watermark-for-.NET_.png)](https://products.groupdocs.com/watermark/net)We are pleased to announce the release of version 18.2 of [GroupDocs.Watermark for .NET.](https://products.groupdocs.com/watermark/net) The latest version allows you to edit the objects that can be considered as watermark in **Word** documents. Following are the features that are introduced in GroupDocs.Watermark for .NET 18.2.
@@ -90,6 +90,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, we would love to hear your queries and suggestions at our [forum](https://forum.groupdocs.com/c/watermark "Technical Support Forum").
+
 
 
 

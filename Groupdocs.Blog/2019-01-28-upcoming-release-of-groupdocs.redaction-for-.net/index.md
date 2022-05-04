@@ -7,8 +7,8 @@ aliases:
     - /2019/01/28/15735/
 author: 'Usman Aziz'
 summary: ''
-tags: ['annotation redaction', 'hide sensitive information', 'information hinding', 'metadata redaction', 'text redaction']
-categories: ['GroupDocs.Redaction for .NET', 'GroupDocs.Redaction Product Family']
+tags: ['annotation redaction', 'hide sensitive information', 'information hinding', 'metadata redaction', 'text redaction', 'GroupDocs.Redaction for .NET']
+categories: ['GroupDocs.Redaction Product Family']
 ---
 
 ![GroupDocs.Redaction for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2019/01/groupdocs-redaction-net.png "GroupDocs.Redaction for .NET")
@@ -44,6 +44,7 @@ Initially, _GroupDocs.Redaction for .NET_ will support the following document fo
 # First Version Availability
 
 We are finalizing the first release of _GroupDocs.Redaction for .NET_ and hoping that you will be able to grab it very soon. Please stay tuned for further updates.
+
 
 
 

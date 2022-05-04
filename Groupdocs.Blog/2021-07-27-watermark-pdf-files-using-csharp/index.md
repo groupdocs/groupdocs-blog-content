@@ -1,5 +1,7 @@
 ---
-title: 'Watermark PDF Files using C#'
+title: "Watermark PDF Files using C#"
+seoTitle: "Add Watermark to PDF using C# | Text and Image Watermarks"
+description: "Add image watermarks or apply text watermarks to PDF files using C#. Either watermark all or selective pages of PDF using .NET Watermarking API."
 date: Tue, 27 Jul 2021 14:34:00 +0000
 draft: false
 url: /2021/07/27/watermark-pdf-files-using-csharp/

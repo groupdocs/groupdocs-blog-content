@@ -5,8 +5,8 @@ draft: false
 url: /2018/05/30/groupdocs.text-for-.net-has-been-renamed-to-groupdocs.parser-for-.net/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'Dcoument Parsing API', 'Document Parser', 'Text Extraction API for .NET', 'Text Extractor']
-categories: ['GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases', 'GroupDocs.Parser Product Family']
+tags: ['.NET Text Extractor', 'Dcoument Parsing API', 'Document Parser', 'Text Extraction API for .NET', 'Text Extractor', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
+categories: ['GroupDocs.Parser Product Family']
 ---
 
 [![GroupDocs.Text for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/05/groupdocs-parser.png)](https://products.groupdocs.com/)We are pleased to announce that GroupDocs.Text for .NET has been renamed to [GroupDocs.Parser for .NET](https://products.groupdocs.com/parser/net). We have published the first monthly release as GroupDocs.Parser for .NET 18.5 after renaming of the API. The latest release has come with a few changes and a couple of enhancements. Please continue to read about the changes and the enhancements that we have made in version 18.5.
@@ -30,6 +30,7 @@ categories: ['GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases', 
 *   [Product Support Forum](https://forum.groupdocs.com/c/parser "GroupDocs.Text for .NET Support forum") – Technical Support Forum for GroupDocs.Parser
 
 ## Have Queries?If you have got any queries or have any concerns about the API, please feel free to get in touch with us over the [forum](https://forum.groupdocs.com/). We’ll be glad to address your concerns.
+
 
 
 

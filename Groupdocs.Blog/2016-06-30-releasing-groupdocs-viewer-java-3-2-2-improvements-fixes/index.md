@@ -5,8 +5,8 @@ draft: false
 url: /2016/06/30/releasing-groupdocs-viewer-java-3-2-2-improvements-fixes/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Viewer for Java Releases', 'GroupDocs.Viewer Product Family']
+tags: ['GroupDocs.Viewer for Java Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs.Viewer for Java release 3.2.2](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/05/GD_VWR_JavaIcon_114.png)](http://groupdocs.com/dot-net/document-viewer-library)
@@ -69,6 +69,7 @@ Here at [GroupDocs](http://www.groupdocs.com "GroupDocs") we always look for new
 *   [Product Support Forum](http://groupdocs.com/Community/forums/groupdocs.viewer-product-family/4/showforum.aspx "GroupDocs.Viewer for Java Support forum") \- Technical Support Forum for GroupDocs.Viewer
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.viewer-product-family/4/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

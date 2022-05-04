@@ -5,8 +5,8 @@ draft: false
 url: /2018/10/05/pdf-comparison-is-improved-in-groupdocs.comparison-for-.net-18.9/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-comparison-net.png)](https://www.groupdocs.com/products/comparison/net)GroupDocs.Comparison for .NET 18.9 comes with some improvements and bug fixes. PDF and HTML anchors comparison is now improved. Please follow the release notes here for further details. We'd recommend you to try latest version of the API and share your feedback.
@@ -35,6 +35,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 You are always welcome to share your feedback and suggestions to improve this product, we take it very seriously and try to incorporate it as much as its possible for upcoming releases . We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/comparison) and our dedicated support team will be there to respond.
+
 
 
 

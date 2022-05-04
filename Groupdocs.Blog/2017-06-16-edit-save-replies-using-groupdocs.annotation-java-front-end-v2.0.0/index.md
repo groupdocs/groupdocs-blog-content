@@ -5,8 +5,8 @@ draft: false
 url: /2017/06/16/edit-save-replies-using-groupdocs.annotation-java-front-end-v2.0.0/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for Java']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 [![GroupDocs.Annotation](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/12/groupdocs-annotation-java.png)](https://www.groupdocs.com/products/signature/java)
@@ -47,6 +47,7 @@ We are pleased to announce a new release of GroupDocs.Annotation for Java [Servl
 *   [Examples](https://github.com/groupdocs-annotation/GroupDocs.Annotation-for-Java "Examples/Plugins/Showcases") – Examples/Plugins/Showcases
 
 ## FeedbackWe always welcome you to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.annotation-product-family/5/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

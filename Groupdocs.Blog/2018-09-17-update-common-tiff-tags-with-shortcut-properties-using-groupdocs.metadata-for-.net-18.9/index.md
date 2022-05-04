@@ -5,8 +5,8 @@ draft: false
 url: /2018/09/17/update-common-tiff-tags-with-shortcut-properties-using-groupdocs.metadata-for-.net-18.9/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['X GroupDocs.Metadata for .NET Releases']
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata for .NET', 'GroupDocs.Metadata Product Family']
+tags: ['X GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata', 'GroupDocs.Metadata for .NET']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")We are proudly announcing five enhancements and three bug fixes in the monthly release of [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net) **18.9**. Using the latest version, you can read and update common TIFF/EXIF tags in TIFF images. The memory consumption is now reduced for GIF format's loading and saving metadata. Additionally, **GroupDocs.Metadata.Formats.Document.InspectionResult** class  **XlsMetadata.ContentProperties** property, and **EpubFormat.GetImageCoverBytes** method are now marked obsolete.  We recommend you to [install](https://www.nuget.org/packages/GroupDocs.Metadata/) and use the latest version of the API.
@@ -36,6 +36,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) - Technical Support Forum for GroupDocs Metadata
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net ".NET Metadata API") API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/metadata).
+
 
 
 

@@ -5,7 +5,8 @@ draft: false
 url: /2013/01/04/a-year-of-great-achievements-2012-in-review/
 author: 'Derek Hyland'
 summary: ''
-tags: ['document collaboration', 'document management', 'document upload', 'GroupDocs Annotate', 'GroupDocs Signature', 'GroupDocs Viewer', 'GroupDocs Viewer Plugin', 'online document management system', 'online document viewer', 'View documents online', 'zArchive']
+tags: ['document collaboration', 'document management', 'document upload', 'GroupDocs Annotate', 'GroupDocs Viewer Plugin', 'online document management system', 'online document viewer', 'View documents online', 'zArchive']
+categories: ['GroupDocs.Signature Product Family', 'GroupDocs.Viewer Product Family']
 ---
 
 For **[GroupDocs](http://groupdocs.com/)**, 2012 was a significant year marked by milestones; we're proud and grateful to end a busy year with great achievements. With constant enhancements, we were able to prove that we're an integral part of the document management world. In 2012, we have introduced enhanced versions of our apps with added features from time to time; created a variety of **[plugins for multiple platforms](http://groupdocs.com/marketplace/plugins)**; **[integrated many different storage options with GroupDocs](http://groupdocs.com/marketplace/storage)**; introduced **[flexible API SDKs](http://groupdocs.com/cloud)** to help you integrate our apps to your existing applications; and were able build a strong base of valuable customers, ranging from small to mid to enterprise levels; amongst many others. \[caption id="attachment\_1198" align="alignnone" width="600" caption="A year of great achievements - 2012 in review"\]![A year of great achievements - 2012 in review](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/01/A-year-of-great-achievements-2012-in-review.png)\[/caption\] Let's have a closer look at some of our achievements in 2012.
@@ -82,6 +83,7 @@ Within a year, we've introduced a new app, the **[GroupDocs Conversion](http://g
     *   **null**
 
 ### Looking Forward to 2013Reflecting on the previous year, we're happy that we hit all the milestones that we set for 2012. We acknowledge your encouragement and support behind our success. We will continue to grow our operation, provide excellent customer support, and proceed with innovations to maintain and continue this kind of success in 2013 too. With a number of integrations and enhancements in the pipeline, we're looking forward to a bright 2013. Your support and feedback are important for us. Talk to us through our **[official feedback forum](http://groupdocs.com/Community/Forums/Default.aspx)** or **[Live Chat support](http://groupdocs.com/)**. Stay tuned for our blogs and **newsletters**, which bring you all enhancements happening in GroupDocs. Wish you all a happy & prosperous New Year!
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/12/10/view-files-and-folders-in-zip-and-tar-archives-using-java-api/
 author: 'Usman Aziz'
 summary: ''
-tags: ['document viewer', 'java', 'java document viewer', 'PDF', 'TAR', 'view contents in ZIP or TAR', 'ZIP', 'zip viewer']
-categories: ['GroupDocs.Viewer for Java', 'GroupDocs.Viewer Product Family']
+tags: ['document viewer', 'java', 'java document viewer', 'PDF', 'TAR', 'view contents in ZIP or TAR', 'ZIP', 'zip viewer', 'GroupDocs.Viewer for Java']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 
@@ -97,6 +97,7 @@ We have made the following improvements in v19.11.
 Well, this was a brief overview of the major features as well as improvements and bug fixes. You can also visit the [release notes](https://docs.groupdocs.com/display/viewerjava/GroupDocs.Viewer+for+Java+19.11+Release+Notes) of _GroupDocs.Viewer for Java_ _19.11_ to know about the public API changes. Visit the [documentation](https://docs.groupdocs.com/display/viewerjava/Developer+Guide) of _GroupDocs.Viewer for Java_ for more details and code samples of every feature. You can download/clone the source code examples from the [GitHub repository](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-Java).
 
 In case you find any issue while using our API, we are always available to provide you free support on our [forum](https://forum.groupdocs.com/c/viewer).
+
 
 
 

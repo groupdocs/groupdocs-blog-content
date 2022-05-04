@@ -5,8 +5,8 @@ draft: false
 url: /2019/07/25/restart-the-list-numbering-dynamically-within-your-document/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET', 'API', 'document automation', 'Dynamic Report Generation', 'Generate Reports', 'java', 'numbered list', 'Report Generation API for .NET', 'Report Generation API for Java', 'restart numbered list']
-categories: ['GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly for Java Releases', 'GroupDocs.Assembly Product Family']
+tags: ['.NET', 'API', 'document automation', 'Dynamic Report Generation', 'Generate Reports', 'java', 'numbered list', 'Report Generation API for .NET', 'Report Generation API for Java', 'restart numbered list', 'GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly for Java Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 Nested or the multi-level numbered lists allow you to group the items based on the parent item. Put it simply, you can separately list the items under each group. This becomes very useful when you have to list the items having multiple sub-items. Let's have a look at the following figure which makes it simpler to understand the scenario.
@@ -49,6 +49,7 @@ And what we have got in the output is:
 At the moment, you can restart the list numbering within the Word Processing documents as well as email messages with HTML and RTF bodies.
 
 So if you want to have this feature in your application, just [download](https://downloads.groupdocs.com/assembly) and integrate **v19.7** of _GroupDocs.Assembly for .NET_ or _Java_. For working code samples, download or clone the examples project from the [GitHub repository](https://github.com/groupdocs-assembly/). Cheers!
+
 
 
 

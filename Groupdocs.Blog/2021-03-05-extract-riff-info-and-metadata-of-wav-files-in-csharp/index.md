@@ -1,5 +1,7 @@
 ---
-title: 'Extract RIFF INFO and Metadata of WAV files in C#'
+title: "Extract RIFF INFO and Metadata of WAV files in C#"
+seoTitle: "Extract RIFF INFO and Metadata of WAV files in C#"
+description: "Extract metadata and RIFF INFO of WAV audio files in C#. Metadata API allows metadata management within your .NET applications."
 date: Fri, 05 Mar 2021 17:58:00 +0000
 draft: false
 url: /2021/03/05/extract-riff-info-and-metadata-of-wav-files-in-csharp/

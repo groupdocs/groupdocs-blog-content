@@ -5,8 +5,8 @@ draft: false
 url: /2018/01/30/upcoming-release-of-groupdocs.watermark-for-java/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Document Watermarking', 'Java document watermarking API', 'watermarking API for Java']
-categories: ['GroupDocs.Watermark for Java Release', 'GroupDocs.Watermark Product Family']
+tags: ['Document Watermarking', 'Java document watermarking API', 'watermarking API for Java', 'GroupDocs.Watermark for Java Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 ![GroupDocs.Metadata for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/01/groupdocs-watermark-java.png "GroupDocs-Metadata-theme-100x100")
@@ -34,6 +34,7 @@ GroupDocs.Watermark for Java will come with all the watermarking features that a
 # First Version Availability
 
 We are finalizing the first release of GroupDocs.Watermark for Java and hoping that you will be able to grab it very soon. Please stay tuned for further updates. We would be happy to hear your queries or suggestions at [GroupDocs.Watermark](https://forum.groupdocs.com/c/watermark) forum.
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2018/06/20/upcoming-release-of-groupdocs.parser-for-java/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Document Parser', 'java', 'Java API', 'Java Text Extractor', 'Text Extractor', 'Text extractor API', 'text parser']
-categories: ['GroupDocs.Parser for Java', 'GroupDocs.Parser for Java Releases', 'GroupDocs.Parser Product Family']
+tags: ['Document Parser', 'java', 'Java API', 'Java Text Extractor', 'Text Extractor', 'Text extractor API', 'text parser', 'GroupDocs.Parser for Java', 'GroupDocs.Parser for Java Releases']
+categories: ['GroupDocs.Parser Product Family']
 ---
 
 ![GroupDocs.Parser for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/06/groupdocs-parser-java.png "GroupDocs-Parser-theme-100x100")
@@ -46,6 +46,7 @@ The API will initially support the following document types for text extraction:
 # First Version Availability
 
 We are finalizing the first release of GroupDocs.Parser for Java and hoping that you will be able to grab it very soon. Please stay tuned for further updates. We would be happy to hear your queries or suggestions at [GroupDocs.Parser](https://forum.groupdocs.com/c/parser) forum.
+
 
 
 

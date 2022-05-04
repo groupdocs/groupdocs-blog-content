@@ -5,8 +5,8 @@ draft: false
 url: /2018/04/23/scrambled-output-issue-is-resolved-in-groupdocs.comparison-for-.net-18.4/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-comparison-net.png)](https://www.groupdocs.com/products/comparison/net)Monthly release of GroupDocs.Comparison for .NET [18.4](https://downloads.groupdocs.com/comparison/net/new-releases/groupdocs.comparison-for-.net-18.4/) comes with some major bug fixes. Issues such as comparing data in tables and comparison of table of contents are resolved. This release implements comparison of HTML documents as well. Please follow the release notes [here](https://docs.groupdocs.com/display/comparisonnet/GroupDocs.Comparison+for+.NET+18.4+Release+Notes) for further details. We'd recommend you to download latest version of the API and share your feedback.
@@ -37,6 +37,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 You are always welcome to share your feedback and suggestions to improve this product, we take it very seriously and try to incorporate it as much as its possible for upcoming releases . We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/comparison) and our dedicated support team will be there to respond.
+
 
 
 

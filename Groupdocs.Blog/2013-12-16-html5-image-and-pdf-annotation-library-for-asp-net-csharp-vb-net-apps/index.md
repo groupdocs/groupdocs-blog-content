@@ -5,7 +5,8 @@ draft: false
 url: /2013/12/16/html5-image-and-pdf-annotation-library-for-asp-net-csharp-vb-net-apps/
 author: 'Derek Hyland'
 summary: ''
-tags: ['Annotation for .NET Library', 'GroupDocs Annotation', 'zArchive']
+tags: ['Annotation for .NET Library', 'zArchive']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 ![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/02/GD_ANT_NETIcon_114.png "GD_ANT_NETIcon_114")We've received a lot of feedback from our customers asking us to create a .NET library based on our [HTML5 document annotation app](http://groupdocs.com/html5-document-annotation). We've worked hard and today are pleased to announce the release of the document annotation library for developers on .NET platforms (ASP.NET, C#, VB.NET). Using the library, developers can seamlessly enhance their web and mobile apps with the ability to annotate Microsoft Office documents, PDFs and image files. The benefits that the library offers include:
@@ -20,6 +21,7 @@ tags: ['Annotation for .NET Library', 'GroupDocs Annotation', 'zArchive']
 8.  Lastly, we offer free support to developers during the whole integration period to make the deployment hassle-free.
 
 If you'd like to add the HTML5-based document annotation capabilities to your app, please [download a free evaluation version](http://groupdocs.com/Community/getting-started/dot-net/document-annotation-library.aspx), or [contact our sales team](http://groupdocs.com/corporate/contact-us) for a free 30-day fully-functional license. Also, please visit the [product page](http://groupdocs.com/dot-net/document-annotation-library) for more details on features and code samples.
+
 
 
 

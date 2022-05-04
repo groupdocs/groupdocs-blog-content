@@ -5,8 +5,8 @@ draft: false
 url: /2018/07/10/releasing-groupdocs.parser-for-java-%e2%80%93-a-convenient-document-parser-api/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Document Parser', 'Java Text Extractor', 'Java text extractor API', 'text extractor API for Java', 'text parser']
-categories: ['GroupDocs.Parser for Java', 'GroupDocs.Parser for Java Releases', 'GroupDocs.Parser Product Family']
+tags: ['Document Parser', 'Java Text Extractor', 'Java text extractor API', 'text extractor API for Java', 'text parser', 'GroupDocs.Parser for Java', 'GroupDocs.Parser for Java Releases']
+categories: ['GroupDocs.Parser Product Family']
 ---
 
 [![GroupDocs.Parser for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/06/groupdocs-parser-java.png)](https://products.groupdocs.com/parser/java)We are pleased to announce that the first version of [GroupDocs.Parser for Java](https://products.groupdocs.com/parser/java "GroupDocs.Parser product page") has been released. GroupDocs.Parser for Java allows the Java developers to extract raw and formatted text from the popular document formats. The API also supports working with containers such as ZIP and email containers. You can also access the metadata attached to the documents using a few lines of code. Please continue to read more about the features and the file formats supported by the API.
@@ -60,6 +60,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/"Technical Support Forum").
+
 
 
 

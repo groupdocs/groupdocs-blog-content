@@ -5,8 +5,8 @@ draft: false
 url: /2019/08/02/sign-documents-with-encrypted-custom-objects/
 author: 'Usman Aziz'
 summary: ''
-tags: ['API', 'digital signature', 'e-signature', 'electronic signature', 'Embed Custom Objects', 'Encrypted Metadata Signature', 'java', 'Metadata signature', 'Sign Documents', 'signature api for java']
-categories: ['GroupDocs.Signature for Java', 'GroupDocs.Signature Product Family']
+tags: ['API', 'digital signature', 'e-signature', 'electronic signature', 'Embed Custom Objects', 'Encrypted Metadata Signature', 'java', 'Metadata signature', 'Sign Documents', 'signature api for java', 'GroupDocs.Signature for Java']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 Hello guys! It's been a while since my last post about [GroupDocs.Signature for Java](https://products.groupdocs.com/signature/java). So, our Java community might have been waiting for something new regarding our e-signature API. Well, we have recently released version 19.7 of GroupDocs.Signature for Java and today, I shall give you an overview of something interesting that we have introduced in our latest release.
@@ -47,6 +47,7 @@ In addition to the above-mentioned features, we have also added some improvement
 If you are interested in using the newly arrived features in your e-signing application, just download and integrate the [latest release](https://downloads.groupdocs.com/signature/java). For working code samples, download or clone our examples project from [GitHub repository](https://github.com/groupdocs-signature/GroupDocs.Signature-for-Java).
 
 In case you would have any questions or suggestions, just create a topic on our [forum](https://forum.groupdocs.com/categories) and we would love to have a conversation with you.
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/07/11/retrieve-count-of-credits-consumed-in-groupdocs.conversion-for-.net/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for .NET', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for .NET']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 As you know that API already supports metered licensing.  
@@ -26,6 +26,7 @@ We've also improved Diagram to Word conversion.
 Moreover, converting a PowerPoint document with black SmartArt text to PDF issue is resolved. Previously, SmartArt text in the resultant document was changed to white text.
 
 With all such features and improvements, why wait to give it a try? Download latest release from [here](https://downloads.groupdocs.com/conversion/net) and share your feedback/concerns on our [forum](https://forum.groupdocs.com/c/conversion).
+
 
 
 

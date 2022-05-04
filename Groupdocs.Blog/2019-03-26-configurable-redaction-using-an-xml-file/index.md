@@ -5,8 +5,8 @@ draft: false
 url: /2019/03/26/configurable-redaction-using-an-xml-file/
 author: 'Muhammad Umar'
 summary: ''
-tags: ['Configurable Redaction', 'metadata redaction', 'Phrase redaction']
-categories: ['GroupDocs.Redaction for .NET', 'GroupDocs.Redaction Product Family']
+tags: ['Configurable Redaction', 'metadata redaction', 'Phrase redaction', 'GroupDocs.Redaction for .NET']
+categories: ['GroupDocs.Redaction Product Family']
 ---
 
   
@@ -37,6 +37,7 @@ The example below shows:
 {{< gist GroupDocsGists e2ed425ec7b856a1889c084019f2ddec "ConfigurableRedaction_19.3.cs" >}}
 
 The complete ready to run code sample is available on [GitHub](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET/).
+
 
 
 

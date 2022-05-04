@@ -5,8 +5,8 @@ draft: false
 url: /2017/09/27/groupdocs.search-for-.net-17.9.0/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)Like every month, team GroupDocs has released another version of the API and implements a number of new features and improvements in this monthly release. The latest version i-e 17.9.0 includes features like storing the text of documents during indexing, filtering files before indexing, encoding detection of text files etc. Not only this the API has also added support for CHM documents to the list of supported document formats. The API has removed some of the obsolete methods in this release as well. These are just a few of the many additions made to the latest version of the API. We, therefore, would like our customers to [download](https://downloads.groupdocs.com/search/net/new-releases/groupdocs.search-for-.net-17.9.0/) the latest version and enjoy a better experience with the API.
@@ -50,6 +50,7 @@ Here are a few channels and resources for you to download, try, learn and get te
 # Feedback
 
 If you have any suggestions, questions, or queries related to [GroupDocs.Search for .NET API](http://www.groupdocs.com/products/search/net), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

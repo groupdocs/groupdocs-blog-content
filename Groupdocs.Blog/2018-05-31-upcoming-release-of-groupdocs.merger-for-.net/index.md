@@ -5,8 +5,8 @@ draft: false
 url: /2018/05/31/upcoming-release-of-groupdocs.merger-for-.net/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Merger for .NET', 'GroupDocs.Merger Product Family']
+tags: ['GroupDocs.Merger for .NET']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 [![GroupDocs Editor for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/05/groupdocs-merger.png)](https://www.groupdocs.com/products/merger/net)
@@ -22,6 +22,7 @@ We are about to release GroupDocs.Merger for .NET, a full featured, back-end API
 *   Join Document
 
 ## First Version AvailabilityWe are finalizing the first release of GroupDocs.Merger for .NET and hope that you will be able to avail it very soon. Please stay tuned for further updates. We would be happy to hear your queries or suggestions at [GroupDocs.Merger](https://forum.groupdocs.com/c/merger) forum.
+
 
 
 

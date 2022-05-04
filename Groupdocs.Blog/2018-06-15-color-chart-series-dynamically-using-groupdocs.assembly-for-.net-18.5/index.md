@@ -5,8 +5,8 @@ draft: false
 url: /2018/06/15/color-chart-series-dynamically-using-groupdocs.assembly-for-.net-18.5/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly Product Family']
+tags: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-assembly-net.png)[GroupDocs](https://www.groupdocs.com/) team is proudly announcing the monthly release of [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net) **18.5**. Using the latest version, you can now change the color of chart series and individual point series dynamically for word processing, spreadsheet and presentation formats.  We recommend you to [install](https://www.nuget.org/packages/GroupDocs.Assembly/) and use the latest version of the API.
@@ -43,6 +43,7 @@ categories: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Release
 *   [Product Support Forum](https://forum.groupdocs.com/c/assembly) - Technical Support Forum for GroupDocs Assembly
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Assembly](https://products.groupdocs.com/assembly/net ".NET Assembly API") for .NET API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/assembly).
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2017/11/13/groupdocs.editor-for-.net-plugin-for-visual-studio/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET API', 'Document Editing API', 'plugin', 'Visual Studio Plugin']
-categories: ['GroupDocs.Editor', 'GroupDocs.Editor Product Family']
+tags: ['.NET API', 'Document Editing API', 'plugin', 'Visual Studio Plugin', 'GroupDocs.Editor']
+categories: ['GroupDocs.Editor Product Family']
 ---
 
 [![GroupDocs.Editor for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/07/groupdocs-editor.png)](https://www.groupdocs.com/products/editor/net)
@@ -50,6 +50,7 @@ categories: ['GroupDocs.Editor', 'GroupDocs.Editor Product Family']
 *   [Product Support Forum](https://forum.groupdocs.com/c/editor) - Technical Support Forum for GroupDocs.Editor queries
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/editor "Technical Support Forum").
+
 
 
 

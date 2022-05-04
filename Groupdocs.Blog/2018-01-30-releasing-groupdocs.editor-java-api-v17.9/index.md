@@ -5,8 +5,8 @@ draft: false
 url: /2018/01/30/releasing-groupdocs.editor-java-api-v17.9/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Editor for Java', 'GroupDocs.Editor Product Family']
+tags: ['GroupDocs.Editor for Java']
+categories: ['GroupDocs.Editor Product Family']
 ---
 
 [![GroupDocs Editor for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/12/groupdocs-editor-java.png)](https://products.groupdocs.com/editor/java)
@@ -44,6 +44,7 @@ For more details on the supported feature, please visit the article: [Supported 
 *   [Product Support Forum](https://forum.groupdocs.com/c/editor) - Technical Support Forum for GroupDocs.Editor
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/editor "Technical Support Forum").
+
 
 
 

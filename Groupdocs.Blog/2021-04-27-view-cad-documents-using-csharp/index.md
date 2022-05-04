@@ -1,5 +1,7 @@
 ---
-title: 'View CAD Documents using C#'
+title: "View CAD Documents using C#"
+seoTitle: "View CAD files in C# using .NET API | Convert DWG DXF DGN DWF"
+description: "Build your CAD files viewer in C# to view drawings. Convert DWG, DGN to render as HTML, JPG, PNG, or PDF using document viewer .NET API by GroupDocs."
 date: Tue, 27 Apr 2021 20:23:00 +0000
 draft: false
 url: /2021/04/27/view-cad-documents-using-csharp/

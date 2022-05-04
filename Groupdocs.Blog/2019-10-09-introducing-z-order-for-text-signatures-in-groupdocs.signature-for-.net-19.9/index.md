@@ -5,8 +5,8 @@ draft: false
 url: /2019/10/09/introducing-z-order-for-text-signatures-in-groupdocs.signature-for-.net-19.9/
 author: 'Usman Aziz'
 summary: ''
-tags: []
-categories: ['GroupDocs.Signature for .NET Releases', 'GroupDocs.Signature Product Family']
+tags: ['GroupDocs.Signature for .NET Releases']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 
@@ -41,6 +41,7 @@ The following is the list of improvements we have made in v19.9.
 In the previous versions, the [Signature](https://apireference.groupdocs.com/net/signature/groupdocs.signature.options/digitalsignoptions/properties/signature) property of [DigitalSignOptions](https://apireference.groupdocs.com/net/signature/groupdocs.signature.options/digitalsignoptions) class was not affecting the signing process. An exception was thrown if [CertificateStream](https://apireference.groupdocs.com/net/signature/groupdocs.signature.options/digitalsignoptions/properties/certificatestream) or [CertificateFilePath](https://apireference.groupdocs.com/net/signature/groupdocs.signature.options/digitalsignoptions/properties/certificatefilepath) is not set. This issue has now been resolved and its fix is available in v19.9.
 
 You can download the latest release from our [downloads](https://downloads.groupdocs.com/signature/net) section or install it in your project using [NuGet](https://www.nuget.org/packages/GroupDocs.Signature). For more details, consult the product [documentation](https://docs.groupdocs.com/display/signaturenet/Introducing+GroupDocs.Signature+for+.NET). Let us know your suggestions or concerns via our [forum](https://forum.groupdocs.com/c/signature).
+
 
 
 

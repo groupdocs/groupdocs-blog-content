@@ -5,8 +5,8 @@ draft: false
 url: /2018/03/11/control-image-quality-when-rendering-pdf-document-as-html-using-groupdocs.viewer-for-.net-18.3/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', '.net document viewer API', 'document rendering API', 'document viewer API for .net', 'document viewer API for asp.net']
-categories: ['GroupDocs.Viewer', 'GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['.NET document rendering API', '.net document viewer API', 'document rendering API', 'document viewer API for .net', 'document viewer API for asp.net', 'GroupDocs.Viewer', 'GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs Viewer for .NET](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-viewer-net.png)](https://www.groupdocs.com/products/viewer/net)
@@ -71,6 +71,7 @@ foreach (PageHtml page in pages)
 *   [Sample Front End Apps](https://github.com/groupdocs-viewer/ "Open Source Document Viewer Applications") - Open Source **Document Viewer** Applications
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/viewer "Technical Support Forum").
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2018/03/16/introducing-groupdocs.watermark-for-java-a-convenient-watermarking-api/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Document Watermarking', 'document-watermark', 'Java document watermarking API', 'watermarking API for Java']
-categories: ['GroupDocs.Watermark for Java', 'GroupDocs.Watermark for Java Releases', 'GroupDocs.Watermark Product Family']
+tags: ['Document Watermarking', 'document-watermark', 'Java document watermarking API', 'watermarking API for Java', 'GroupDocs.Watermark for Java', 'GroupDocs.Watermark for Java Releases']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 
@@ -83,6 +83,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/"Technical Support Forum").
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/09/19/a-more-simplified-and-easy-to-use-document-comparison-api/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 A major advantage of GroupDocs.Comparison for .NET is its ability to tightly integrate with any .NET project. This integration gives an extra mark to your application or project. GroupDocs.Comparison for .NET [19.9](https://docs.groupdocs.com/display/comparisonnet/GroupDocs.Comparison+for+.NET+19.9+Release+Notes) comes with a lot of breaking changes. The legacy API have been moved into Legacy namespace**.** So, when you update to this version it is required to make project-wide replacement of namespace usages from **GroupDocs.Comparison**. to **GroupDocs.Comparison.Legacy** to resolve build issues.
@@ -33,6 +33,7 @@ And given below is the most recent/updated code:
 Yes, we have updated GitHub [examples](https://github.com/groupdocs-comparison/GroupDocs.Comparison-for-.NET) and [documentation](https://docs.groupdocs.com/display/comparisonnet/Developer+Guide) as well. Please download or clone latest example project and observe the difference yourself.
 
 If you would face any issue while using or upgrading to the latest release, just post it on our [forum](https://forum.groupdocs.com/categories) and we will assist you.
+
 
 
 

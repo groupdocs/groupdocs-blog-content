@@ -8,8 +8,8 @@ aliases:
     - /2017/03/releasing-next-generation-groupdocs.assembly-java-17.1.0-api/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly Product Family']
+tags: ['GroupDocs.Assembly for Java']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-assembly-java-1.png)](https://www.groupdocs.com/products/assembly/java)At [GroupDocs](https://www.groupdocs.com/), we are always keen to broaden the usability of our APIs across multiple platforms. Keeping that in mind, we are pleased to release **GroupDocs.Assembly for Java**, a simpe document automation and report generation API that is materialized with multitude of extinct features that you may not have experience before. Such as, support of multiple data sources, multitude of supported file formats. We would encourage you to explore the API and share your valuable feedback.
@@ -36,6 +36,7 @@ categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly Product Family']
 *   [Product Support Forum ](http://groupdocs.com/Community/forums/groupdocs.assembly-product-family/8/showforum.aspx "GroupDocs.Assembly for .NET Support forum")\- Technical Support Forum for GroupDocs.Assembly
 
 ## FeedbackWe'd like to hear your valuable feedback. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.assembly-product-family/8/showforum.aspx "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

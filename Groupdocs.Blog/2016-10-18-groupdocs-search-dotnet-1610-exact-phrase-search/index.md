@@ -5,8 +5,8 @@ draft: false
 url: /2016/10/18/groupdocs-search-dotnet-1610-exact-phrase-search/
 author: 'Usman Aziz'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)We have always been improving our APIs to meet the requirements of our customers. Therefore, today, we are announcing another monthly release of [GroupDocs.Search for .NET](http://www.groupdocs.com/products/search/net "GroupDocs.Search"). **GroupDocs.Search for .NET 16.10** introduces exact phrase search that enables the users to search the documents containing the exact query string. Furthermore, the working of the API is improved by introducing a couple of enhancements and a fix. [Download](http://www.groupdocs.com/downloads/search/net/new-releases/groupdocs.search-for-.net-16.10.0/ "GroupDocs.Search Download") the latest version to upgrade your applications.
@@ -40,6 +40,7 @@ Here are a few channels and resources for you to download, try, learn and get te
 # Feedback
 
 If you have any suggestions, questions, or queries related to [GroupDocs.Search API](http://www.groupdocs.com/products/search/net), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2018/06/01/releasing-groupdocs.merger-for-.net-api-reorder-or-split-document-pages/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Merger for .NET', 'GroupDocs.Merger Product Family']
+tags: ['GroupDocs.Merger for .NET']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 [![GroupDocs Editor for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/05/groupdocs-merger.png)](https://www.groupdocs.com/products/merger/net)
@@ -56,6 +56,7 @@ Here are a few channels and resources for you to learn, try and get technical su
 *   [Product Support Forum](https://forum.groupdocs.com/c/merger) - Technical Support Forum for GroupDocs.Merger queries
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/merger "Technical Support Forum").
+
 
 
 

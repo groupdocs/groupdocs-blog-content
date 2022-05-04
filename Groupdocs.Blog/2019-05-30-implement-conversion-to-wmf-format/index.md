@@ -5,8 +5,8 @@ draft: false
 url: /2019/05/30/implement-conversion-to-wmf-format/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for .NET', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for .NET']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 WMF is a Windows MetaFile that can contain both vector and bitmap image information. We added support of WMF file format along-with few others in GroupDocs.Conversion for .NET 19.5. You can now convert any [supported](https://docs.groupdocs.com/display/conversionnet/Supported+Document+Formats) file format to WMF. Along-with WMF, convert supported documents to EMF.
@@ -32,6 +32,7 @@ New file formats you can convert from:
 In this release, we also removed obsolete property _JpegQuality_ from _ImageSaveOptions_.
 
 We'd recommend you to download [latest](https://www.nuget.org/packages/GroupDocs.Conversion) version of the API and share your feedback.
+
 
 
 

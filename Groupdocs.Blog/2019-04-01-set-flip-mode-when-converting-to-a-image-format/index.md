@@ -5,8 +5,8 @@ draft: false
 url: /2019/04/01/set-flip-mode-when-converting-to-a-image-format/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for .NET', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for .NET']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 With our latest release of GroupDocs.Convesion for .NET [19.3](https://docs.groupdocs.com/display/conversionnet/GroupDocs.Conversion+for+.NET+19.3+Release+Notes), some new properties are introduced in **ImageSaveOptions** class. When converting to a Image format you can now always set brightness and contrast. API permits you to do mirror-reversal across a horizontal/vertical axis using FlipMode property. Based on your feedback, we resolved some previously logged issues and improved document conversion experience. Such as, image quality is improved when converting to a **WebP** format. Furthermore, **JpegQuality** issue is now resolved for PDF to JPEG conversion.
@@ -22,6 +22,7 @@ FlipMode offers horizontal, vertical, horizontal and vertical at the same time o
 You can select desired image quality when converting to JPEG format. Quality scale must be between 0 and 100. Previously, despite of setting **JpegQuality** to any value (0-100), API was not reflecting any change in the output. This issue is now fixed.
 
 GroupDocs.Conversion for .NET 19.3 is now available to [download](http://nuget.org/packages/GroupDocs.Conversion). Let us know what you think by sending [feedback](https://forum.groupdocs.com/c/conversion)!
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/11/08/extract-data-from-database-files-using-csharp/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Extract data from database', 'SQLite DB']
-categories: ['GroupDocs.Parser for .NET', 'GroupDocs.Parser Product Family']
+tags: ['Extract data from database', 'SQLite DB', 'GroupDocs.Parser for .NET']
+categories: ['GroupDocs.Parser Product Family']
 ---
 
 The [database](https://en.wikipedia.org/wiki/Database) is considered to be an integral part of most of the applications. Be it a desktop, web or mobile application, database plays a vital role in storing, accessing and manipulating the data. There are many database management systems that allow creating and managing databases for you.
@@ -53,6 +53,7 @@ In this article, I am going to demonstrate how easily you can extract the data f
 
 
 Visit the [documentation](https://docs.groupdocs.com/parser/net) to explore more about **GroupDocs.Parser for .NET** API. You can download or clone the source code examples from [GitHub repository](https://github.com/groupdocs-parser/GroupDocs.Parser-for-.NET). In case of any query, just post it on the [forum](https://forum.groupdocs.com/c/parser).
+
 
 
 

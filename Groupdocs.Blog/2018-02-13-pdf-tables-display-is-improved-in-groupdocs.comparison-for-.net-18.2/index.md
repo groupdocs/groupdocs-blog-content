@@ -5,8 +5,8 @@ draft: false
 url: /2018/02/13/pdf-tables-display-is-improved-in-groupdocs.comparison-for-.net-18.2/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-comparison-net.png)](https://www.groupdocs.com/products/comparison/net)Following our monthly release process, we are pleased to introduce some new features, one improvement and bug fixes in [GroupDocs.Comparison for .NET 18.2](https://products.groupdocs.com/comparison/net "Document Comparison API "). New image formats are introduced for images comparing such as gif, png, bmp and jpeg. Page mapper in PDF is improved. You can follow release notes [here](https://docs.groupdocs.com/display/comparisonnet/GroupDocs.Comparison+for+.NET+18.2+Release+Notes). We'd recommend you to download latest version of the API and share your feedback.
@@ -39,6 +39,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 You are always welcome to share your feedback and suggestions to improve this product, we take it very seriously and try to incorporate it as much as its possible for upcoming releases . We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/comparison) and our dedicated support team will be there to respond.
+
 
 
 

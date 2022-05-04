@@ -5,8 +5,8 @@ draft: false
 url: /2017/09/13/releasing-groupdocs-watermark-.net-17.9.0/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'Document Watermarking', 'watermarking', 'Watermarking API for .NET']
-categories: ['GroupDocs.Watermark for .NET Release', 'GroupDocs.Watermark Product Family']
+tags: ['.NET Watermarking API', 'Document Watermarking', 'watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/05/GroupDocs-Watermark-for-.NET_.png)](http://groupdocs.com/dot-net/document-watermark-library)
@@ -28,6 +28,7 @@ Team GroupDocs is excited to release version 17.9.0 of [GroupDocs.Watermark for
 *   [Product Support Forum](https://forum.groupdocs.com/c/watermark) - Technical Support Forum for GroupDocs.Watermark
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/watermark "Technical Support Forum").
+
 
 
 

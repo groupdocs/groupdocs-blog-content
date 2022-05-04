@@ -5,7 +5,8 @@ draft: false
 url: /2013/02/11/working-with-groupdocs-signature-api-from-ruby/
 author: 'Derek Hyland'
 summary: ''
-tags: ['API', 'digital signature', 'electronic signature', 'esignature', 'GroupDocs Signature', 'zArchive']
+tags: ['API', 'digital signature', 'electronic signature', 'esignature', 'zArchive']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 Today we will find out how to use GroupDocs' Ruby SDK. We will create a GroupDocs Signature envelope sample with the Sinatra framework. GroupDocs Signature envelopes are used to prepare documents for digital signature and managing the signature process.
@@ -216,6 +217,7 @@ end
 Check the file that was created in /envelope-sample/sign
 
 ## The Complete CodeThe final code of the sample looks like this: [https://gist.github.com/averjr/4739332](https://gist.github.com/averjr/4739332)
+
 
 
 

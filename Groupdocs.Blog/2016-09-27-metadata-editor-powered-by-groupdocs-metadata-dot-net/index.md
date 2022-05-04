@@ -5,8 +5,8 @@ draft: false
 url: /2016/09/27/metadata-editor-powered-by-groupdocs-metadata-dot-net/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Metadata Editor']
-categories: ['GroupDocs.Metadata for .NET', 'GroupDocs.Metadata Product Family']
+tags: ['Metadata Editor', 'GroupDocs.Metadata for .NET']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")Are you looking for some metadata editing tool to manipulate your files? Your search is over as the [Metadata Editor](https://docs.groupdocs.com/metadata/net ".NET Metadata Editor") powered by [GroupDocs.Metadata for .NET](http://www.groupdocs.com/products/metadata/net "GroupDocs.Metadata") is out and available now. Metadata Editor is a desktop application that demonstrates how to view and update the metadata information attached with the supported file formats using GroupDocs.Metadata for .NET API. Let's [download](https://github.com/groupdocs-metadata) and give it a try.
@@ -56,6 +56,7 @@ categories: ['GroupDocs.Metadata for .NET', 'GroupDocs.Metadata Product Family']
 Every effort by the developers/customers would be appreciated.
 
 ## FeedbackAs always, if you should have any questions, queries or suggestions about [GroupDocs.Metadata for .NET](http://www.groupdocs.com/products/metadata/net ".NET Metadata API") API, just share with us by creating a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx).
+
 
 
 

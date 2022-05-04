@@ -5,8 +5,8 @@ draft: false
 url: /2018/03/14/conversion-potx-format-supported-groupdocs.conversion-java-17.12/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for Java', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for Java']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 [![GroupDocs.Conversion](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/09/conversion.png?itok=MpNabR9F)](#)
@@ -57,6 +57,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 *   [Examples/Plugins/Showcases](https://github.com/groupdocs-conversion/GroupDocs.Conversion-for-Java "Example projects") - GitHub source code examples
 *   [Video Tutorials](https://www.youtube.com/playlist?list=PL25CTxMCj5vPNfkcX3UXzMLKEOZwNpkzN) - YouTube Videos
 *   [Product Support Forum](https://forum.groupdocs.com/c/conversion "Support forum") \- Technical Support Forum for GroupDocs.Conversion
+
 
 
 

@@ -1,5 +1,7 @@
 ---
-title: 'Generate Reports from JSON Data in Java'
+title: "Generate Reports from JSON Data in Java"
+seoTitle: "Generate PDF Report from JSON Data in Java | JSON to PDF & DOCX"
+description: "Programmatically generate reports by converting JSON data to PDF & Word using templates in Java. PDF & DOCX reports using report generation Java API."
 date: Wed, 10 Feb 2021 18:40:00 +0000
 draft: false
 url: /2021/02/10/generate-pdf-report-from-json-data-in-java/

@@ -5,8 +5,8 @@ draft: false
 url: /2017/12/28/introducing-html-minification-in-groupdocs.viewer-for-.net-17.12/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', '.net document viewer API', 'asp.net document viewer API', 'C# document viewer API', 'Document viewer API', 'document viewer API for .net', 'document viewer API for asp.net']
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['.NET document rendering API', '.net document viewer API', 'asp.net document viewer API', 'C# document viewer API', 'Document viewer API', 'document viewer API for .net', 'document viewer API for asp.net', 'GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs Viewer for .NET](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-viewer-net.png)](https://www.groupdocs.com/products/viewer/net)
@@ -100,6 +100,7 @@ We have a few channels and resources for you to download, learn, try and get tec
 *   [Sample Front End Apps](https://github.com/groupdocs-viewer/ "Open Source Document Viewer Applications") - Open Source **Document Viewer** Applications
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/viewer "Technical Support Forum").
+
 
 
 

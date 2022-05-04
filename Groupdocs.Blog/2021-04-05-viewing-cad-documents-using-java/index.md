@@ -1,5 +1,7 @@
 ---
-title: 'View CAD Documents using Java'
+title: "View CAD Documents using Java"
+seoTitle: "View CAD files using Java API | Convert DWG DXF DGN DWF"
+description: "Build your CAD files viewer in Java. Convert DWG, DGN to render as HTML, JPG, PNG, or PDF using document viewer Java API by GroupDocs."
 date: Mon, 05 Apr 2021 20:34:00 +0000
 draft: false
 url: /2021/04/05/viewing-cad-documents-using-java/

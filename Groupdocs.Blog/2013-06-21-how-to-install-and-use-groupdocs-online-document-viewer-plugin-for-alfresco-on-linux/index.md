@@ -5,7 +5,8 @@ draft: false
 url: /2013/06/21/how-to-install-and-use-groupdocs-online-document-viewer-plugin-for-alfresco-on-linux/
 author: 'Derek Hyland'
 summary: ''
-tags: ['Alfresco', 'GroupDocs Viewer', 'GroupDocs Viewer Plugin', 'Linux', 'online document management system', 'online document viewer', 'View documents online', 'zArchive']
+tags: ['Alfresco', 'GroupDocs Viewer Plugin', 'Linux', 'online document management system', 'online document viewer', 'View documents online', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 Let me show you how to install and use GroupDocs online document viewer plugin for Alfresco CMS on Linux.
@@ -45,6 +46,7 @@ With the help of this add-on, you can simply embed documents to your Alfresco pa
 4.  Paste the file ID (or GUID) in the **File ID** field, enter the height and width in px, and then click **Insert**. **![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/06/form1.png "form")Result**: The embedded document is displayed. **Note**: To find more information, please refer to the online help on [how to find the file ID](https://docs.groupdocs.cloud/total/getting-started/)? ![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/06/result.png "result")**Note**: For security reasons, Alfresco strips off IFRAME tag from HTML in Blogs and Discussions. According to this blog entry, that will become configurable in the next version.
 
 Congratulations! you've successfully embedded the document, complete with GroupDocs Viewer to Alfresco CMS.
+
 
 
 

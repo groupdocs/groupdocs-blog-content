@@ -1,5 +1,7 @@
 ---
-title: 'Extract RIFF INFO and Metadata of WAV files in Java'
+title: "Extract RIFF INFO and Metadata of WAV files in Java"
+seoTitle: "Extract RIFF INFO and Metadata of WAV files in Java"
+description: "Extract metadata and RIFF INFO of WAV audio files in Java. Metadata API allows metadata management within your Java applications."
 date: Mon, 22 Mar 2021 16:37:44 +0000
 draft: false
 url: /2021/03/22/extract-riff-info-and-metadata-of-wav-files-in-java/

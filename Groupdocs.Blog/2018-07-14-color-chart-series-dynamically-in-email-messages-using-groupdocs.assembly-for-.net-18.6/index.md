@@ -5,8 +5,8 @@ draft: false
 url: /2018/07/14/color-chart-series-dynamically-in-email-messages-using-groupdocs.assembly-for-.net-18.6/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['Document Assembly API']
-categories: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly Product Family']
+tags: ['Document Assembly API', 'GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-assembly-net.png)[GroupDocs](https://www.groupdocs.com/) team is proudly announcing two new features and three enhancements in the monthly release of [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net) **18.6**. Using the latest version, you can now use C# 6.0 null-conditional operators **?. **and **?\[\]**. Change the color of chart series and individual point series dynamically for Email Messages with HTML and RTF bodies. Furthermore, to enhance the API,  colors are preserved for a pie chart in the Word Processing document, fonts are preserved for a chart title, and static colors are preserved for chart series in the Email document. We recommend you to [install](https://www.nuget.org/packages/GroupDocs.Assembly/) and use the latest version of the API.
@@ -46,6 +46,7 @@ categories: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Release
 *   [Product Support Forum](https://forum.groupdocs.com/c/assembly) - Technical Support Forum for GroupDocs Assembly
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Assembly](https://products.groupdocs.com/assembly/net ".NET Assembly API") for .NET API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/assembly).
+
 
 
 

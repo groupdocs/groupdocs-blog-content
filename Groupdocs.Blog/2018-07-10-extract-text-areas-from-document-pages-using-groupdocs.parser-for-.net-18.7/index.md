@@ -5,8 +5,8 @@ draft: false
 url: /2018/07/10/extract-text-areas-from-document-pages-using-groupdocs.parser-for-.net-18.7/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'Document Parser', 'Extract Text', 'Text Extraction API for .NET', 'Text extractor API', 'text parser']
-categories: ['GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases', 'GroupDocs.Parser Product Family']
+tags: ['.NET Text Extractor', 'Document Parser', 'Extract Text', 'Text Extraction API for .NET', 'Text extractor API', 'text parser', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
+categories: ['GroupDocs.Parser Product Family']
 ---
 
 ![GroupDocs.Parser for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/05/groupdocs-parser.png "GroupDocs-Parser-theme-100x100")
@@ -66,6 +66,7 @@ foreach(TextArea area in texts)
 *   [Product Support Forum](https://forum.groupdocs.com/c/parser "GroupDocs.Text for .NET Support forum") – Technical Support Forum for GroupDocs.Parser
 
 ## Have Queries?If you have got any queries or concerns about the API, please feel free to get in touch with us over the [forum](https://forum.groupdocs.com/). We’ll be glad to address your concerns.
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/11/21/document-viewer-in-asp-net-core-mvc-csharp/
 author: 'Usman Aziz'
 summary: ''
-tags: ['API', 'ASP.NET Core', 'C#', 'document viewer', 'Document viewer API', 'dotnet', 'MVC']
-categories: ['GroupDocs.Viewer for .NET', 'GroupDocs.Viewer Product Family']
+tags: ['API', 'ASP.NET Core', 'C#', 'document viewer', 'Document viewer API', 'dotnet', 'MVC', 'GroupDocs.Viewer for .NET']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 The **online document viewers** have become popular after the grown usage of digital documents, especially in the content management systems. The reason behind this popularity is you can view a variety of document formats without purchasing or installing dedicated software programs. Considering the importance of document viewers, I thought to write an article on how to create a universal document viewer in ASP.NET MVC.
@@ -64,6 +64,7 @@ We are going to create an **[ASP.NET MVC](https://dotnet.microsoft.com/apps/aspn
 ## Download ASP.NET MVC Document Viewer
 
 The source code of the ASP.NET MVC document viewer is open source and available for [download](https://github.com/usmanazizgroupdocs/ASP.NET-Core-MVC-Document-Viewer/archive/master.zip).
+
 
 
 

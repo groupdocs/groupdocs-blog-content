@@ -8,7 +8,7 @@ url: /2022/04/22/remove-pages-from-pdf-in-java/
 author: 'Shoaib Khan'
 summary: 'When an old document is updated; the outdated, obsolete, or even highly confidential pages are required to be removed from the latest version of the document. In this article, we will learn **how to programmatically remove such pages from the PDF documents in Java**. Further, we will discuss different ways to remove list of pages, pages range, even and odd pages of PDF document.'
 tags: ['delete pages', 'delete pages in java', 'remove pages', 'remove pages in java', 'delete pages from pdf in java']
-categories: ['GroupDocs.Merger Product Solution']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 When an old document is updated; the outdated, obsolete, or even highly confidential pages are required to be removed from the latest version of the document. In this article, we will learn **how to programmatically remove such pages from the PDF documents in Java**. Further, we will discuss different ways to remove list of pages, pages range, even and odd pages of PDF document.
@@ -34,6 +34,7 @@ Get the library from the [downloads section][3]. For your Maven-based Java appli
 	<name>GroupDocs Java API</name>
 	<url>http://repository.groupdocs.com/repo/</url>
 </repository>
+
 <dependency>
         <groupId>com.groupdocs</groupId>
         <artifactId>groupdocs-merger</artifactId>

@@ -5,8 +5,8 @@ draft: false
 url: /2017/12/06/upcoming-release-of-groupdocs.metadata-for-java/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['document-metadata', 'Metadata', 'metadata API for Java', 'Metadata Editor', 'Metadata manipulation API']
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata for Java Releases', 'GroupDocs.Metadata Product Family']
+tags: ['document-metadata', 'Metadata', 'metadata API for Java', 'Metadata Editor', 'Metadata manipulation API', 'GroupDocs.Metadata', 'GroupDocs.Metadata for Java Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/12/groupdocs-metadata-java.png "GroupDocs-Metadata-theme-100x100")We are happy to announce that **GroupDocs.Metadata** is coming soon to **Java Platform**. It will be a back-end API that will allow you to work with metadata associated with various file formats including documents, images, audios, videos, zip, emails and many more. The API aims to facilitate its users with simple syntax, easy to use methods and few lines of code to perform metadata operations. **GroupDocs.Metadata for Java** will soon be available for download.
@@ -37,6 +37,7 @@ GroupDocs.Metadata for Java will cover most of the features supported by GroupDo
 # First Version Availability
 
 We are finalizing the first release of GroupDocs.Metadata for Java and hope that you will be able to grab it very soon. Please stay tuned for further updates. We would be happy to hear your queries or suggestions at [GroupDocs.Metadata](https://forum.groupdocs.com/c/metadata) forum.
+
 
 
 

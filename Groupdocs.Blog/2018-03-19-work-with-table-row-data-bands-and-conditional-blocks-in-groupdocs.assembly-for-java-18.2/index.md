@@ -5,8 +5,8 @@ draft: false
 url: /2018/03/19/work-with-table-row-data-bands-and-conditional-blocks-in-groupdocs.assembly-for-java-18.2/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['document assembly', 'Document Assembly API']
-categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly Product Family']
+tags: ['document assembly', 'Document Assembly API', 'GroupDocs.Assembly for Java']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [![Document Assembly API](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-assembly-java-1.png)](https://www.groupdocs.com/products/assembly/java)At [GroupDocs](https://www.groupdocs.com/), we keep on updating our products for better user experience. In this regard, we are excitedly announcing another monthly release of [GroupDocs.Assembly for Java](https://products.groupdocs.com/assembly/java) **18.2**. Using the latest version, you can now add single-column table-row data bands in word processing, spreadsheet, presentation, and email messages with HTML and RTF bodies. We would recommend you to [download](https://downloads.groupdocs.com/assembly/java) and integrate this latest release.
@@ -30,6 +30,7 @@ categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly Product Family']
 *   [Product Support Forum ](https://forum.groupdocs.com/c/assembly "GroupDocs.Assembly for Java Support forum")\- Technical support forum for GroupDocs.Assembly
 
 ## FeedbackWe'd like to hear your valuable feedback. Just create a [forum thread](https://forum.groupdocs.com/c/assembly "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

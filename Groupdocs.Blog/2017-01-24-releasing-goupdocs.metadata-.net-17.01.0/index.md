@@ -5,8 +5,8 @@ draft: false
 url: /2017/01/24/releasing-goupdocs.metadata-.net-17.01.0/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")GroupDocs team is really delighted to announce the release of** [GroupDocs.Metadata for .NET version 17.01.0](http://www.groupdocs.com/products/metadata/net "GroupDocs.Metadata")**. The latest release comes up with a number of new features and enhancements. Users can now detect or remove digital signatures from documents. The API has also improved document's information retrieval and implements the ability to recognize file type of a document. And That's not all! The API has also introduced some really exciting enhancements related to power point presentation documents and audio formats. So, what are you waiting for? Simply [download](https://downloads.groupdocs.com/metadata/net/new-releases/groupdocs.metadata-for-.net-17.1.0/ "GroupDocs.Metadata Download") the latest version and try out all the exciting features and enhancements introduced in this version.
@@ -38,6 +38,7 @@ For details, please visit [Features Overview](https://www.groupdocs.com/docs/dis
 *   [Product Support Forum](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx) - Technical Support Forum for GroupDocs Metadata
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata for .NET](http://www.groupdocs.com/products/metadata/net ".NET Metadata API"), just share with us by creating a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx).
+
 
 
 

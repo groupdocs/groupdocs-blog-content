@@ -5,8 +5,8 @@ draft: false
 url: /2018/04/30/read-and-update-bittorrent-metadata-using-groupdocs.metadata-for-java-18.4/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata for Java', 'GroupDocs.Metadata for Java Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata', 'GroupDocs.Metadata for Java', 'GroupDocs.Metadata for Java Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/12/groupdocs-metadata-java.png "GroupDocs-Metadata-theme-100x100")Good news for Java users! We are delighted to announce the monthly release of [GroupDocs.Metadata for Java](https://products.groupdocs.com/metadata/java) **18.4**. The latest version allows you to read and update **BitTorrent** file format metadata, read **DublinCore** metadata and get **Image Cover **metadata using a unified approach. Furthermore, a couple of bugs found in the earlier version of the API are now fixed. We recommend you to [download](https://downloads.groupdocs.com/metadata/java/new-releases/groupdocs.metadata-for-java-18.4/) the latest version for a better experience.
@@ -32,6 +32,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) – Technical support forum for GroupDocs.Metadata product family
 
 ## FeedbackWe always love to hear your valuable feedback. Share your suggestions, questions, or queries related to GroupDocs.Metadata for Java at our [forum](https://forum.groupdocs.com/c/metadata).
+
 
 
 

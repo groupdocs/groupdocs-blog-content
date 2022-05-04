@@ -5,7 +5,8 @@ draft: false
 url: /2014/10/17/save-annotations-in-db-and-set-user-avatars-in-groupdocs-annotation-for-java-library/
 author: 'Ihor Mykhalevych'
 summary: ''
-tags: ['annotation for java library', 'GroupDocs Annotation', 'zArchive']
+tags: ['annotation for java library', 'zArchive']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 [![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/04/GD_ANT_JavaIcon_1141.png "GroupDocs.Annotation for Java")](http://groupdocs.com/java/document-annotation-library)Today, I’d like to present several great enhancements that we’ve implemented in the [GroupDocs.Annotation for Java library](http://groupdocs.com/java/document-annotation-library) version 1.6.0:
@@ -37,6 +38,7 @@ if (annotationHandler().getUserAvatar(userGuid) == null){
 Besides, we’ve improved support for native PDF and Word annotations and added the capability to export annotated Word documents to a final .doc/.docx file with the Word’s “Track Changes” feature active.
 
 ### Print PreviewOne more enhancement that you may be interested in is the ability to generate a document print preview when users try to print the annotated document. The print preview displays documents with annotations added. To see a full list of changes and download the GroupDocs.Annotation for Java library version 1.6.0, please visit our [download archive](http://groupdocs.com/Community/files/9/java-libraries/groupdocs_annotation_for_java/entry2604.aspx). For more information on the library please visit its [homepage](http://groupdocs.com/java/document-annotation-library) and [documentation](http://groupdocs.com/docs/display/annotationjava/Home). We also encourage you to use the [code examples](http://groupdocs.com/Community/files/9/java-libraries/groupdocs_annotation_for_java/category1043.aspx) that we’ve prepared to help you explore the library’s functionality quickly.
+
 
 
 

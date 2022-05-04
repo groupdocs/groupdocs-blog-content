@@ -1,5 +1,7 @@
 ---
-title: 'Convert CSV to XML in C#'
+title: "Convert CSV to XML in C#"
+seoTitle: "CSV to XML in C# | Convert CSV Data to XML Format"
+description: "Convert CSV data to XML format using C#. Automate the CSV to XML conversion within your .NET application using document and file format conversion API."
 date: Mon, 27 Sep 2021 12:59:00 +0000
 draft: false
 url: /2021/09/27/convert-csv-to-xml-in-csharp/

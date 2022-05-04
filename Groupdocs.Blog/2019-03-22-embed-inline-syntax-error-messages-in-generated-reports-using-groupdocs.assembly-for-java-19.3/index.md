@@ -5,8 +5,8 @@ draft: false
 url: /2019/03/22/embed-inline-syntax-error-messages-in-generated-reports-using-groupdocs.assembly-for-java-19.3/
 author: 'Usman Aziz'
 summary: ''
-tags: ['automated report generation', 'document automation', 'Dynamic Report Generation', 'report generation', 'Report Generation API for Java']
-categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly for Java Releases', 'GroupDocs.Assembly Product Family']
+tags: ['automated report generation', 'document automation', 'Dynamic Report Generation', 'report generation', 'Report Generation API for Java', 'GroupDocs.Assembly for Java', 'GroupDocs.Assembly for Java Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 In the latest version of [GroupDocs.Assembly for Java](https://products.groupdocs.com/assembly/java) we have introduced an exciting feature of Inline Syntax Error Messages. Are you thinking about what does make this feature so exciting? Well, I am going to answer it in this post.
@@ -32,6 +32,7 @@ For working examples, you may consult our documentation article on how to use [i
 Alright! Now you would have got the real picture of how this new feature may help you in your report generation process. So, let's try out the API features by [downloading](https://downloads.groupdocs.com/assembly/java) the latest version as well as cloning and exploring the examples project from [GitHub repository](https://github.com/groupdocs-assembly/GroupDocs.Assembly-for-Java).
 
 Do you have any questions or queries? We welcome you to have a conversation with us on our [forum](https://forum.groupdocs.com/).
+
 
 
 

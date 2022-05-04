@@ -5,8 +5,8 @@ draft: false
 url: /2018/09/24/get-list-of-indexed-documents-using-groupdocs.search-for-.net-18.9/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search', 'GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search', 'GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)We are pleased to announce the monthly release of [GroupDocs.Search for .NET](https://products.groupdocs.com/search/net) **18.9**.  Using the latest version, you can now get the list of indexed documents and document's text from the index archive. Moreover, you can now save encodings automatically which were used to extract text from TXT files.  We would recommend you to [install](https://www.nuget.org/packages/GroupDocs.Search/) and use the latest version of the API.
@@ -90,6 +90,7 @@ Here are a few channels and resources for you to download, try, learn and get te
 # Feedback
 
 If you have any suggestions, questions, or queries related to the [GroupDocs.Search for .NET API](https://products.groupdocs.com/search/net), we will be happy to hear from you. Just create a [forum thread](https://forum.groupdocs.com/c/search) to share your thoughts.
+
 
 
 

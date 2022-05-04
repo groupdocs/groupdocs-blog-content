@@ -1,5 +1,7 @@
 ---
-title: 'Convert Images to PDF in C#'
+title: "Convert Images to PDF in C#"
+seoTitle: "C# Convert JPG, PNG, GIF, TIFF Images to PDF | .NET Image Converter"
+description: "Convert images to PDF in C#. Convert JPG, TIFF, PNG, JPEG, GIF, BMP, and more files with rotation, resize, margins options using conversion API for .NET."
 date: Wed, 19 May 2021 13:43:15 +0000
 draft: false
 url: /2021/05/19/convert-images-to-pdf-in-csharp/

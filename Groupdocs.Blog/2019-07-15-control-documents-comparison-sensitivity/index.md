@@ -5,8 +5,8 @@ draft: false
 url: /2019/07/15/control-documents-comparison-sensitivity/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 Integrate GroupDocs.Comparison for .NET [19.6](https://docs.groupdocs.com/display/comparisonnet/GroupDocs.Comparison+for+.NET+19.6+Release+Notes) in your project and take control of documents comparison sensitivity. Detecting source and target documents style changes or inserted/deleted items and then highlighting them in the resultant file is a common yet major feature.
@@ -52,6 +52,7 @@ Let's see the major issues that are now resolved in this release:
 *   Merged Documents and then comparing them fails
 
 You must give a try to GroupDocs.Comparison for .NET API and share your feedback and concerns on [forum](https://forum.groupdocs.com/c/comparison). Download latest version of the API [here](https://downloads.groupdocs.com/comparison/net).
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2017/05/25/introducing-groupdocs.assembly-java-17.5.0/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly Product Family']
+tags: ['GroupDocs.Assembly for Java']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-assembly-java-1.png)](https://www.groupdocs.com/products/assembly/java)We are pleased to announce another monthly release of document generation API. [GroupDocs.Assembly for Java](https://www.groupdocs.com/products/assembly/java) 17.5.0 now permits users to set text background color dynamically and control size of an image container. We'd recommend you to explore this latest release and share your experience.
@@ -29,6 +29,7 @@ categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly Product Family']
 *   [Product Support Forum ](http://groupdocs.com/Community/forums/groupdocs.assembly-product-family/8/showforum.aspx "GroupDocs.Assembly for .NET Support forum")\- Technical Support Forum for GroupDocs.Assembly
 
 ## FeedbackWe'd like to hear your valuable feedback. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.assembly-product-family/8/showforum.aspx "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

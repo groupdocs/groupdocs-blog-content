@@ -1,5 +1,7 @@
 ---
-title: 'Build your Full Text Search Solution in C#'
+title: "Build your Full Text Search Solution in C#"
+seoTitle: "Build your Full Text Search Solution in C# | Find in Files with .NET"
+description: "Text searching API for .NET applications to search via indexing. Find text in multiple Word, Excel, PDF, text files of a folder & highlight search results."
 date: Thu, 03 Jun 2021 00:20:00 +0000
 draft: false
 url: /2021/06/03/build-your-full-text-search-solution-in-csharp/

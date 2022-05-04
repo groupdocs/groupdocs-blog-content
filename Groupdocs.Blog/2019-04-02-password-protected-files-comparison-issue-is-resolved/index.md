@@ -5,8 +5,8 @@ draft: false
 url: /2019/04/02/password-protected-files-comparison-issue-is-resolved/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for Java', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for Java']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 GroupDocs.Comparison for Java 19.3 rolls out with major bug fixes. When password protected files were compared, result was null. This might be a showstopper for you but not anymore.
@@ -20,6 +20,7 @@ Most importantly, **MultiCompare** was also returning null. Code below explains 
 You can compare a source file with multiple target files. Sounds appealing, isn't it? Don't wait, download the latest release and implement this feature.
 
 You can download the API [here](https://downloads.groupdocs.com/comparison/java). Explore [documentation](https://docs.groupdocs.com/display/comparisonjava/Home) and our open source example projects.
+
 
 
 

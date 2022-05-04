@@ -5,8 +5,8 @@ draft: false
 url: /2017/12/27/validate-license-in-groupdocs.comparison-for-java-17.3.1/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for Java', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for Java']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/09/java-comparison-logo.png)](https://www.groupdocs.com/products/comparison/java)
@@ -25,6 +25,7 @@ We have always been improving our APIs to meet the requirements of our customers
 *   [Examples/Plugins/Showcases](https://github.com/groupdocs-comparison/GroupDocs.Comparison-for-Java "Examples/Plugins/Showcases") – Github source code examples
 
 ## FeedbackWe always welcome you to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/comparison) and our dedicated support team will be there to respond.
+
 
 
 

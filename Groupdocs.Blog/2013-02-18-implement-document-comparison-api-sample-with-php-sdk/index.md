@@ -7,7 +7,8 @@ aliases:
     - /2013/02/18/implementation-of-comparison-api-sample-with-groupdocs-php-sdk/
 author: 'Derek Hyland'
 summary: ''
-tags: ['API', 'compare documents', 'comparison api', 'document comparison', 'Document Comparison API', 'document management', 'GroupDocs API SDK', 'GroupDocs Comparison', 'zArchive']
+tags: ['API', 'compare documents', 'comparison api', 'document comparison', 'Document Comparison API', 'document management', 'GroupDocs API SDK', 'zArchive']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 This article explains the basics of using PHP SDK classes and methods. In this article I'll use the Comparison API and show how to [compare two documents](https://products.groupdocs.cloud/comparison) from a GroupDocs account. [Find information about others methods in the Swagger explorer](https://api.groupdocs.cloud/v2.0/comparison/swagger/spec).
@@ -318,6 +319,7 @@ try {
 2.  Fill in a form.
 
 ### SummaryThis is how it works: the template sends data entered by a user to the controller which processes it, creating objects and triggering methods and transferring data to them. When a method is triggered, it sends a request to the API, which in turn processes the transferred data and sends a request to the GroupDocs account. In reply, GroupDocs sends the result of the processing which is transferred back on a chain that is processed graudually. ![Block Diagram](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/02/Block-Diagram1.png "Block Diagram")
+
 
 
 

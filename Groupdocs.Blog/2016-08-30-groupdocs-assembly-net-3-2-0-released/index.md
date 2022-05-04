@@ -5,8 +5,8 @@ draft: false
 url: /2016/08/30/groupdocs-assembly-net-3-2-0-released/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly Product Family']
+tags: ['GroupDocs.Assembly for .NET Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [](http://groupdocs.com/dot-net/document-assembly-library)
@@ -32,6 +32,7 @@ Team [GroupDocs](http://www.groupdocs.com "GroupDocs") is excited to announce [G
 *   [Product Support Forum ](http://groupdocs.com/Community/forums/groupdocs.assembly-product-family/8/showforum.aspx "GroupDocs.Assembly for .NET Support forum")\- Technical Support Forum for GroupDocs.Assembly
 
 ## FeedbackWe listen to your feedback carefully, please share your feedback about **Document Generation API**. We will be happy to know your thoughts. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.assembly-product-family/8/showforum.aspx "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

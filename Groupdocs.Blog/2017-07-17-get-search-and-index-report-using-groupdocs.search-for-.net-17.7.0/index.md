@@ -5,8 +5,8 @@ draft: false
 url: /2017/07/17/get-search-and-index-report-using-groupdocs.search-for-.net-17.7.0/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net) Team GroupDocs is always focused on delivering the best to their customers and this is why we have come up with yet another monthly release of the search API which adds some very valuable features and enhancements to the **GroupDocs.Search for .NET** API. Using the latest version, users can get detailed report about searching or indexing. The API has also added Fiction book format to the list of supported formats. We suggest you to update or [download](https://downloads.groupdocs.com/search/net/new-releases/groupdocs.search-for-.net-17.7.0/) the latest version of the search API and check out all the features introduced in this release.
@@ -30,6 +30,7 @@ For the list of features supported by the API ,please visit [Features Overview](
 *   [Product Support Forum](https://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) - Technical Support Forum for GroupDocs.Search
 
 ## FeedbackIf you have any suggestions, questions, or queries related to [GroupDocs.Search API](http://www.groupdocs.com/products/search/net), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

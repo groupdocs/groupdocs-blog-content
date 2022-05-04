@@ -5,8 +5,8 @@ draft: false
 url: /2018/01/24/conversion-dwf-format-supported-groupdocs.conversion-.net-18.1/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for .NET', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for .NET']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 [![GroupDocs.Conversion](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-conversion-net.png)](https://www.groupdocs.com/products/conversion/net)
@@ -38,6 +38,7 @@ We are pleased to announce the release of [GroupDocs.Conversion for .NET 18.1](h
 *   [Examples/Plugins/Showcases](https://github.com/groupdocsconversion/GroupDocs_Conversion_NET "examples,plugins,showcases") - GitHub Source Code Examples
 
 **Feedback** We always welcome you to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/conversion) and our dedicated support team will be there to respond.
+
 
 
 

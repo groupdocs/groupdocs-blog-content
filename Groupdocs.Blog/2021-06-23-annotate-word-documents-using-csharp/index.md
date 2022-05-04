@@ -1,5 +1,7 @@
 ---
-title: 'Add or Remove Annotations or Markup Word files using C#'
+title: "Add or Remove Annotations or Markup Word files using C#"
+seoTitle: "Add or Remove Annotations in C# | Annotate Word DOC DOCX files"
+description: "Programmatically add and remove annotations from Word DOC/DOCX files in C#. Add arrow, rectangle, ellipse, watermark annotations using .NET Annotation API."
 date: Wed, 23 Jun 2021 11:23:00 +0000
 draft: false
 url: /2021/06/23/annotate-word-documents-using-csharp/

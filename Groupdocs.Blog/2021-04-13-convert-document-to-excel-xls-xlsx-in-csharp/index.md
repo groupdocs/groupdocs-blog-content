@@ -1,5 +1,7 @@
 ---
-title: 'Convert Documents to Excel XLS, XLSX in C#'
+title: "Convert Documents to Excel XLS, XLSX in C#"
+seoTitle: "Convert to Spreadsheet in C# | PDF to Excel | Word to XLS XLSX"
+description: "Convert PDF to Excel (XLS, XLSX) or convert DOC, DOCX to Excel spreadsheet in C# using document conversion API for .NET. Build your own Conversion App."
 date: Tue, 13 Apr 2021 23:17:00 +0000
 draft: false
 url: /2021/04/13/convert-document-to-excel-xls-xlsx-in-csharp/

@@ -5,8 +5,8 @@ draft: false
 url: /2019/02/04/page-rotation-issue-for-epub-format-is-fixed-in-groupdocs.merger-for-.net-19.1/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Merger for .NET', 'GroupDocs.Merger Product Family']
+tags: ['GroupDocs.Merger for .NET']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 [![GroupDocs Editor for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/05/groupdocs-merger.png)](https://www.groupdocs.com/products/merger/net)
@@ -35,6 +35,7 @@ Here are a few channels and resources for you to learn, try and get technical su
 *   [Product Support Forum](https://forum.groupdocs.com/c/merger) - Technical Support Forum for GroupDocs.Merger queries
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/merger "Technical Support Forum").
+
 
 
 

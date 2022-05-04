@@ -5,8 +5,8 @@ draft: false
 url: /2018/02/11/dynamic-chart-axis-title-in-groupdocs.assembly-for-java-18.1/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['Document Assembly API', 'GroupDocs Assembly']
-categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly for Java Releases', 'GroupDocs.Assembly Product Family']
+tags: ['Document Assembly API', 'GroupDocs Assembly', 'GroupDocs.Assembly for Java', 'GroupDocs.Assembly for Java Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [![Document Assembly API](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-assembly-java-1.png)](https://www.groupdocs.com/products/assembly/java)At [GroupDocs](https://www.groupdocs.com/), we are always focused on improving our API's. In this regard, we are excitedly announcing another monthly release of [GroupDocs.Assembly for Java](https://products.groupdocs.com/assembly/java) **18.1**. Using the latest version, you can now change **chart axis title dynamically** in the spreadsheet,  presentation, and email documents. We would recommend you to [download](https://downloads.groupdocs.com/assembly/java) and integrate this latest release.
@@ -27,6 +27,7 @@ categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly for Java Release
 *   [Product Support Forum ](https://forum.groupdocs.com/c/assembly "GroupDocs.Assembly for Java Support forum")\- Technical support forum for GroupDocs.Assembly
 
 ## FeedbackWe'd like to hear your valuable feedback. Just create a [forum thread](https://forum.groupdocs.com/c/assembly "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

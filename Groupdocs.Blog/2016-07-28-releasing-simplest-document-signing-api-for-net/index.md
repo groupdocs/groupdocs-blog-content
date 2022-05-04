@@ -5,8 +5,8 @@ draft: false
 url: /2016/07/28/releasing-simplest-document-signing-api-for-net/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Signature for .NET Releases', 'GroupDocs.Signature Product Family']
+tags: ['GroupDocs.Signature for .NET Releases']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 [![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2016/07/groupdocs-signature-net.png)](https://www.groupdocs.com/products/signature/net)
@@ -37,6 +37,7 @@ Today, team [GroupDocs](http://www.groupdocs.com/) is pleased to announce the re
 *   [Product Support Forum](http://www.groupdocs.com/Community/forums/groupdocs.signature-product-family/6/showforum.aspx "GroupDocs.Signature for .NET Support forum") \- Technical Support Forum for GroupDocs.Signature
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.signature-product-family/6/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

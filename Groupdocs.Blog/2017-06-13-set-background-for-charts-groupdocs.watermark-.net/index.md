@@ -5,8 +5,8 @@ draft: false
 url: /2017/06/13/set-background-for-charts-groupdocs.watermark-.net/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'Document Watermarking', 'PDF Rasterization']
-categories: ['GroupDocs.Watermark for .NET Release', 'GroupDocs.Watermark Product Family']
+tags: ['.NET Watermarking API', 'Document Watermarking', 'PDF Rasterization', 'GroupDocs.Watermark for .NET Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/05/GroupDocs-Watermark-for-.NET_.png)](http://groupdocs.com/dot-net/document-watermark-library)
@@ -31,6 +31,7 @@ For more details on the supported feature, please visit the article: [GroupDocs.
 *   [Product Support Forum](http://www.groupdocs.com/Community/forums/groupdocs.watermark-product-family/55/showforum.aspx) - Technical Support Forum for GroupDocs.Watermark
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](http://www.groupdocs.com/Community/forums/groupdocs.watermark-product-family/55/showforum.aspx "Technical Support Forum").
+
 
 
 

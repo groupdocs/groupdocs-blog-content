@@ -5,8 +5,8 @@ draft: false
 url: /2018/12/27/groupdocs.merger-for-java-18.12/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Merger for Java', 'GroupDocs.Merger Product Family']
+tags: ['GroupDocs.Merger for Java']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 [![GroupDocs Editor for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/08/groupdocs-merger.png)](https://www.groupdocs.com/products/merger/java)
@@ -43,6 +43,7 @@ DocumentResult result = new DocumentHandler().rotatePages(documentExample, Rotat
 *   [Documentation](https://docs.groupdocs.com/display/mergerjava/Home "Documentation") - Product Documentation
 *   [Examples](https://github.com/groupdocs-merger/GroupDocs.Merger-for-Java "Example projects") - GitHub source code examples
 *   [Product Support Forum](https://forum.groupdocs.com/c/merger "Support forum") \- Technical Support Forum for GroupDocs.Merger
+
 
 
 

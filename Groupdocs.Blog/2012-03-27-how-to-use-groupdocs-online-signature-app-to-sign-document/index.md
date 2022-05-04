@@ -5,7 +5,8 @@ draft: false
 url: /2012/03/27/how-to-use-groupdocs-online-signature-app-to-sign-document/
 author: 'Derek Hyland'
 summary: ''
-tags: ['GroupDocs Signature', 'online document signing', 'online signature', 'online signature service', 'sign documents online', 'zArchive']
+tags: ['online document signing', 'online signature', 'online signature service', 'sign documents online', 'zArchive']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 In one of our previous articles we discussed [how a typical online signature service works](https://blog.groupdocs.com/what-you-expect-from-online-signature-service) and took a brief look at GroupDocs' [online signature app](http://groupdocs.com/apps/signature). Today we'll see how this application helps you to sign a document online step by step. This article doesn't cover all the features of the app, just the basics you need to know to sign a document online. **Please Note:** to start using GroupDocs' online signature service, you need to [register with us](http://groupdocs.com/purchase/cloud-app-pricing) first. But don't worry: we provide a free 14 days trial so that you can test the apps' features before buying it.
@@ -32,6 +33,7 @@ In one of our previous articles we discussed [how a typical online signature se
 5.  You are informed by email once the document is signed.
 
 \[caption id="attachment\_66" align="aligncenter" width="600" caption="GroupDocs Online Signature dashboard shows the status of your signature envelopes."\]![GroupDocs Online Signature dashboard shows the status of your signature envelopes.](https://blog.groupdocs.com/wp-content/uploads/sites/4/2012/03/signature-dashboard2.png "GroupDocs Online Signature dashboard shows the status of your signature envelopes.")\[/caption\] This is how the signing process basically looks like. [Find more about GroupDocs's online signature app's features](http://groupdocs.com/apps/signature). We appreciate you comments and suggestions so please feel free to [contact us](http://groupdocs.com/corporate/contact-us).
+
 
 
 

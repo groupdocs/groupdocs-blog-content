@@ -5,8 +5,8 @@ draft: false
 url: /2017/08/09/groupdocs.search-for-.net-17.8.0/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)It gives us great pleasure to announce the release of version 17.8.0 of **GroupDocs.Search for .NET** API. This regular monthly release adds a number of new features to the API along with an enhancement and a breaking change. Like our previous releases, we have tried our best to improve the working of the API and as a result we have come up with a breaking change where all the argument classes have been fixed according to best practices. The API has also removed some obsolete functions. Apart from these improvements, a number of new features have also been added to the API like limiting the search report, implementing accent insensitive indexing, limiting the index report, indexing ZIP archive etc are just to name a few. So, what are you waiting for? Just [download](https://downloads.groupdocs.com/search/net/new-releases/groupdocs.search-for-.net-17.8.0/) the latest API and enjoy all the features and improvements made to the search API in this release.
@@ -53,6 +53,7 @@ The latest release comes up with a single enhancement. The SimilarityLevel prope
 # Feedback
 
 If you have any suggestions, questions, or queries related to [documents search API](http://www.groupdocs.com/products/search/net), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

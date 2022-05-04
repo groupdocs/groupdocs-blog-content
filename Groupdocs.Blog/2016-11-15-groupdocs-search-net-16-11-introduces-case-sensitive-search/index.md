@@ -5,8 +5,8 @@ draft: false
 url: /2016/11/15/groupdocs-search-net-16-11-introduces-case-sensitive-search/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net) We  as members of GroupDocs team are immensely delighted to see our users community growing every day. There has also been an inflow of customers recommendations and feedback, for which we owe you our gratitude.  We thank you , for providing us the impetus to work even harder at improving our performance. Our whole team is always endeavoring to cater to your needs and requirements to our fullest possible potential thus providing the most innovative and enhanced solutions to our valuable customers. In this regard we are really pleased to announce yet another bit of our efforts for you that is the release of our monthly  [GroupDocs.Search for .NET](http://www.groupdocs.com/products/search/net "GroupDocs.Search"). In this release, we have introduced case sensitive search that enables the users to narrow down their search based on the letter casing. [Download](http://www.groupdocs.com/downloads/search/net/new-releases/groupdocs.search-for-.net-16.11.0/ "GroupDocs.Search Download") the latest version to upgrade your applications.
@@ -34,6 +34,7 @@ Here are a few channels and resources for you to download, try, learn and get te
 # Feedback
 
 If you have any suggestions, questions, or queries related to [GroupDocs.Search API](http://www.groupdocs.com/dot-net/document-search-api), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

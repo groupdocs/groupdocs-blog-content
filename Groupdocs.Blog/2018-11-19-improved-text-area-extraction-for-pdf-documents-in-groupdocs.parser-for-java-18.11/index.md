@@ -5,8 +5,8 @@ draft: false
 url: /2018/11/19/improved-text-area-extraction-for-pdf-documents-in-groupdocs.parser-for-java-18.11/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Document Parser', 'document text extraction', 'document text parser', 'Java API', 'Java Text Extractor', 'text extraction API', 'text extractor API for Java']
-categories: ['GroupDocs.Parser for Java Releases', 'GroupDocs.Parser Product Family']
+tags: ['Document Parser', 'document text extraction', 'document text parser', 'Java API', 'Java Text Extractor', 'text extraction API', 'text extractor API for Java', 'GroupDocs.Parser for Java Releases']
+categories: ['GroupDocs.Parser Product Family']
 ---
 
 ![GroupDocs.Parser for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/06/groupdocs-parser-java.png "GroupDocs-Parser-theme-100x100")
@@ -50,6 +50,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/"Technical Support Forum").
+
 
 
 

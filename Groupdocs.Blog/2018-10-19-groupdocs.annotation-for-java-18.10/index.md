@@ -5,8 +5,8 @@ draft: false
 url: /2018/10/19/groupdocs.annotation-for-java-18.10/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for Java']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 [![Logo Image](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/12/groupdocs-annotation-java.png)](https://products.groupdocs.com/annotation/java)We are excitedly announcing another monthly release of **GroupDocs.Annotation for Java 18.10**. Using this latest version, you can add Point, Polyline and Watermark annotations in Words and Diagrams document. Beside this, a multitude of bug fixes are also introduced in this release. We therefore recommend you to download this [latest](https://downloads.groupdocs.com/annotation/java) release for a better API experience.
@@ -56,6 +56,7 @@ annotations.add(pointAnnnotation);
 # Feedback
 
 We always appreciate and welcome to our valuable users to share their feedback to improve this product. We will be happy to know your thoughts and suggestions. Just create a [forum thread](https://forum.groupdocs.com/c/annotation) and our dedicated support team will be there to respond.
+
 
 
 

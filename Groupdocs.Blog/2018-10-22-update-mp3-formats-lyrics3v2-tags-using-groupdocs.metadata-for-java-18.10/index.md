@@ -5,8 +5,8 @@ draft: false
 url: /2018/10/22/update-mp3-formats-lyrics3v2-tags-using-groupdocs.metadata-for-java-18.10/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata for Java', 'GroupDocs.Metadata for Java Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata', 'GroupDocs.Metadata for Java', 'GroupDocs.Metadata for Java Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/12/groupdocs-metadata-java.png "GroupDocs-Metadata-theme-100x100")We are glad to announce the monthly releaseof [GroupDocs.Metadata for Java](https://products.groupdocs.com/metadata/java) **18.10**. Using the latest version, you can now update **Lyrics3v2** tags in MP3 format. Memory consumption is now reduced for working with PNG, JPEG2000, BMP, DICOM, DJVU, EMF, WEBP and WMF formats. Furthermore, **MetadataUtility **obsolete methods are now removed and a bug, while cleaning or updating metadata of Strict Open XML Presentation (.pptx), is now fixed.  We recommend you to [install](https://artifact.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-metadata/maven-metadata.xml) and use the latest version of the API.
@@ -35,6 +35,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) – Technical support forum for GroupDocs.Metadata product family
 
 ## FeedbackWe always love to hear your valuable feedback. Share your suggestions, questions, or queries related to GroupDocs.Metadata for Java at our [forum](https://forum.groupdocs.com/c/metadata).
+
 
 
 

@@ -1,5 +1,7 @@
 ---
-title: 'Generate Reports from XML Data in Java'
+title: "Generate Reports from XML Data in Java"
+seoTitle: "PDF & Word Reports from XML in Java | XML to PDF and DOCX"
+description: "Automate reports generation by converting XML data into PDF & DOC/DOCX via text based templates using Java API by GroupDocs."
 date: Sat, 10 Jul 2021 10:01:00 +0000
 draft: false
 url: /2021/07/10/generate-reports-from-xml-data-in-java/

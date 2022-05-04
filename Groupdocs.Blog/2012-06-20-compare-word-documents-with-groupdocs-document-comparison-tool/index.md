@@ -8,7 +8,8 @@ aliases:
     - /blog/compare-word-documents-with-groupdocs-document-comparison-tool
 author: 'Derek Hyland'
 summary: ''
-tags: ['compare documents', 'compare documents online', 'compare two documents', 'compare two word documents', 'compare word documents', 'document comparison', 'documentation comparison tool', 'GroupDocs Comparison', 'online document comparison', 'zArchive']
+tags: ['compare documents', 'compare documents online', 'compare two documents', 'compare two word documents', 'compare word documents', 'document comparison', 'documentation comparison tool', 'online document comparison', 'zArchive']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 GroupDocs Comparison is a web-based tool that allows you to [compare Word documents](http://groupdocs.com/apps/comparison), as well as PDF, Excel and other documents online. It combines two documents and highlights differences. While comparing documents, the app generates a redline and blueline view of how the documents differ. GroupDocs' document comparison tool highlights the differences this way: red strike-outs show deleted text and formatting; and blue underlines show added text and formatting. GroupDocs Comparison is mainly used to compare two Word documents. Our document comparison tool also supports PPTX, PDF, and Excel document formats, but they are in a beta stage.

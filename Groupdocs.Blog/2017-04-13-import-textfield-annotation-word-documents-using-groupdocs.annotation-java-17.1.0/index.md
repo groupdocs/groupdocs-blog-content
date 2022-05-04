@@ -5,8 +5,8 @@ draft: false
 url: /2017/04/13/import-textfield-annotation-word-documents-using-groupdocs.annotation-java-17.1.0/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for Java']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 [![Logo Image](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/12/groupdocs-annotation-java.png)](http://www.groupdocs.com/products/annotation/java)Considering the extensibility of the API, team [GroupDocs](https://www.groupdocs.com/) is pleased to announce another monthly release of GroupDocs.Annotation for Java 17.1.0. This release comes with multitude of new features, improvements and bug fixes. Now, GroupDocs.Annotation for Java developers can import annotations from Word and Slide documents. Furthermore, API permits developers to annotate Slide documents with different annotation types. We'd recommend you to fetch latest release of the API, integrate it in your project and share your valuable feedback.
@@ -81,6 +81,7 @@ categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Fami
 *   [Product Support Forum](http://groupdocs.com/Community/forums/groupdocs.annotation-product-family/5/showforum.aspx "Support forum") - Technical Support Forum for GroupDocs.Annotation
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.annotation-product-family/5/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

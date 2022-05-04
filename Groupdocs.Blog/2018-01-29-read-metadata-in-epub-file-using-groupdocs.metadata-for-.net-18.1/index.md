@@ -7,8 +7,8 @@ aliases:
     - /2018/01/29/read-metadata-in-epub-file-format-using-groupdocs.meatadata-for-.net-18.1/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['document-metadata', 'GroupDocs.Metadata Releases', 'Metadata Editor']
-categories: ['GroupDocs.Metadata for .NET', 'GroupDocs.Metadata Product Family']
+tags: ['document-metadata', 'GroupDocs.Metadata Releases', 'Metadata Editor', 'GroupDocs.Metadata for .NET']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")GroupDocs team is proudly announcing the support for **Epub file format's **metadata operations in the monthly release of [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net) **18.1**. Using the latest release, you can now **detect** **Epub** file format and read its **metadata** and **DublinCore **information. We recommend you to [download](https://downloads.groupdocs.com/metadata/net/new-releases/groupdocs.metadata-for-.net-18.1/) and use the latest version of the API.
@@ -31,6 +31,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) - Technical Support Forum for GroupDocs Metadata
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata](https://products.groupdocs.com/metadata/net ".NET Metadata API") for .NET API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/metadata).
+
 
 
 

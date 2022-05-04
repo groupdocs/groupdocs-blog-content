@@ -5,8 +5,8 @@ draft: false
 url: /2019/11/13/search-text-or-image-signatures-in-documents-using-groupdocs-signature-for-net/
 author: 'Usman Aziz'
 summary: ''
-tags: ['API', 'dotnet', 'electronic signature']
-categories: ['GroupDocs.Signature for .NET', 'GroupDocs.Signature Product Family']
+tags: ['API', 'dotnet', 'electronic signature', 'GroupDocs.Signature for .NET']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 
@@ -57,6 +57,7 @@ We received a number of requests from our customers for the support of [.NET Cor
 The memory leaks were found in the previous versions of the API while previewing the documents. This issue has now been fixed in v19.10.
 
 You can [download](https://downloads.groupdocs.com/signature/net) the latest version of the API to avail the above-mentioned features and fix. For running code samples, download or clone the examples project from the GitHub [repository](https://github.com/groupdocs-signature/GroupDocs.Signature-for-.NET). You can also get in touch with us via our [forum](https://forum.groupdocs.com/c/signature).
+
 
 
 

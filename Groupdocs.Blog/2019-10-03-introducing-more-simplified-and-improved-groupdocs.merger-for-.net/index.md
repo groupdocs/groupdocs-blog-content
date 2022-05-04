@@ -5,8 +5,8 @@ draft: false
 url: /2019/10/03/introducing-more-simplified-and-improved-groupdocs.merger-for-.net/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Merger for .NET', 'GroupDocs.Merger Product Family']
+tags: ['GroupDocs.Merger for .NET']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 GroupDocs.Merger for .NET allows you to merge or manipulate document structure across a wide range of file [formats](https://docs.groupdocs.com/display/mergernet/Supported+Document+Types). Those who are new to this API, you can join several documents into one, split single document to multiple documents, reorder or replace document pages, change page orientation and manage document password.
@@ -31,6 +31,7 @@ The legacy API have been moved into Legacy namespace so after update to this ver
 
 One new file format **.mht** is also supported in this version.  
 Download or clone our updated [GitHub](https://github.com/groupdocs-merger/GroupDocs.Merger-for-.NET) example project. Go through the [developer guide](https://docs.groupdocs.com/display/mergernet/Developer+Guide) and if you face any issue, you can post on [forum](https://forum.groupdocs.com/c/merger).
+
 
 
 

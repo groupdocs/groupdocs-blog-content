@@ -5,7 +5,8 @@ draft: false
 url: /2014/11/21/control-meta-data-and-build-custom-ui-with-groupdocs-annotaion-for-java-library-version-1-7-0/
 author: 'Ihor Mykhalevych'
 summary: ''
-tags: ['annotation for java library', 'GroupDocs Annotation', 'Uncategorized']
+tags: ['annotation for java library', 'Uncategorized']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 [![GroupDocs.Annotation for Java Library](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/04/GD_ANT_JavaIcon_1141.png)](http://groupdocs.com/java/document-annotation-library) [GroupDocs.Annotation for Java](http://groupdocs.com/java/document-annotation-library) is a lightweight library that allows end users to annotate PDF and Microsoft Office documents, raster images, AutoCAD drawings and 50+ types of files without the need to install the software that the documents or images were created in. A convenient web UI allows users to view, annotate, redact, comment on and share documents from any web-enabled device. Recently we’ve released a new GroupDocs.Annotation for Java library – version 1.7.0. We’ve greatly enhanced the metadata storage APIs, revealed the public document manipulation API and made a couple of other useful tweaks. In this post I’d like to discuss these updates in more detail.You can seamlessly integrate GroupDocs.Annotation for Java into your own web, desktop or mobile application to enhance your users’ document collaboration experience. The underlying APIs allow you to customize the web UI that comes with the library, or build your own desktop or mobile interface from scratch.
@@ -37,6 +38,7 @@ getPrintView
 String getStrikeOutColor()
 String getUnderlineColor()
 ```Other fixes and improvements have been made to the front-end and exporting functionality. Please check the full list of updates on the GroupDocs.Annotation for Java library [download page](http://groupdocs.com/Community/files/9/java-libraries/groupdocs_annotation_for_java/entry3111.aspx). For more information on the library, please visit its [homepage](http://groupdocs.com/java/document-annotation-library).
+
 
 
 

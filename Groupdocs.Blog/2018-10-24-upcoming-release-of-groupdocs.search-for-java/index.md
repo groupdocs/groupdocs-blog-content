@@ -5,8 +5,8 @@ draft: false
 url: /2018/10/24/upcoming-release-of-groupdocs.search-for-java/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs Search for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/10/groupdocs.search-for-java-90x90.png)](https://www.groupdocs.com/products/search)
@@ -91,6 +91,7 @@ The API will initially support the following document types for text extraction:
 *   ZIP Archives
 
 ## First Version AvailabilityWe are finalizing the first release of GroupDocs.Search for Java and hope that you will be able to avail it very soon. Please stay tuned for further updates. We would be happy to hear your queries or suggestions at [GroupDocs.Search](https://forum.groupdocs.com/c/search) forum.
+
 
 
 

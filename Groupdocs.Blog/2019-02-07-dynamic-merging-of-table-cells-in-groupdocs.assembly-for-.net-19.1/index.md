@@ -5,8 +5,8 @@ draft: false
 url: /2019/02/07/dynamic-merging-of-table-cells-in-groupdocs.assembly-for-.net-19.1/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Reporting API', 'Dynamic Report Generation', 'Report Generation API for .NET', 'Reporting API for .NET']
-categories: ['GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly Product Family']
+tags: ['.NET Reporting API', 'Dynamic Report Generation', 'Report Generation API for .NET', 'Reporting API for .NET', 'GroupDocs.Assembly for .NET Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-assembly-net.png)We are delighted to announce the release of [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net) **19.1**. The latest version allows you to merge the table cells having equal textual contents within your reports dynamically. Furthermore, we have introduced the feature of adding optional comments within the syntax tags that can provide a human-readable explanation. For more details on the latest version, please have a glance at the [release notes](https://docs.groupdocs.com/display/assemblynet/GroupDocs.Assembly+for+.net+19.1+Release+Notes).
@@ -42,6 +42,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, if you have some questions, queries or suggestions about [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net) API, just share with us by creating a [forum thread](https://forum.groupdocs.com/c/assembly).
+
 
 
 

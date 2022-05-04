@@ -5,8 +5,8 @@ draft: false
 url: /2018/10/02/change-target-file-format-using-groupdocs.assembly-for-.net-18.9/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Assembly', 'GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly Product Family']
+tags: ['GroupDocs.Assembly', 'GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-assembly-net.png)We are delighted to announce a powerful new feature in the monthly release of [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net) **18.9**. Using the latest version,  you can now change the target file format of an assembled document using file extension or explicit specification. You can change the target file format when assembling Word Processing, Spreadsheet, Presentation, Email and Text file formats. We recommend you to [install](https://www.nuget.org/packages/GroupDocs.Assembly/) and use the latest version of the API.
@@ -74,6 +74,7 @@ public void AssembleDocument(Stream sourceStream, Stream targetStream, object[] 
 *   [Product Support Forum](https://forum.groupdocs.com/c/assembly) - Technical Support Forum for GroupDocs Assembly
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net) API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/assembly).
+
 
 
 

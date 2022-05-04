@@ -5,8 +5,8 @@ draft: false
 url: /2018/11/20/remove-empty-paragraphs-in-groupdocs.assembly-for-.net-18.10/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Assembly', 'GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly Product Family']
+tags: ['GroupDocs.Assembly', 'GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-assembly-net.png)We are delighted to announce a new feature in the monthly release of [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net) **18.10**. Using the latest version, you can now remove empty paragraphs in word processing, presentation, and email documents. We recommend you to [install](https://www.nuget.org/packages/GroupDocs.Assembly/) and use the latest version of the API.
@@ -45,6 +45,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, if you have some questions, queries or suggestions about [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net) API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/assembly).
+
 
 
 

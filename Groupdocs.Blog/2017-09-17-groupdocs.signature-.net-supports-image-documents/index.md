@@ -5,8 +5,8 @@ draft: false
 url: /2017/09/17/groupdocs.signature-.net-supports-image-documents/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Signature for .NET Releases', 'GroupDocs.Signature Product Family']
+tags: ['GroupDocs.Signature for .NET Releases']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 [![GroupDocs.Signature](http://blog.groupdocs.com/wp-content/uploads/sites/4/2016/07/groupdocs-signature-net.png)](https://www.groupdocs.com/products/signature/net)
@@ -56,6 +56,7 @@ Here are a few channels and resources for you to learn, try and get technical su
 # Feedback
 
 As always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/signature) and our dedicated support team will be there to respond.
+
 
 
 

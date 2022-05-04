@@ -1,5 +1,7 @@
 ---
-title: 'Manage XMP and EXIF Data of HEIF/HEIC Images using Java'
+title: "Manage XMP and EXIF Data of HEIF/HEIC Images using Java"
+seoTitle: "Handle XMP and EXIF Data of HEIF HEIC Images in Java"
+description: "Manage XMP and EXIF data of HEIF, HEIC images in Java. Read, update, remove EXIF and XMP data using Metadata manipulation API within Java applications."
 date: Mon, 10 May 2021 08:20:00 +0000
 draft: false
 url: /2021/05/10/xmp-and-exif-data-of-heif-heic-images-using-java/

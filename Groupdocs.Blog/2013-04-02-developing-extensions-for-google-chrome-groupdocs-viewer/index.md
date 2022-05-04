@@ -5,7 +5,8 @@ draft: false
 url: /2013/04/02/developing-extensions-for-google-chrome-groupdocs-viewer/
 author: 'Derek Hyland'
 summary: ''
-tags: ['document collaboration', 'document management', 'document upload', 'GroupDocs Viewer', 'GroupDocs Viewer Plugin', 'online document management system', 'online document viewer', 'View documents online', 'zArchive']
+tags: ['document collaboration', 'document management', 'document upload', 'GroupDocs Viewer Plugin', 'online document management system', 'online document viewer', 'View documents online', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 This article describes how Google Chrome extensions are structured. Also I'll show you how to create one using the [GroupDocs Viewer extension](https://github.com/groupdocs-viewer/) as an example.
@@ -116,6 +117,7 @@ I won't describe the other objects, as they very simple. Generally, they generat
 2.  Create the manifest file, complete with descriptions and resources.
 3.  Test in Chrome.
 4.  Package and publish.
+
 
 
 

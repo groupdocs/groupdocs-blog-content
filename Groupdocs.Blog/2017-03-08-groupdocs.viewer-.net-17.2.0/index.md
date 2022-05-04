@@ -5,8 +5,8 @@ draft: false
 url: /2017/03/08/groupdocs.viewer-.net-17.2.0/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.net document viewer API', 'online document viewer']
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['.net document viewer API', 'online document viewer', 'GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs Viewer for .NET](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-viewer-net.png)](http://groupdocs.com/dot-net/document-viewer-library)
@@ -44,6 +44,7 @@ For more details, please visit [API Features](https://docs.groupdocs.com/viewer/
 *   [Sample Front Ends](https://github.com/groupdocs-viewer/ "Open Source Document Viewer Applications") - Open Source **Document Viewer** Applications
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](http://groupdocs.com/Community/forums/groupdocs.viewer-product-family/4/showforum.aspx "Technical Support Forum").
+
 
 
 

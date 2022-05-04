@@ -5,8 +5,8 @@ draft: false
 url: /2017/12/08/compare-onenote-tables-groupdocs.comparison-.net-17.12/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-comparison-net.png)](https://www.groupdocs.com/products/comparison/net)We are pleased to announce another monthly release of [GroupDocs.Comparison for .NET 17.12](https://products.groupdocs.com/comparison/net "Document Comparison API "). This release covers 2 new features, some improvements and bug fixes. API allows comparison of PDF documents with hyperlinks in the content and tables comparison for OneNote documents. Aside these features, count of changes on summary page is improved. We'd recommend you to download latest version of the API and share your document comparison experience.
@@ -46,6 +46,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 You are always welcome to share your feedback and suggestions to improve this product, we take it very seriously and try to incorporate it as much as its possible for upcoming releases . We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/comparison) and our dedicated support team will be there to respond.
+
 
 
 

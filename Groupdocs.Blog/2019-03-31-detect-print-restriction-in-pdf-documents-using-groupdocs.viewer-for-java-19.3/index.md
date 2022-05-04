@@ -5,8 +5,8 @@ draft: false
 url: /2019/03/31/detect-print-restriction-in-pdf-documents-using-groupdocs.viewer-for-java-19.3/
 author: 'Usman Aziz'
 summary: ''
-tags: ['document rendering API', 'document viewer', 'document viewer API for Java', 'PDF viewer']
-categories: ['GroupDocs.Viewer for Java Releases', 'GroupDocs.Viewer Product Family']
+tags: ['document rendering API', 'document viewer', 'document viewer API for Java', 'PDF viewer', 'GroupDocs.Viewer for Java Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 PDF is a widely used document format that also supports interactive elements including annotations, forms, 3D objects, layers, etc. Along with these elements, PDF format also supports setting restrictions such as print restriction, modification restriction, restrictions on data extraction and so on. Such features give the user more control over the document and therefore, the PDF has become a popular document format.
@@ -23,6 +23,7 @@ Not only this, but we have also extended the list of our supported document form
 *   PCL (Printer command language)
 
 Well, these could be the interesting additions in the API for you. If yes, let's not wait and [download](https://downloads.groupdocs.com/viewer/java) the latest version of GroupDocs.Viewer for Java. To evaluate the API features, you may clone and explore the examples project from [GitHub repository](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-Java). In case you want to share your reviews, concerns or feedback, we welcome you on our [forum](https://forum.groupdocs.com).
+
 
 
 

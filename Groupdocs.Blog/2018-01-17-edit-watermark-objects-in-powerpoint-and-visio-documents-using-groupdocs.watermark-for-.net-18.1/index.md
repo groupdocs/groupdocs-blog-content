@@ -5,8 +5,8 @@ draft: false
 url: /2018/01/17/edit-watermark-objects-in-powerpoint-and-visio-documents-using-groupdocs.watermark-for-.net-18.1/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET API', '.NET Watermarking API', 'Document Watermarking', 'watermarking', 'Watermarking API for .NET']
-categories: ['GroupDocs.Watermark for .NET Release', 'GroupDocs.Watermark Product Family']
+tags: ['.NET API', '.NET Watermarking API', 'Document Watermarking', 'watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/05/GroupDocs-Watermark-for-.NET_.png)](http://groupdocs.com/dot-net/document-watermark-library)We are happy to announce that [GroupDocs.Watermark for .NET](https://products.groupdocs.com/watermark/net) 18.1 has been released and it is available for download. In this release, we have added the support of editing the objects that can be considered as watermark in MS PowerPoint and MS Visio documents. Please continue to read more about this latest release.
@@ -34,6 +34,7 @@ categories: ['GroupDocs.Watermark for .NET Release', 'GroupDocs.Watermark Produc
 *   [Product Support Forum](https://forum.groupdocs.com/c/watermark) - Technical Support Forum for GroupDocs.Watermark
 
 ## FeedbackAs always, we would love to hear your queries and suggestions at our [forum](https://forum.groupdocs.com/c/watermark "Technical Support Forum").
+
 
 
 

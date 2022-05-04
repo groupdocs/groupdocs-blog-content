@@ -1,5 +1,7 @@
 ---
-title: 'Convert EML or MSG file to PDF in C#'
+title: "Convert EML or MSG file to PDF in C#"
+seoTitle: "Convert EML or MSG files to PDF in C# | Emails to PDF Conversion API"
+description: "Programmatically convert email messages like EML and MSG to PDF documents in C#. Use the .NET conversion API in your desktop, console, or web applications."
 date: Wed, 26 May 2021 12:50:00 +0000
 draft: false
 url: /2021/05/26/convert-eml-or-msg-file-to-pdf-in-csharp/

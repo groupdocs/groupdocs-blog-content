@@ -5,8 +5,8 @@ draft: false
 url: /2016/06/14/read-iptc-iim-ms-project-metadata-export-excel-dataset-csv/
 author: 'Usman Aziz'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100") We are pleased to announce another monthly release of [GroupDocs.Metatada](http://www.groupdocs.com/products/metadata/net) as GroupDocs.Metadata for .NET 1.4.0. New promising features i-e reading IPTC and IPTC-IIM Metadata in JPEG, reading metadata in MS Project document and exporting metadata to Excel, DataSet and CSV file have enhanced the worth of the API. Let's see in more details what is new in latest version.
@@ -32,6 +32,7 @@ categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product
 *   [Example / Plugins](https://github.com/groupdocs-metadata/GroupDocs.Metadata-for-.NET) - Github Source Code Examples
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

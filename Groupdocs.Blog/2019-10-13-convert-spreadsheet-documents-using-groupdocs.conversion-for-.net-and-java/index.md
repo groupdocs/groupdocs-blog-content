@@ -5,8 +5,8 @@ draft: false
 url: /2019/10/13/convert-spreadsheet-documents-using-groupdocs.conversion-for-.net-and-java/
 author: 'Samicheema'
 summary: ''
-tags: ['API', 'conversion', 'conversion api', 'conversion tool', 'Convert Document', 'document conversion', 'document conversion tool', 'GroupDocs Conversion', 'Spreadsheet Conversion', 'Spreadsheet to PDF']
-categories: ['GroupDocs.Conversion for .NET', 'GroupDocs.Conversion for Java', 'GroupDocs.Conversion Product Family']
+tags: ['API', 'conversion', 'conversion api', 'conversion tool', 'Convert Document', 'document conversion', 'document conversion tool', 'GroupDocs Conversion', 'Spreadsheet Conversion', 'Spreadsheet to PDF', 'GroupDocs.Conversion for .NET', 'GroupDocs.Conversion for Java']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 ## Reason to use a Document Conversion API
@@ -38,6 +38,7 @@ A converted document will look like the following screenshot:
 *   
 
 {{< figure align=center src="images/Output-1024x592.png" alt="">}}
+
 
 
 

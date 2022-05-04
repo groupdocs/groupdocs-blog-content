@@ -5,8 +5,8 @@ draft: false
 url: /2017/08/24/read-maker-notes-from-canon-and-panasonic-using-groupdocs.metadata-for-.net-17.8.0/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")The [GroupDocs](https://www.groupdocs.com/) team is really pleased to announce the release of version 17.8.0 of the **GroupDocs.Metadata for .NET** API. The latest release comes up with a couple of new features and enhancements along with a bug fix. The API further improves its functionality by implementing the ability to read maker notes for Canon and Panasonic cameras. Beside adding two new manufacturers to the supported list, the API now supports some more camera models for SONY and Nikon that were not previously supported. We recommend you to [download](https://downloads.groupdocs.com/metadata/net/new-releases/groupdocs.metadata-for-.net-17.8.0/) and integrate this latest release.
@@ -47,6 +47,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 *   As always, if you have some questions, queries or suggestions about [Metadata extraction API for .NET](http://www.groupdocs.com/products/metadata/net ".NET Metadata API"), just share with us by creating a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx).
+
 
 
 

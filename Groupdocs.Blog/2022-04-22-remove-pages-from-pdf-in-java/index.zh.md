@@ -7,7 +7,7 @@ url: /zh/2022/04/22/remove-pages-from-pdf-in-java/
 author: 'Shoaib Khan'
 summary: "更新旧文档时；要求从最新版本的文档中删除过时、过时甚至高度机密的页面。在本文中，我们将学习**如何以编程方式从 Java 中的 PDF 文档中删除此类页面**。此外，我们将讨论删除 PDF 文档的页面列表、页面范围、偶数页和奇数页的不同方法。"
 tags: ['delete pages', 'delete pages in java', 'remove pages', 'remove pages in java', 'delete pages from pdf in java']
-categories: ['GroupDocs.Merger Product Solution']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 更新旧文档时；要求从最新版本的文档中删除过时、过时甚至高度机密的页面。在本文中，我们将学习**如何以编程方式从 Java 中的 PDF 文档中删除此类页面**。此外，我们将讨论删除 PDF 文档的页面列表、页面范围、偶数页和奇数页的不同方法。

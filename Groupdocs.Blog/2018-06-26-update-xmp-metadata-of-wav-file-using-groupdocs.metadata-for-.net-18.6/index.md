@@ -5,8 +5,8 @@ draft: false
 url: /2018/06/26/update-xmp-metadata-of-wav-file-using-groupdocs.metadata-for-.net-18.6/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata for .NET', 'GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata', 'GroupDocs.Metadata for .NET', 'GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")GroupDocs team is introducing two new features and three enhancements in the monthly release of [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net) **18.6**. Using the latest version, you can now edit XMP metadata of WAV file format and update metadata properties of MPP file format. Furthermore, memory consumption for loading and saving metadata is now reduced for MPP, WAV and AVI file formats. A bug related to removing XMP metadata in Tiff file format is also resolved in the latest version. We recommend you to [install](https://www.nuget.org/packages/GroupDocs.Metadata/) and use the latest version of the API.
@@ -37,6 +37,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) - Technical Support Forum for GroupDocs Metadata
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net ".NET Metadata API") API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/metadata).
+
 
 
 

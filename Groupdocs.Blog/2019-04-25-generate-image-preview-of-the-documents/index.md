@@ -5,8 +5,8 @@ draft: false
 url: /2019/04/25/generate-image-preview-of-the-documents/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET API', 'document preview', 'document-metadata', 'file preview', 'Image preview', 'Java API', 'render document preview']
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata Product Family']
+tags: ['.NET API', 'document preview', 'document-metadata', 'file preview', 'Image preview', 'Java API', 'render document preview', 'GroupDocs.Metadata']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 Image previews are now commonly used to present your file/document to the users. It is quite useful when you want the users to quickly have a look at your document without downloading or opening it. As an example, MS Windows has this ability to provide the preview of the files in the preview pane of File Explorer without opening the document in the dedicated software program.
@@ -36,6 +36,7 @@ At the moment, we have launched this feature for the following documents:
 Let's not wait and try out this amazing feature by downloading the [latest version](https://downloads.groupdocs.com/metadata) of GroupDocs.Metadata for .NET and Java. You can explore and evaluate the API features by cloning/downloading the examples from the [GitHub repository](https://github.com/groupdocs-metadata).
 
 In case you would have any questions or suggestions, we would love to have a conversation with you on our [forum](https://forum.groupdocs.com/).
+
 
 
 

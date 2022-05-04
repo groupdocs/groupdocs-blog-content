@@ -5,8 +5,8 @@ draft: false
 url: /2019/02/16/zip-archive-indexing-is-improved-in-groupdocs.search-for-java-19.2/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for Java', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for Java']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/10/groupdocs.search-for-java-90x90.png)](https://products.groupdocs.com/search/java)We are pleased to announce the monthly release of GroupDocs.Search for Java 19.2. Improvements such as indexing of a ZIP archive inside other ZIP and escape of special characters in search queries are introduced. Please check GroupDocs.Search for Java 19.2 [release notes](https://docs.groupdocs.com/display/searchjava/GroupDocs.Search+for+java+19.2+Release+Notes) for further reference. We would recommend you to download and integrate latest version of the API.
@@ -58,6 +58,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/"Technical Support Forum").
+
 
 
 

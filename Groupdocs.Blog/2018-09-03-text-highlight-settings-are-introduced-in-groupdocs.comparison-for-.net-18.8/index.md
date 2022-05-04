@@ -5,8 +5,8 @@ draft: false
 url: /2018/09/03/text-highlight-settings-are-introduced-in-groupdocs.comparison-for-.net-18.8/
 author: 'Atir Tahir'
 summary: ''
-tags: ['Uncategorized']
-categories: ['GroupDocs.Comparison for .NET', 'GroupDocs.Comparison Product Family']
+tags: ['Uncategorized', 'GroupDocs.Comparison for .NET']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-comparison-net.png)](https://www.groupdocs.com/products/comparison/net)GroupDocs.Comparison for .NET 18.8 comes with some new features, improvements and bug fixes.Text highlighting feature is introduced and PDF mapper is improved. Please follow the release notes [here](https://docs.groupdocs.com/display/comparisonnet/GroupDocs.Comparison+for+.NET+18.8+Release+Notes) for further details. We'd recommend you to try latest version of the API and share your feedback.
@@ -42,6 +42,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 You are always welcome to share your feedback and suggestions to improve this product, we take it very seriously and try to incorporate it as much as its possible for upcoming releases . We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/comparison) and our dedicated support team will be there to respond.
+
 
 
 

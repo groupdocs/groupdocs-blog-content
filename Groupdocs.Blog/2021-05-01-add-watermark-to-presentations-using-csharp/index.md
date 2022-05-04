@@ -1,5 +1,7 @@
 ---
-title: 'Add Watermark to Presentation Slides using C#'
+title: "Add Watermark to Presentation Slides using C#"
+seoTitle: "Add Watermark to Presentations in C# | Text and Image Watermarks"
+description: "C# ways to add text to presentation slides as watermark, or apply image watermarks to PPT, PPTX, PPS & more formats using .NET Watermarking API by GroupDocs."
 date: Sat, 01 May 2021 04:00:00 +0000
 draft: false
 url: /2021/05/01/add-watermark-to-presentations-using-csharp/

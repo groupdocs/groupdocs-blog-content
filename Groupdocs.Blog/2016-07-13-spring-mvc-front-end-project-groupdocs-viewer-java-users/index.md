@@ -5,8 +5,8 @@ draft: false
 url: /2016/07/13/spring-mvc-front-end-project-groupdocs-viewer-java-users/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Viewer for Java Front End', 'GroupDocs.Viewer Product Family']
+tags: ['GroupDocs.Viewer for Java Front End']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs.Viewer for Java Front End](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/05/GD_VWR_JavaIcon_114.png)](http://groupdocs.com/dot-net/document-viewer-library)
@@ -52,6 +52,7 @@ Every effort by the developers/customers would be appreciated.
 *   [Front End Documentation](https://docs.groupdocs.com/viewer/java "GroupDocs.Viewer for Java Showcase Documentation") - Spring MVC Front End Documentation
 *   [Video Tutorials](https://www.youtube.com/watch?v=ZWjHCSrLZc8 "Java document viewer API video tutorials") - YouTube Videos
 *   [Product Support Forum](http://groupdocs.com/Community/forums/groupdocs.viewer-product-family/4/showforum.aspx "GroupDocs.Viewer for Java Support forum") \- Technical Support Forum for GroupDocs.Viewer
+
 
 
 

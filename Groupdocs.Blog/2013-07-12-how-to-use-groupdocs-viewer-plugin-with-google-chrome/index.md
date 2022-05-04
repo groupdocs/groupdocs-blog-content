@@ -5,7 +5,8 @@ draft: false
 url: /2013/07/12/how-to-use-groupdocs-viewer-plugin-with-google-chrome/
 author: 'Derek Hyland'
 summary: ''
-tags: ['Google Chrome', 'Google Chrome Viewer', 'GroupDocs Viewer', 'GroupDocs Viewer Plugin', 'online document management system', 'online document viewer', 'View documents online', 'zArchive']
+tags: ['Google Chrome', 'Google Chrome Viewer', 'GroupDocs Viewer Plugin', 'online document management system', 'online document viewer', 'View documents online', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 We have published a GroupDocs' online document viewer plugin for Chrome. This add-on provides GroupDocs users with a slick interface for viewing documents right in the Chrome browser. [GroupDocs' Online Document Viewer](http://groupdocs.com/apps/viewer) gives you the ability to view documents and images right in your web browser, without having to install bulky office software. Whether you need to view a text document, an image or a PowerPoint presentation, GroupDocs' online document viewer opens it for you. The list of supported file formats is long and constantly increasing:
@@ -77,6 +78,7 @@ Refresh the file list
 **Embed**
 
 Generate the iframe tag.
+
 
 
 

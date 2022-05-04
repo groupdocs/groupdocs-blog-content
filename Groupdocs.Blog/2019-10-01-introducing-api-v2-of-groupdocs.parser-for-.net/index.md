@@ -5,8 +5,8 @@ draft: false
 url: /2019/10/01/introducing-api-v2-of-groupdocs.parser-for-.net/
 author: 'Usman Aziz'
 summary: ''
-tags: []
-categories: ['GroupDocs.Parser for .NET Releases', 'GroupDocs.Parser Product Family']
+tags: ['GroupDocs.Parser for .NET Releases']
+categories: ['GroupDocs.Parser Product Family']
 ---
 
 The all-new API v2 of [**GroupDocs.Parser for .NET**](https://products.groupdocs.com/parser/net) has been released! It would be a piece of breaking news for those who are already using our **document parsing API** as well as who are looking for an easy to use solution for **extracting text**, **images**, and **metadata** from **PDF**, **word processing** **documents**, **spreadsheets**, **presentations**, **emails**, **EPUB** & **ZIP** file formats.
@@ -37,6 +37,7 @@ Because of the changes in the architecture of the API, the coding style has also
 In case you are already using GroupDocs.Parser for .NET in your application and want to migrate to the latest release, have a look at the [migration notes](https://docs.groupdocs.com/display/parsernet/Migration+Notes). Consult the [release notes](https://docs.groupdocs.com/display/parsernet/GroupDocs.Parser+for+.NET+19.9+Release+Notes) for a complete list of public API changes.
 
 Get started with the API v2 by cloning or downloading the source code examples from [GitHub](https://github.com/groupdocs-parser/GroupDocs.Parser-for-.NET). Visit the [documentation](https://docs.groupdocs.com/display/parsernet/Home) of the API for more details about every feature of the API. In case you would find something difficult for you, do let us know on our [forum](https://forum.groupdocs.com/c/parser).
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/08/30/convert-selected-or-partial-spreadsheet-rows/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for .NET', 'GroupDocs.Conversion for Java', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for .NET', 'GroupDocs.Conversion for Java']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 You might be looking for a software component or API using that an excel sheet could be converted to PDF/Word or any other [supported format](https://docs.groupdocs.com/display/conversionnet/Supported+Document+Formats) partially.
@@ -50,6 +50,7 @@ Download GroupDocs.Conversion API and try out this feature. Below are some helpf
 *   Download API for [Java](https://downloads.groupdocs.com/conversion/java) or [.NET](https://downloads.groupdocs.com/conversion/net)
 *   Documentation ([Java](https://docs.groupdocs.com/conversion/java/), [.NET](https://docs.groupdocs.com/conversion/net))
 *   [Sample Code](https://github.com/groupdocs-conversion)
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2017/08/15/java-annotation-api-frontend-v3.0.0-arrow-annotation-feature-update/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for Java']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 [![GroupDocs.Annotation for Java](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/12/groupdocs-annotation-java.png)](https://www.groupdocs.com/products/signature/java)
@@ -33,6 +33,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 We always welcome you to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/annotation) and our dedicated support team will be there to respond.
+
 
 
 

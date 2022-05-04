@@ -5,8 +5,8 @@ draft: false
 url: /2019/06/27/extract-data-fields-from-the-documents-using-groupdocs.parser-product-family/
 author: 'Usman Aziz'
 summary: ''
-tags: ['data extraction', 'Document Parser', 'document parsing API', 'extract data fields', 'extract data tables', 'text extraction API', 'Text Extractor']
-categories: ['GroupDocs.Parser for .NET Releases', 'GroupDocs.Parser for Java Releases', 'GroupDocs.Parser Product Family']
+tags: ['data extraction', 'Document Parser', 'document parsing API', 'extract data fields', 'extract data tables', 'text extraction API', 'Text Extractor', 'GroupDocs.Parser for .NET Releases', 'GroupDocs.Parser for Java Releases']
+categories: ['GroupDocs.Parser Product Family']
 ---
 
 
@@ -54,6 +54,7 @@ Apart from extracting by field names, you can also extract the whole data tables
 {{< gist GroupDocsGists c580d6a015cf388b7762428f01735aa8 "ExtractingDataTable.java" >}}
 
 Now, you have seen how you can extract the desired data from the document templates. If you want to avail this feature, just download the [latest release](https://downloads.groupdocs.com/parser) and for more details, consult the [Developer's Guide](https://docs.groupdocs.com/display/parserjava/Developer+Guide) of the API. In case you would find anything confusing, just feel free to post it on our [forum](https://forum.groupdocs.com/) and we would love to assist you.
+
 
 
 

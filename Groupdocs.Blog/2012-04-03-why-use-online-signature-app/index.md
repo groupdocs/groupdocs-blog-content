@@ -5,7 +5,8 @@ draft: false
 url: /2012/04/03/why-use-online-signature-app/
 author: 'Derek Hyland'
 summary: ''
-tags: ['collect signatures online', 'GroupDocs Signature', 'online document signing', 'online signature', 'online signature service', 'sign documents online', 'zArchive']
+tags: ['collect signatures online', 'online document signing', 'online signature', 'online signature service', 'sign documents online', 'zArchive']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 In the digital world e-signature is actively replacing the traditional way of signing documents. Today, you can find a large number of online signature services on the market. All of them intend to help people sign documents online, using only a web browser. If you're wondering why such applications are so popular, and what benefits they provide, this article is for you.
@@ -23,6 +24,7 @@ In the digital world e-signature is actively replacing the traditional way of si
 ### Be Environmentally FriendlyFinally, by switching to an online signature approach you're saving hundred of trees and commit to environment-friendly technologies.
 
 ## What's Next?[Learn how to use GroupDocs Signature to sign a document](https://blog.groupdocs.com/how-to-use-groupdocs-online-signature-app-to-sign-document). \[caption id="attachment\_152" align="aligncenter" width="600" caption="GroupDocs' online signature app's dashboard"\]![GroupDocs' online signature app's dashboard](https://blog.groupdocs.com/wp-content/uploads/sites/4/2012/03/Customised-Signature-Dashboard_blog.png "GroupDocs' online signature app's dashboard")\[/caption\]
+
 
 
 

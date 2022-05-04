@@ -5,7 +5,8 @@ draft: false
 url: /2013/07/19/how-to-integrate-and-use-groupdocs-online-signature-plugin-with-google-chrome/
 author: 'Derek Hyland'
 summary: ''
-tags: ['document collaboration', 'document management', 'GroupDocs Signature', 'online signature', 'sign documents online', 'zArchive']
+tags: ['document collaboration', 'document management', 'online signature', 'sign documents online', 'zArchive']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 We have published a GroupDocs' Signature plugin for Chrome. This online signature add-on provides GroupDocs users with a slick interface for signing documents from within Gmail. GroupDocs' [online signature](http://groupdocs.com/apps/signature) plugin gives you the ability to sign documents online in Gmail emails, without having to install bulky office software. When you need to sign a document, GroupDocs Signature opens it for you. With the plugin, you no longer have to log in to the GroupDocs website to view a document. When the plugin is installed, a small widget appears in Chrome's bottom-left corner. It allows you to access, view and manage your documents with just a couple of clicks. If you need to sign a document on the go, you can use GroupDocs' online signature on any web-enabled mobile device. In this article, I'll show how to install and use the plugin. It's really simple.
@@ -31,6 +32,7 @@ That completes the installation and now we can use the plugin.
 2.  Go to your Gmail account. If an email you open has an attachment in PDF, DOC or DOCX formats, the plugin adds a **Sign** link to the actions available for the file. ![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/07/test-mail-with-sign-link.png "test mail with sign link")
 3.  Click the **Sign **link.![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/07/test-mail-with-sign-link.png "test mail with sign link") The **Select file for signature** dialog box pops up.
 4.  Click **Browse**, select a signature file, and then click **Sign**.![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/07/select-file-for-signature.png "select file for signature") The plugin now performs its magic: the online signature and the attached file are uploaded to your GroupDocs account. The document is signed and the signed document is downloaded. The plugin next creates an email message and attaches the signed message to it, ready to be sent.![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/07/Figure-82.png "Figure 8")  That completes the how-to.
+
 
 
 

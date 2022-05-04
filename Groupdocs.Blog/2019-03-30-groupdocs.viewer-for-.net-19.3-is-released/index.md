@@ -5,8 +5,8 @@ draft: false
 url: /2019/03/30/groupdocs.viewer-for-.net-19.3-is-released/
 author: 'Usman Aziz'
 summary: ''
-tags: ['document viewer', 'document viewer API for .net', 'Office Formats Viewer', 'online document viewer', 'PDF viewer', 'Viewer API']
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['document viewer', 'document viewer API for .net', 'Office Formats Viewer', 'online document viewer', 'PDF viewer', 'Viewer API', 'GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![Document Viewer API](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-viewer-net.png)](https://www.groupdocs.com/products/viewer/net)
@@ -66,6 +66,7 @@ In case you haven't yet tried our API but are interested in using it, the follow
 ## Stay Tuned for Updates!
 
 If you don't want to miss out any news or announcements on GroupDocs products, stay tuned to our blog and keep visiting frequently.
+
 
 
 

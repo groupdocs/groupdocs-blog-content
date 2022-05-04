@@ -5,8 +5,8 @@ draft: false
 url: /2019/04/12/implement-page-rotation-when-converting-to-pdf/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for Java', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for Java']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 Its time to augment your document conversion experience. You will be pleased to hear the new features, improvements and bug fixes that we'r going to elaborate in this blog post. Did you ever think of converting and rotating a document at the same time? We make your wish come true with this month's release of GroupDocs.Conversion for Java [19.4](https://docs.groupdocs.com/display/conversionjava/GroupDocs.Conversion+for+Java+19.4+Release+Notes).  
@@ -66,6 +66,7 @@ Furthermore, there was no impact of width and height in the output that you set 
 Yes, we fixed obfuscation config for com.groupdocs.conversion.exceptions package. You will now get proper exception on processing a password protected document without applying password. Eventually, this exception could be then handled.
 
 To learn more about API integration and usage check out the docs [here](https://docs.groupdocs.com/display/conversionjava/Home). To see the implementation and functionalities, check out the GitHub [repository](https://github.com/groupdocs-conversion/GroupDocs.Conversion-for-Java).
+
 
 
 

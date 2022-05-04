@@ -5,8 +5,8 @@ draft: false
 url: /2017/12/15/support-for-emlx-and-oft-email-formats-groupdocs.watermark-for-.net-17.12/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'Document Watermarking', 'Watermarking API for .NET']
-categories: ['GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release', 'GroupDocs.Watermark Product Family']
+tags: ['.NET Watermarking API', 'Document Watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/05/GroupDocs-Watermark-for-.NET_.png)](http://groupdocs.com/dot-net/document-watermark-library)
@@ -33,6 +33,7 @@ We are extremely excited to announce the final release of [GroupDocs.Watermark f
 *   [Product Support Forum](https://forum.groupdocs.com/c/watermark) - Technical Support Forum for GroupDocs.Watermark
 
 ## FeedbackAs always, we would love to hear your queries and suggestions at our [forum](https://forum.groupdocs.com/c/watermark "Technical Support Forum").
+
 
 
 

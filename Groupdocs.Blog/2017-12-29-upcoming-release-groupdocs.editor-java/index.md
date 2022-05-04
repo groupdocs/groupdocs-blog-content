@@ -5,8 +5,8 @@ draft: false
 url: /2017/12/29/upcoming-release-groupdocs.editor-java/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Editor for Java', 'GroupDocs.Editor Product Family']
+tags: ['GroupDocs.Editor for Java']
+categories: ['GroupDocs.Editor Product Family']
 ---
 
 [![GroupDocs Editor for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/12/groupdocs-editor-java.png)](https://products.groupdocs.com/editor/java)
@@ -23,6 +23,7 @@ We are excited to announce that **GroupDocs.Editor** is coming to **Java** Platf
 *   Convert HTML to Document
 
 ## First Version AvailabilityWe are finalizing the first release of GroupDocs.Editor for Java and hope that you will be able to download it very soon. Please stay tuned for further updates. We would be happy to hear your queries or suggestions at [GroupDocs.Editor](https://forum.groupdocs.com/c/editor) forum.
+
 
 
 

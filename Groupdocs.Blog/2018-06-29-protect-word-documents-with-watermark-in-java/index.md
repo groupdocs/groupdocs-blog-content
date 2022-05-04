@@ -7,8 +7,8 @@ aliases:
     - /2018/06/29/protect-word-documents-groupdocs.watermark-for-java-18.6/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Document Watermarking', 'document-watermark', 'Java Watermarking API', 'watermarking API for Java']
-categories: ['GroupDocs.Watermark for Java', 'GroupDocs.Watermark for Java Release', 'GroupDocs.Watermark Product Family']
+tags: ['Document Watermarking', 'document-watermark', 'Java Watermarking API', 'watermarking API for Java', 'GroupDocs.Watermark for Java', 'GroupDocs.Watermark for Java Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/01/groupdocs-watermark-java.png)](https://products.groupdocs.com/watermark/java)Another monthly release of [GroupDocs.Watermark for Java](https://products.groupdocs.com/watermark/java) is onboard. **GroupDocs.Watermark for Java 18.6** supports locking of watermarks in **Word** documents. Furthermore, it also provides the ability to protect and unprotect the Word documents. Following are the details about the new features added in version 18.6.
@@ -70,6 +70,7 @@ doc.close();
 *   [Product Support Forum](https://forum.groupdocs.com/c/watermark) - Technical Support Forum for GroupDocs.Watermark
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/"Technical Support Forum").
+
 
 
 

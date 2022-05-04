@@ -1,5 +1,7 @@
 ---
-title: 'Generate Barcode in C# - Add Barcode to Documents and Images'
+title: "Generate Barcode in C# - Add Barcode to Documents and Images"
+seoTitle: "Generate Barcode in C# | Add Barcodes to Documents and Images"
+description: "Generate barcodes in C# and electronically sign documents & Images by attaching barcode to Word, Excel, PDF, PNG, JPG, WebP files using .NET Signature API."
 date: Wed, 14 Jul 2021 17:25:00 +0000
 draft: false
 url: /2021/07/14/generate-barcode-in-csharp-to-sign-documents-and-images/

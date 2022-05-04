@@ -5,8 +5,8 @@ draft: false
 url: /2019/09/05/save-assembled-word-processing-document-as-a-markdown-file/
 author: 'Usman Aziz'
 summary: ''
-tags: ['document automation', 'report generator']
-categories: ['GroupDocs.Assembly', 'GroupDocs.Assembly Product Family']
+tags: ['document automation', 'report generator', 'GroupDocs.Assembly']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [Markdown](https://wiki.fileformat.com/specification/word-processing/md/) is a well known and one of the popular markup languages these days. The appearance of the text in Markdown is controlled using the syntax instead of using rich text editors or applications such as MS Word. The best thing is, it is a lightweight language and can be written in the plain text editors such as Notepad. As far as its usage is concerned, Markdown is popular in writing wikis, readme files, and others. This is the reason why we added the support of Markdown (.md) files in our document automation API - [GroupDocs.Assembly](https://products.groupdocs.com/assembly).
@@ -63,6 +63,7 @@ But no need to worry because we shall keep extending the supported features in t
 In case you want to use these features in your application, just [download](https://downloads.groupdocs.com/assembly) the latest release (v19.8) of GroupDocs.Assembly for .NET or Java. For the ready-to-run source code examples, download or clone the examples project from [GitHub repository](https://github.com/groupdocs-assembly).
 
 As always, we welcome you on our [forum](https://forum.groupdocs.com/categories) in case you would have any suggestions or queries.
+
 
 
 

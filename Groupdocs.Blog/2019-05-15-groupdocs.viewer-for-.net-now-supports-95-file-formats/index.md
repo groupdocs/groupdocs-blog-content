@@ -5,8 +5,8 @@ draft: false
 url: /2019/05/15/groupdocs.viewer-for-.net-now-supports-95-file-formats/
 author: 'Usman Aziz'
 summary: ''
-tags: ['CAD viewer', 'document viewer', 'document viewer API for .net', 'Docx Viewer', 'online document viewer', 'Online Office Viewer', 'PDF viewer', 'Word Viewer']
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['CAD viewer', 'document viewer', 'document viewer API for .net', 'Docx Viewer', 'online document viewer', 'Online Office Viewer', 'PDF viewer', 'Word Viewer', 'GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 
@@ -30,6 +30,7 @@ Yes, you read it absolutely correct. In the [latest release](https://downloads.g
 With this addition, the API now supports [95+ file formats](https://docs.groupdocs.com/display/viewernet/Supported+Document+Formats) and we have the eye on completing our century soon.
 
 So, let's not wait and use this powerful API for integrating an all-in-one document viewer component in your application. For more news and updates, stay tuned to our blog and keep posting to our [forum](https://forum.groupdocs.com/).
+
 
 
 

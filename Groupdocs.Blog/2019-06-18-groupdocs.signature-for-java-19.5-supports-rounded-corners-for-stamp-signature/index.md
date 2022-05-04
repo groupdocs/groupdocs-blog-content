@@ -5,8 +5,8 @@ draft: false
 url: /2019/06/18/groupdocs.signature-for-java-19.5-supports-rounded-corners-for-stamp-signature/
 author: 'Usman Aziz'
 summary: ''
-tags: ['digital document signature', 'digital signature', 'digital signature API for Java', 'e-sign API', 'e-signature', 'electronic signature', 'signature api for java', 'stamp signature', 'stamp with rounder corner']
-categories: ['GroupDocs.Signature for Java', 'GroupDocs.Signature Product Family']
+tags: ['digital document signature', 'digital signature', 'digital signature API for Java', 'e-sign API', 'e-signature', 'electronic signature', 'signature api for java', 'stamp signature', 'stamp with rounder corner', 'GroupDocs.Signature for Java']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 
@@ -37,6 +37,7 @@ The following would be the output of the above written code.
 
 
 So if you want to implement this feature in your e-signing application, just [download](https://downloads.groupdocs.com/signature/java/new-releases/groupdocs.signature-for-java-19.5/) that latest release and integrate it into your application. In case you would have any query or question, do write to us on our [forum](https://forum.groupdocs.com/categories).
+
 
 
 

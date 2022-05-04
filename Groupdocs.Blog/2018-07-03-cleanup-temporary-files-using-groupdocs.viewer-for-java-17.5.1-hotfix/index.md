@@ -5,8 +5,8 @@ draft: false
 url: /2018/07/03/cleanup-temporary-files-using-groupdocs.viewer-for-java-17.5.1-hotfix/
 author: 'Usman Aziz'
 summary: ''
-tags: ['document viewer', 'document viewer API for Java', 'Java document viewer API', 'viewer']
-categories: ['GroupDocs.Viewer for Java', 'GroupDocs.Viewer for Java Releases', 'GroupDocs.Viewer Product Family']
+tags: ['document viewer', 'document viewer API for Java', 'Java document viewer API', 'viewer', 'GroupDocs.Viewer for Java', 'GroupDocs.Viewer for Java Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![Logo Image](http://joomla-groupdocs.dynabic.com/templates/groupdocs/images/product-logos/90x90/groupdocs-viewer-java.png?v2)](http://www.groupdocs.com/products/viewer/java)We are pleased to announce the release of [GroupDocs.Viewer for Java](https://products.groupdocs.com/viewer/java) 17.5.1. This is a hotfix release that contains 2 bug fixes and a new feature. The latest version allows you to manually cleanup the temporary files that are created during document rendering. Please continue to read the details about the new feature and the bug fixes.
@@ -38,6 +38,7 @@ handler.clearTempFiles();
 *   [Sample Front End App](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-Java-App) - Open Source **Document Viewer** Application
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/viewer) and our dedicated support team will be there to respond.
+
 
 
 

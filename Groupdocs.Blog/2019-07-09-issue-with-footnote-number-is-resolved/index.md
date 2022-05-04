@@ -5,8 +5,8 @@ draft: false
 url: /2019/07/09/issue-with-footnote-number-is-resolved/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for Java', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for Java']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 If you worked with earlier versions of the API, you are probably aware that there was issue in footnote number conversion. A Word document with such footnotes was converted to PDF or any other supported file format successfully but the footnote number order was disturbed.
@@ -33,6 +33,7 @@ There are few regular yet helpful improvements:
 Lastly, we've added a new file format VCF. you can now do conversion from VCF to any other [supported](https://docs.groupdocs.com/display/conversionjava/Supported+Document+Formats) file format.  
 
 Please download latest release [here](https://downloads.groupdocs.com/conversion/java). Your feedback is very important for us. If you run into issues or have questions while trying out this latest release, post your concerns [here](https://forum.groupdocs.com/c/conversion).
+
 
 
 

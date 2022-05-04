@@ -5,8 +5,8 @@ draft: false
 url: /2018/02/21/improved-performance-of-loading-and-saving-exif-metadata-in-groupdocs.metadata-for-.net-18.2/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['document-metadata', 'GroupDocs.Metadata Releases']
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata for .NET', 'GroupDocs.Metadata Product Family']
+tags: ['document-metadata', 'GroupDocs.Metadata Releases', 'GroupDocs.Metadata', 'GroupDocs.Metadata for .NET']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")GroupDocs team is proudly announcing three **enhancements** and six **new** **features** in this monthly release of [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net)**  18.2**. Using the latest release, you can now load and save EXIF metadata for JPEG and TIFF formats with a better speed. You can also validate input metadata before saving, read additional properties from ID3v2, update ID3v1/ID3v2 tag using properties, and read/update/remove image cover tag in MP3 file format. Furthermore, you can read image cover and version of EPUB file format as well. We recommend you to [download](https://downloads.groupdocs.com/metadata/net/new-releases/groupdocs.metadata-for-.net-18.2/) and use the latest version of the API.
@@ -38,6 +38,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) - Technical Support Forum for GroupDocs Metadata
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata](https://products.groupdocs.com/metadata/net ".NET Metadata API") for .NET API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/metadata).
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2017/10/31/hot-fix-release-of-groupdocs.metadata-for-.net-version-17.10.2/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['GroupDocs.Metadata Releases', 'Metadata', 'Metadata Editor']
-categories: ['GroupDocs.Metadata for .NET', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata Releases', 'Metadata', 'Metadata Editor', 'GroupDocs.Metadata for .NET']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")GroupDocs team is pleased to announce another **hotfix** release **v17.10.2** of the [**GroupDocs.Metadata for .NET**](http://www.groupdocs.com/products/metadata/net) API. In earlier versions, bit depth was affected when removing metadata from **Tiff** files and the resultant image was turning into black and white. However, the API has been optimized to resolve this issue in the latest version. We recommend you to [download](https://downloads.groupdocs.com/metadata/net/new-releases/groupdocs.metadata-for-.net-17.10.2/) or update your applications to use the latest version of the API.
@@ -33,6 +33,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 *   As always, if you have some questions, queries or suggestions about [GroupDocs.Metadata](http://www.groupdocs.com/products/metadata/net ".NET Metadata API") for .NET API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/metadata).
+
 
 
 

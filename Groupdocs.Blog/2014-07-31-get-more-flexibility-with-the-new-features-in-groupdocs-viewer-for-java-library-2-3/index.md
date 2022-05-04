@@ -5,7 +5,8 @@ draft: false
 url: /2014/07/31/get-more-flexibility-with-the-new-features-in-groupdocs-viewer-for-java-library-2-3/
 author: 'Ihor Mykhalevych'
 summary: ''
-tags: ['GroupDocs Viewer', 'java document viewer', 'viewer for java library', 'zArchive']
+tags: ['java document viewer', 'viewer for java library', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs.Viewer for Java library](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/06/GD_VWR_JavaIcon_1141.png)](http://groupdocs.com/java/document-viewer-library)Hi, everyone! We've recently released a new version of the Java document viewer - GroupDocs.Viewer for Java version 2.3 - and would like to discover its new features and enhancements in this article. [GroupDocs.Viewer for Java](http://groupdocs.com/java/document-viewer-library) is an HTML5-based document viewer library designed to make it easy for developers to integrate into their Java apps. The viewer supports more than 50 document and image types, including PDF, Microsoft Word, Excel, PowerPoint, AutoCAD, Visio, etc. Implemented within HTML5 standards, the viewer allows documents to be viewed from any web-enabled device using only a web‑browser. Let's now look at the enhancements seen in the latest version of the library (version 2.3):
@@ -58,6 +59,7 @@ G:\\Projects\\GroupDocs\\app\\xFiles
 *   Added sub-folders navigation. Now you can browse and open any sub-folder content.
 
   For a complete list of changes, please check the release notes in the [GroupDocs file archive](http://groupdocs.com/Community/files/9/java-libraries/groupdocs_viewer_for_java/category1005.aspx). The library itself can be downloaded from there. For more information on the viewer and its features, please visit [GroupDocs.Viewer for Java home page](http://groupdocs.com/java/document-viewer-library). To help you install and get started with the viewer quickly we also provide [example code projects](http://groupdocs.com/Community/files/9/java-libraries/groupdocs_viewer_for_java/category1004.aspx) and [detailed documentation](http://groupdocs.com/docs/display/viewerjava/Home) with technical articles and guides.
+
 
 
 

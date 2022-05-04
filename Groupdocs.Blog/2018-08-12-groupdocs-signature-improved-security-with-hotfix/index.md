@@ -7,8 +7,8 @@ aliases:
     - /2018/08/12/groupdocs.signature-for-.net-18.7.1/
 author: 'Samicheema'
 summary: ''
-tags: ['hotfix']
-categories: ['GroupDocs.Signature for .NET', 'GroupDocs.Signature Product Family']
+tags: ['hotfix', 'GroupDocs.Signature for .NET']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 
@@ -38,6 +38,7 @@ Here are a few channels and resources for you to learn, try and get technical su
 # Feedback
 
 As always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/signature) and our dedicated support team will be there to respond.
+
 
 
 

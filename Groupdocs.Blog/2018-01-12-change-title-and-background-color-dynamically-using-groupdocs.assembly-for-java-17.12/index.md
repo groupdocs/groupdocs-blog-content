@@ -5,8 +5,8 @@ draft: false
 url: /2018/01/12/change-title-and-background-color-dynamically-using-groupdocs.assembly-for-java-17.12/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['Report Generation API for Java']
-categories: ['GroupDocs.Assembly for Java Releases', 'GroupDocs.Assembly Product Family']
+tags: ['Report Generation API for Java', 'GroupDocs.Assembly for Java Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [![Document Assembly API](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-assembly-java-1.png)](https://www.groupdocs.com/products/assembly/java)At [GroupDocs](https://www.groupdocs.com/), we are always focused on delivering the best to our customers. In this regard, we are excitedly announcing another monthly release of [GroupDocs.Assembly for Java](https://products.groupdocs.com/assembly/java) **v17.12**. Using the latest version, you can now change text **background color **dynamically in word processing and email documents. You can also change **chart axis title dynamically** in word processing documents. Furthermore, you can **insert images and barcodes **dynamically in email messages (msg) with RTF body. We would recommend you to [download](https://downloads.groupdocs.com/assembly/java) and integrate this latest release.
@@ -37,6 +37,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 We'd like to hear your valuable feedback. Just create a [forum thread](https://forum.groupdocs.com/c/assembly "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

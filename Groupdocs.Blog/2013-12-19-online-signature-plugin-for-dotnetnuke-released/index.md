@@ -5,7 +5,8 @@ draft: false
 url: /2013/12/19/online-signature-plugin-for-dotnetnuke-released/
 author: 'Rahul Gulati'
 summary: ''
-tags: ['dotnetnuke plugin', 'GroupDocs Signature', 'zArchive']
+tags: ['dotnetnuke plugin', 'zArchive']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 We've announced the launch of GroupDocs' online signature plugin for DotNetNuke. This plugin lets you embed signature forms into DotNetNuke, share them with customers and collect signatures online. The workflow is simple: upload a document template to GroupDocs, add signature fields (date, sign, single/multi-line text fields, etc.), include signer email addresses and publish. Recipients fill in the form information and submit it online. An instant notification is received on completion of the task. GroupDocs Signature is an [online signature](http://groupdocs.com/apps/signature) app that supports signing and sending business documents through a web-browser. No new software installations are needed. The applications is compatible with a range of popular file-formats.
@@ -21,6 +22,7 @@ We've announced the launch of GroupDocs' online signature plugin for DotNetNuke.
 *   Multiple document format support: Microsoft Word, PDF, ODT, and others.
 
 ## Why GroupDocs Signature?It is a known fact that e-signature increases the speed of commercial transactions. Business demands faster process turn-around times. The Internet has brought just such a change to document collaboration and signing online contracts. Teams and business units meet online, discuss ideas, make suggestions, and devise strategy. This approach has resulted from a move away from conventional methods of business communication, cutting down on paper and emails. The need for online signature services is ever-increasing and most countries worldwide now accept e-signatures is transactions. GroupDocs' online signature app lets you sign documents - NDA's, invoices, contracts, insurance forms and others - from your web-browser. Create forms and invite partners to sign documents. Signers access the document link via email, submit form information and upload a signature. Instant notifications are sent to all parties involved. Track document status, add watermarks, save time, and create a paperless office with GroupDocs Signature! There is no fear of data misuse since all documents are encrypted. Want to see how it works? Just [try the demo](http://groupdocs.com/apps/signature/live-demo) now. Learning is easy and you'll understand the process flow in seconds. We appreciate and value our customers' feedback. Your suggestions can help us improve and deliver products and services effectively. Write an email to [support@groupdocs.com](mailto:support@groupdocs.com), [chat online](http://groupdocs.com/) or post feedback or queries on the [GroupDocs Forum](http://groupdocs.com/Community/Forums/Default.aspx).
+
 
 
 

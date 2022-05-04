@@ -5,8 +5,8 @@ draft: false
 url: /2017/07/01/groupdocs.comparison-.net-api-v17.6.0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET API', 'Cells', 'compare documents', 'Compare Emails format', 'Docuement Comparison', 'Download', 'HTML', 'Improved', 'Latest API', 'Metadate Cloning', 'Performance', 'Words']
-categories: ['GroupDocs.Comparison for .NET Releases', 'GroupDocs.Comparison Product Family']
+tags: ['.NET API', 'Cells', 'compare documents', 'Compare Emails format', 'Docuement Comparison', 'Download', 'HTML', 'Improved', 'Latest API', 'Metadate Cloning', 'Performance', 'Words', 'GroupDocs.Comparison for .NET Releases']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Conversion](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-comparison-net.png)](https://www.groupdocs.com/products/comparison/net)
@@ -50,6 +50,7 @@ GroupDocs team is excited to publish another monthly release of [GroupDocs.Compa
 *   [Example / Plugins](https://github.com/groupdocs-comparison/GroupDocs.Comparison-for-.NET "GroupDocs.Comparison for .NET Github")\-Github source code examples
 
 ### FeedbackYou are always welcome to share your feedback and suggestions to improve this product, we take it very seriously and try to incorporate it as much as its possible for upcoming releases . We will be happy to know your thoughts. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.comparison-product-family/9/showforum.aspx) and our dedicated support team will be there to respond. view the website
+
 
 
 

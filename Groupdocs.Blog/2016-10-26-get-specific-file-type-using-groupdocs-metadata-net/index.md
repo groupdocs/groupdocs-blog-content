@@ -5,8 +5,8 @@ draft: false
 url: /2016/10/26/get-specific-file-type-using-groupdocs-metadata-net/
 author: 'Usman Aziz'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")In the modern times, the data is increasing dramatically. As a result, the large organizations may have maintained servers to store their organizational data in the form of files located in different directories. Very often, these organization may need to apply some filters to get files of a specific type i-e \*.docx or \*.txt etc. Filtering through a huge number files is not an easy job for the human beings and they might think if there is some automated system to achieve this. Of course, there is! We are happy to release such a business case example using [GroupDocs.Metadata for .NET](http://www.groupdocs.com/products/metadata/net). Let's see the available options and then how to do the same with GroupDocs.Metadata for .NET.
@@ -126,6 +126,7 @@ namespace System.IO
 *   [Examples/Plugins/Showcases](https://github.com/groupdocs-metadata/GroupDocs.Metadata-for-.NET/tree/master/Examples "How to use Metadata API") - Source Code Examples, Plugins, and Metadata Editor Application
 *   [Video Tutorials](https://www.youtube.com/channel/UCkOlPEPh0oljoESrmKP6l4g "Metadata API YouTube Tutorials") - YouTube API videos
 *   [Product Support Forum](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx) - Technical Support Forum for GroupDocs Metadata queries
+
 
 
 

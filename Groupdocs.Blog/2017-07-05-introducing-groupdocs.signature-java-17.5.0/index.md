@@ -5,8 +5,8 @@ draft: false
 url: /2017/07/05/introducing-groupdocs.signature-java-17.5.0/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Signature for Java', 'GroupDocs.Signature Product Family']
+tags: ['GroupDocs.Signature for Java']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 [![GroupDocs.Signature](https://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-signature-java.png)](https://www.groupdocs.com/products/signature/java)
@@ -37,6 +37,7 @@ We are pleased to announce another monthly release of [GroupDocs.Signature for J
 *   [Examples](https://github.com/groupdocs-signature/GroupDocs.Signature-for-Java "Examples") – GitHub source code examples
 
 ## FeedbackWe always welcome you to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.signature-product-family/6/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

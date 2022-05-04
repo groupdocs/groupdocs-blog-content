@@ -5,8 +5,8 @@ draft: false
 url: /2017/05/16/introducing-groupdocs.signature-for-java-17.1.0/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Signature for Java', 'GroupDocs.Signature Product Family']
+tags: ['GroupDocs.Signature for Java']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 [![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-signature-java.png)](https://www.groupdocs.com/products/signature/java) Team [GroupDocs](https://www.groupdocs.com/) is pleased to announce e-Signing API for Java developers. API comes with many remarkable features including digital, image and text signatures. Moreover, it permits developers to write applications with ability to significantly sign electronic docs of various file formats. Java developers can manipulate signatures using properties offered by the API. We would recommend you to download and explore the API.
@@ -34,6 +34,7 @@ categories: ['GroupDocs.Signature for Java', 'GroupDocs.Signature Product Family
 *   [Product Support Forum](http://www.groupdocs.com/Community/forums/groupdocs.signature-product-family/6/showforum.aspx "GroupDocs.Signature for Java Support forum") \- Technical Support Forum for GroupDocs.Signature
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.signature-product-family/6/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

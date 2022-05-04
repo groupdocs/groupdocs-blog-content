@@ -5,8 +5,8 @@ draft: false
 url: /2017/04/04/groupdocs.search-.net-17.3.0-optimizes-fuzzy-regex-search/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net) We are really excited to announce the release of [GroupDocs.Search for .NET 17.3.0](https://docs.groupdocs.com/search/net "GroupDocs.Search") API. This  regular monthly release comes up with around nine features, bug fixes and enhancements. Version 17.03 of the API has optimized the fuzzy and regex search functionality. The API now supports all the methods in previous index versions. Well, that's not just all! the API has also added some exciting features like implementation of numeric range search feature, limiting the number of search results and implementation of  functions about the relationship between max mistake count and word length for Fuzzy Search. We strongly suggest you to [download](https://downloads.groupdocs.com/search/net/new-releases/groupdocs.search-for-.net-17.03.0/) the latest version of the  API and check out all the features introduced in this release.
@@ -33,6 +33,7 @@ For further details, please visit [Features Overview](https://docs.groupdocs.com
 *   [Product Support Forum](https://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) - Technical Support Forum for GroupDocs.Search
 
 ## FeedbackIf you have any suggestions, questions, or queries related to [GroupDocs.Search API](https://docs.groupdocs.com/search/net), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

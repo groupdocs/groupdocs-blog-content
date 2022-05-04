@@ -5,8 +5,8 @@ draft: false
 url: /2016/08/29/releasing-groupdocs-viewer-dot-net-3-6-0/
 author: 'Usman Aziz'
 summary: ''
-tags: []
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs Viewer for .NET](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/03/groupdocs-viewer.png)](http://groupdocs.com/dot-net/document-viewer-library)
@@ -54,6 +54,7 @@ We are inspired to see a wide number of users across the world using GroupDocs.
 *   [Sample Front Ends](https://github.com/groupdocs-viewer/ "Open Source Document Viewer Applications") - Open Source **Document Viewer** Applications
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this API. We will be happy to know your thoughts. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.viewer-product-family/4/showforum.aspx "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

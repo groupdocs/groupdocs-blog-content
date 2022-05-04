@@ -5,8 +5,8 @@ draft: false
 url: /2016/10/20/groupdocs-annotation-java-3-1-0-released/
 author: 'Amindsk'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for Java']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 # Launching GroupDocs.Annotation for Java 3.1.0
@@ -48,6 +48,7 @@ Older 2.x versions of GroupDocs.Annotation for java had UI and very complex and 
 *   [Product Support Forum](http://groupdocs.com/Community/forums/groupdocs.annotation-product-family/5/showforum.aspx "Support forum") - Technical Support Forum for GroupDocs.Annotation
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.annotation-product-family/5/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

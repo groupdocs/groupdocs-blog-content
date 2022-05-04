@@ -1,5 +1,7 @@
 ---
-title: 'Generate Reports from CSV Data in Java'
+title: "Generate Reports from CSV Data in Java"
+seoTitle: "PDF & Word Reports from CSV in Java | CSV to PDF and DOCX"
+description: "Programmatically create reports by converting CSV to PDF & Word formats using templates in Java. Automate PDF & DOC/DOCX reports generation using Java API."
 date: Wed, 07 Jul 2021 14:26:55 +0000
 draft: false
 url: /2021/07/07/generate-reports-from-csv-data-in-java/

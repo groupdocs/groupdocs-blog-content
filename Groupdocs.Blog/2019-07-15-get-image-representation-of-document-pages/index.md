@@ -5,8 +5,8 @@ draft: false
 url: /2019/07/15/get-image-representation-of-document-pages/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for Java', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for Java']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 Getting image representation of document pages is one of the most successful feature that is already implemented in .NET version of the API. Keeping your interest in view, we've now implemented this feature for Java developers. GroupDocs.Comparison for Java [19.6](https://docs.groupdocs.com/display/comparisonjava/GroupDocs.Comparison+for+Java+19.6+Release+Notes) allows you to save document comparison results in image format as well.  
@@ -42,6 +42,7 @@ There are also bug fixes and improvements introduced in this release. Let's have
 *   StyleSheet Comparer for Html
 
 We'd recommend you to [download](https://downloads.groupdocs.com/comparison/java) and integrate this release in your project and enhance your document comparison experience. Do share your feedback or concerns on [forum](https://forum.groupdocs.com/c/comparison).
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/03/21/support-for-diagrams-in-groupdocs.merger/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Merger for .NET', 'GroupDocs.Merger for Java', 'GroupDocs.Merger Product Family']
+tags: ['GroupDocs.Merger for .NET', 'GroupDocs.Merger for Java']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 
@@ -67,6 +67,7 @@ This feature allows you to cut the specific pages of the document. Following are
 This feature allows you to change pages orientation. Following code sample shows how to change orientation of the pages in the diagram:
 
 {{< gist GroupDocsGists 8048d97a30e52a7d6eeaa70617146836 "GroupDocs.Meger-for-.NET_ChangePageOrientationInDiagram.cs" >}}
+
 
 
 

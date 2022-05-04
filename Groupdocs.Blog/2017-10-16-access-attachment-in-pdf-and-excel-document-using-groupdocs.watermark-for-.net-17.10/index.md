@@ -5,8 +5,8 @@ draft: false
 url: /2017/10/16/access-attachment-in-pdf-and-excel-document-using-groupdocs.watermark-for-.net-17.10/
 author: 'Zeeshan Shafqat'
 summary: ''
-tags: ['.NET Watermarking API', 'GroupDocs', 'Watermark']
-categories: ['GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release', 'GroupDocs.Watermark Product Family']
+tags: ['.NET Watermarking API', 'GroupDocs', 'Watermark', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/05/GroupDocs-Watermark-for-.NET_.png)](http://groupdocs.com/dot-net/document-watermark-library)
@@ -40,6 +40,7 @@ We are pleased to announce the release of version **17.10** of [GroupDocs.Waterm
 *   [Product Support Forum](https://forum.groupdocs.com/c/watermark) - Technical Support Forum for GroupDocs.Watermark
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/watermark "Technical Support Forum").
+
 
 
 

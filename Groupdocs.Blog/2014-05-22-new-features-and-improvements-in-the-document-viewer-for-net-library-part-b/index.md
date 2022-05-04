@@ -5,7 +5,8 @@ draft: false
 url: /2014/05/22/new-features-and-improvements-in-the-document-viewer-for-net-library-part-b/
 author: 'Denis Gvardionov'
 summary: ''
-tags: ['document viewer for .net', 'GroupDocs Viewer', 'viewer for .net library', 'zArchive']
+tags: ['document viewer for .net', 'viewer for .net library', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 Greetings!![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/03/GD_VWR_NETIcon_114.png) This is **Part B** of my post looking at the new features and enhancements to the GroupDocs document viewer for .NET version 2.0. For those of you who missed my previous post, please find it [here](https://blog.groupdocs.com/enhancements-and-new-features-in-the-document-viewer-for-net-library-part-a). This time I'm going to continue describing the core updates that the library has seen in the second major release. So, here we go:
@@ -48,6 +49,7 @@ public ClientHelper Locale(SupportedLocales locale);
 ```In this line of code we invoke both overloads: in the first line we apply the Portuguese locale, and in second, English. The last locale will be applied, so after compilation and execution, end-users will see the English locale.
 
 ### Other Features and Improvements1\. The _DocViewerId_ method was removed from the _ClientHelper_ class - there is no need for it anymore. 2. The _Groupdocs.Web.UI.Viewer_ class now has two new methods: _EnableDownloadRequestHandling_ and _EnablePrintRequestHandling_. All of these have one **Boolean** parameter. They are like enabling and disabling downloading and printing (this was described earlier), but, in contrast to showing or hiding buttons in the GroupDocs.Viewer UI, these methods are more global - they allow developers to enable or disable downloading and printing across a website, all pages and instances of the GroupDocs.Viewer web-control. These options are more powerful than those that the web-control has. For example, if downloading is enabled in GroupDocs.Viewer's web-control but disabled in the _Viewer_ class, then users will not be able to download anything at all. 3. PDF to HTML conversion performance has been improved significantly thanks to using a newer version of Knockout.js (ver.3.0.0), which reduces the size of the sprites.png file. 4. Plenty of other minor features have been added to GroupDocs.Viewer 2.0. You can find a complete list of improvements, as well as download the new version of the viewer on [this page](http://groupdocs.com/Community/files/8/.net-libraries/groupdocs_viewer_for_.net/entry1177.aspx). For more details on the GroupDocs.Viewer for .NET library itself, please see the [product's homepage](http://groupdocs.com/dot-net/document-viewer-library).
+
 
 
 

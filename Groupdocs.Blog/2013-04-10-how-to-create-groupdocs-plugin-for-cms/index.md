@@ -5,7 +5,8 @@ draft: false
 url: /2013/04/10/how-to-create-groupdocs-plugin-for-cms/
 author: 'Derek Hyland'
 summary: ''
-tags: ['API', 'GroupDocs Viewer', 'GroupDocs Viewer Plugin', 'online document viewer', 'View documents online', 'zArchive']
+tags: ['API', 'GroupDocs Viewer Plugin', 'online document viewer', 'View documents online', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 This article explains the basics of creating a plugin for the Contao CMS using the Contao Viewer plugin as an example. You can download the completed plugin [from Contao](https://contao.org/en/extension-list/view/groupdocs_viewer.10000099.en.html).
@@ -754,6 +755,7 @@ function insertGroupDocsIframe(){
 ```That's it. We created a GroupDocs Viewer plugin for Contao CMS.
 
 ## The Final PluginThis is the plugin in action: \[caption id="attachment\_1841" align="alignnone" width="600" caption="Plugin structure"\]![Plugin structure](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/04/Plugin-structure1.png "Plugin structure")\[/caption\] \[caption id="attachment\_1842" align="alignnone" width="600" caption="Button"\]![Button](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/04/Button.png "Button")\[/caption\] \[caption id="attachment\_1843" align="alignnone" width="602" caption="Dialog"\]![Dialog](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/04/Dialog.png "Dialog")\[/caption\] \[caption id="attachment\_1844" align="alignnone" width="598" caption="Iframe"\]![Iframe](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/04/Iframe.png "Iframe")\[/caption\] That's all for today. See you in the next article.
+
 
 
 

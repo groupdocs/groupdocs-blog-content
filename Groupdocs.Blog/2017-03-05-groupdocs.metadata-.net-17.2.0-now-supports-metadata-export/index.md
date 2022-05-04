@@ -5,8 +5,8 @@ draft: false
 url: /2017/03/05/groupdocs.metadata-.net-17.2.0-now-supports-metadata-export/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")We are really excited to announce the release of **[GroupDocs.Metadata for .NET version 17.02.0](http://www.groupdocs.com/products/metadata/net "GroupDocs.Metadata")**. The latest release comes up with a number of new features and enhancements. Users can now export the extracted metadata of various formats to a CSV or Excel file. The GroupDocs.Metadata API now supports video format too. Moreover, detecting DICOM format, reading Photoshop layers of a PSD format etc are some other enhancements introduced in this version of the API.  We recommend you to [download](https://downloads.groupdocs.com/metadata/net/new-releases/groupdocs.metadata-for-.net-17.2.0/) the latest release and enjoy the features and enhancements introduced in this version.
@@ -42,6 +42,7 @@ For details, please visit [Features Overview](https://www.groupdocs.com/docs/dis
 *   [Product Support Forum](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx) - Technical Support Forum for GroupDocs Metadata
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata for .NET](http://www.groupdocs.com/products/metadata/net ".NET Metadata API"), just share with us by creating a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx).
+
 
 
 

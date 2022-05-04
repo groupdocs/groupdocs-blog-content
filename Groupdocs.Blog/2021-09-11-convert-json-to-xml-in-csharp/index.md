@@ -1,5 +1,7 @@
 ---
-title: 'Convert JSON to XML in C#'
+title: "Convert JSON to XML in C#"
+seoTitle: "Convert JSON Data to XML using C# | JSON to XML"
+description: "Convert your JSON data to XML format using C#. Automate the JSON to XML conversion within the .NET application using file format conversion API."
 date: Sat, 11 Sep 2021 09:17:00 +0000
 draft: false
 url: /2021/09/11/convert-json-to-xml-in-csharp/

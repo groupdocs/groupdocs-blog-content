@@ -5,7 +5,8 @@ draft: false
 url: /2012/04/20/announcing-new-groupdocs-online-signature-features/
 author: 'Derek Hyland'
 summary: ''
-tags: ['collect signatures online', 'GroupDocs Signature', 'online document signing', 'online signature', 'online signature service', 'sign documents online', 'zArchive']
+tags: ['collect signatures online', 'online document signing', 'online signature', 'online signature service', 'sign documents online', 'zArchive']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 GroupDocs Signature is an [online signature service](http://groupdocs.com/apps/signature) that lets you collect signatures without the administrative overhead of printing, stuffing envelopes and posting. Simply email documents to your signers and wait for them to be signed. GroupDocs' online signature app is platform and software independent: the only thing a user needs to sign a document is a web browser, no additional software is required. \[caption id="attachment\_206" align="aligncenter" width="650" caption="GroupDocs' online signature app - New dashboard"\]![GroupDocs' online signature app - New dashboard](https://blog.groupdocs.com/wp-content/uploads/sites/4/2012/04/signature-dashboard_overview_a.png "GroupDocs' online signature app - New dashboard")\[/caption\]
@@ -17,6 +18,7 @@ The current GroupDocs Signature dashboard lets you upload documents and send the
 ## SignaturesDo you need to sign documents online on behalf of your colleagues? With GroupDocs' online signature app, you can create several signatures so that you can sign for yourself or for one of your colleagues with a simple click. Even if you always sign documents in your own name, it's a convenient approach to store your electronic signature in your GroupDocs account. This way, it is always at hand and you do not have to repeatedly upload your signature image and enter your name and title. \[caption id="attachment\_203" align="aligncenter" width="650" caption="Managing your signatures online"\]![Managing your signatures online](https://blog.groupdocs.com/wp-content/uploads/sites/4/2012/04/signature-dash_new-signature_a.png "Managing your signatures online")\[/caption\]
 
 ## TemplatesNow, you can save an envelope as a template to speed up the sending process. A template holds a set of documents and signers so that all you have to do to get another document signed, is create a new envelope from the template and enter recipient emails before sending the document. Preparing documents for signature has never been such an easy task! \[caption id="attachment\_204" align="aligncenter" width="650" caption="Using templates for fast document preparation"\]![Using templates for fast document preparation](https://blog.groupdocs.com/wp-content/uploads/sites/4/2012/04/signature-dashboard_template_a.png "Using templates for fast document preparation")\[/caption\]
+
 
 
 

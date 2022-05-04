@@ -5,8 +5,8 @@ draft: false
 url: /2019/09/03/best-practices-in-metadata-management/
 author: 'Muhammad Umar'
 summary: ''
-tags: ['JPEG Photo Parser', 'Metadata', 'metadata management']
-categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['JPEG Photo Parser', 'Metadata', 'metadata management', 'GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 Before going in-depth to Metadata management, let's discuss what the metadata is? The Metadata summarizes basic information about data. In other words, it's an information which describes the data that contained in something like a web page, document, or file. Another way to think of metadata is as a short explanation or summary of what the data is.
@@ -81,6 +81,7 @@ The output will be appeared like the following screenshot:
 
 
 The complete ready to run code sample is available on [GitHub](https://github.com/groupdocs-metadata).
+
 
 
 

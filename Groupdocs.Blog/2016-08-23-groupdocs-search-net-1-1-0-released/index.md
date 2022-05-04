@@ -5,8 +5,8 @@ draft: false
 url: /2016/08/23/groupdocs-search-net-1-1-0-released/
 author: 'Oleksandr Zinchenko@groupdocs Com'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)At GroupDocs, we are always keen to improve our products and enhance user experience. Hence, we are excited to announce [GroupDocs.Search for .NET](http://www.groupdocs.com/products/search/net "GroupDocs.Search") 1.1.0. The latest version of our **search API** provides new features and enhancements made to existing options. Please see below for the list of features.
@@ -34,6 +34,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 To share your feedback for improving the [Search API](http://www.groupdocs.com/products/search/net "Search API"), we will be happy to know about your thoughts. Create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx)
+
 
 
 

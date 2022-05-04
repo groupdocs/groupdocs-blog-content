@@ -5,8 +5,8 @@ draft: false
 url: /2019/05/10/implement-link-annotation-in-pdf-documents/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for .NET', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for .NET']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 You might be wondering if there would be more annotation types. The wait is over, we've introduced Link Annotation in GroupDocs.Annotation for .NET 19.4. With the passage of time we'll introduce more annotations. Currently, Link Annotation is supported for PDF, Slides and Word documents only. Let's see the minimal set of fields required for Link Annotation.
@@ -26,6 +26,7 @@ Following are the major bug fixes:
 *   ImportAnnotations method was not closing source stream for Tiff files
 
 [Download](https://www.nuget.org/packages/GroupDocs.annotation) and implement various types of annotations programatically in documents. See documentation of link and various other annotation types in [developer guide](https://docs.groupdocs.com/display/annotationnet/Developer+Guide) section.
+
 
 
 

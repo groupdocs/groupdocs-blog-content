@@ -5,8 +5,8 @@ draft: false
 url: /2016/09/18/groupdocs-metadata-net-release-1-7/
 author: 'Noman Ullah'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/02/GroupDocs-Metadata-theme-100x100.png "GroupDocs-Metadata-theme-100x100")[GroupDocs.Metadata for .NET](http://www.groupdocs.com/products/metadata/net) version 1.7 is available now. Code is redefined by decreasing number of namespaces for easy integration. One major enhancement is support for MP3 format. So management of audio format metadata is more easy with this release.
@@ -36,6 +36,7 @@ categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product
 *   [Product Support Forum](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx) - Technical Support Forum for GroupDocs Metadata queries
 
 ## FeedbackAs always, if someone has some questions, queries or suggestions in his/her feedback about [GroupDocs.Metadata for .NET](http://www.groupdocs.com/dot-net/document-metadata-library ".NET Metadata API") release 1.7.0, just share with us by creating a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx)
+
 
 
 

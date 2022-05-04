@@ -5,8 +5,8 @@ draft: false
 url: /2018/02/23/update-id3v1-and-id3v2-tag-using-properties-in-groupdocs.metadata-for-java-18.2/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['document-metadata', 'GroupDocs.Metadata Releases']
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata for Java', 'GroupDocs.Metadata Product Family']
+tags: ['document-metadata', 'GroupDocs.Metadata Releases', 'GroupDocs.Metadata', 'GroupDocs.Metadata for Java']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/12/groupdocs-metadata-java.png "GroupDocs-Metadata-theme-100x100")GroupDocs team is proudly announcing the monthly release of [GroupDocs.Metadata for Java](https://products.groupdocs.com/metadata/java) **18.2**. Three **enhancements **and six **new features **are introduced in this release. You can now load and save EXIF metadata for JPEG and TIFF formats with a better speed. You can also validate input metadata before saving, read additional properties from ID3v2, update ID3v1/ID3v2 tag using properties, and read/update/remove image cover tag in MP3 file format. Furthermore, you can read image cover and version of EPUB file format as well. We recommend you to [download](https://downloads.groupdocs.com/metadata/java/new-releases/groupdocs.metadata-for-java-18.2/) the latest version for a better experience.
@@ -36,6 +36,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) – Technical support forum for GroupDocs.Metadata product family
 
 ## FeedbackWe always love to hear your valuable feedback. Share your suggestions, questions, or queries related to GroupDocs.Metadata for Java at our [forum](https://forum.groupdocs.com/c/metadata).
+
 
 
 

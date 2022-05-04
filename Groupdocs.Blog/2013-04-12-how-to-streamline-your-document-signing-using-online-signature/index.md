@@ -5,7 +5,8 @@ draft: false
 url: /2013/04/12/how-to-streamline-your-document-signing-using-online-signature/
 author: 'Derek Hyland'
 summary: ''
-tags: ['collect signatures online', 'e-signature', 'electronic signature', 'esignature', 'GroupDocs Signature', 'online signature', 'sign documents online', 'zArchive']
+tags: ['collect signatures online', 'e-signature', 'electronic signature', 'esignature', 'online signature', 'sign documents online', 'zArchive']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 A steady **document signing process** is the back bone of any contract-oriented organization. Conventional signing process leaves you with piles of signed documents, difficult to handle and archive. Also, the documents are passed around different departments, either getting lost or eating up too much time delaying the signing process. **Online signature** is the answer to all these concerns.
@@ -36,6 +37,7 @@ A steady **document signing process** is the back bone of any contract-oriented 
     *   The signers can then easily sign documents online just using a browser. Type, draw, or upload the signature. ![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/04/Type-draw-or-upload-your-signature2.png "Type, draw or upload your signature")
 
 All related partied are notified as soon as the documents are signed. Stay tuned for a step-by-step video tutorial on how to prepare and send a document for online signature, it's in the pipeline. So why wait! go green with this [efficient e-signature service](https://products.groupdocs.com/signature).
+
 
 
 

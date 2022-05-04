@@ -5,7 +5,8 @@ draft: false
 url: /2014/10/30/groupdocs-viewer-for-java-library-universal-document-viewer-for-your-web-mobile-desktop-apps/
 author: 'Ihor Mykhalevych'
 summary: ''
-tags: ['GroupDocs Viewer', 'viewer for java library', 'zArchive']
+tags: ['viewer for java library', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs.Viewer for Java](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/06/GD_VWR_JavaIcon_1141.png)](http://groupdocs.com/java/document-viewer-library)In this post I'm going to introduce new features that became available with version 2.5.0 of the Java document viewer library from GroupDocs. [GroupDocs.Viewer for Java](http://groupdocs.com/java/document-viewer-library) is a lightweight document viewer library that supports more than 50 file formats, including Microsoft Office documents, PDFs, images, OpenDocument files, emails and others. Initially, the library was geared towards integration into web apps and websites. Starting from this release, we overcame the boundaries of the “web” prefix and made the viewer available for any type of applications, including desktop and mobile ones! As well as this change, we improved the core engine and the web UI that comes with the library. Check all the new stuff in detail below:
@@ -47,6 +48,7 @@ public Integer getPreloadPagesCount()
 ### Tabbed Rendering of Excel SpreadsheetsMicrosoft Excel, ODS and other documents that have several sheets are now rendered with tab controls that allow end users to quickly switch between spreadsheets, just like in native applications.
 
 ### New LocalizationsThe UI is now available in English, Norwegian, Polish, Portuguese, Russian and Spanish. Furthermore, the localization functionality is fully adapted to the UTF-8 standard, to make it easy to customize the UI with any additional languages. The new version of the GroupDocs.Viewer for Java library is available for download from our [downloads archive](http://groupdocs.com/Community/files/9/java-libraries/groupdocs_viewer_for_java/entry2958.aspx). Also, please feel free to download our [samples](http://groupdocs.com/Community/files/9/java-libraries/groupdocs_viewer_for_java/category1004.aspx) to explore the Java version of the document viewer quickly. For more detailed installation and usage instructions, please see the [documentation wiki](http://groupdocs.com/docs/display/viewerjava/Home).
+
 
 
 

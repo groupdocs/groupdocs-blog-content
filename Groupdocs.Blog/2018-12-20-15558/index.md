@@ -5,8 +5,8 @@ draft: false
 url: /2018/12/20/15558/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Document Parser', 'document parsing API', 'document text extraction', 'Java Text Extractor', 'text analysis API']
-categories: ['GroupDocs.Parser for Java', 'GroupDocs.Parser for Java Releases', 'GroupDocs.Parser Product Family']
+tags: ['Document Parser', 'document parsing API', 'document text extraction', 'Java Text Extractor', 'text analysis API', 'GroupDocs.Parser for Java', 'GroupDocs.Parser for Java Releases']
+categories: ['GroupDocs.Parser Product Family']
 ---
 
 ![GroupDocs.Parser for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/06/groupdocs-parser-java.png "GroupDocs-Parser-theme-100x100")
@@ -15,9 +15,13 @@ We are delighted to announce the release of [GroupDocs.Parser for Java](https://
 
 # Features Introduced
 
-## Extracting Tables from PDF DocumentsThis feature is very useful when you want to extract only the tables form a PDF document. For extracting tables, **TableAreaParser** class is used. The instance of **TableAreaParser** class is available via property with the same name in **PdfTextExtractor** class. You can create the table bounds manually or let the API detect the layout in automatic mode using **TableAreaDetector** class. For working example of this feature, please refer to [this](https://docs.groupdocs.com/parser/java/) documentation article.
+## Extracting Tables from PDF Documents
 
-## Extracting Text and Metadata from Text and Presentation TemplatesGroupDocs.Parser now supports extracting text and metadata from the following text and presentation template formats:
+This feature is very useful when you want to extract only the tables form a PDF document. For extracting tables, **TableAreaParser** class is used. The instance of **TableAreaParser** class is available via property with the same name in **PdfTextExtractor** class. You can create the table bounds manually or let the API detect the layout in automatic mode using **TableAreaDetector** class. For working example of this feature, please refer to [this](https://docs.groupdocs.com/parser/java/) documentation article.
+
+## Extracting Text and Metadata from Text and Presentation Templates
+
+GroupDocs.Parser now supports extracting text and metadata from the following text and presentation template formats:
 
 *   dotx (Template)
 *   dotm (Macro-enabled template)
@@ -27,7 +31,9 @@ We are delighted to announce the release of [GroupDocs.Parser for Java](https://
 *   ppsm (Macro-enabled slideshow)
 *   pptm (Macro-enabled presentation)
 
-The following code samples show how to extract text and metadata from templates.```
+The following code samples show how to extract text and metadata from templates.
+
+```
 // Extracting Text
 void extractText(String fileName) {
     // Extract a text from the file
@@ -52,7 +58,9 @@ void extractMetadata(String fileName) {
 
 # Enhancements
 
-## Detecting Type of Password-protected Office Open XML DocumentsThis feature allows detecting media type of the password-protected Office Open XML documents. To detect media type of encrypted Office Open XML document, **detect(InputStream, LoadOptions)** method is used. You can also use **IPasswordProvider** interface for batch document processing. For working examples of this feature, please refer to [this](https://docs.groupdocs.com/parser/java/) documentation article.
+## Detecting Type of Password-protected Office Open XML Documents
+
+This feature allows detecting media type of the password-protected Office Open XML documents. To detect media type of encrypted Office Open XML document, **detect(InputStream, LoadOptions)** method is used. You can also use **IPasswordProvider** interface for batch document processing. For working examples of this feature, please refer to [this](https://docs.groupdocs.com/parser/java/) documentation article.
 
 # Available Channels and Resources
 
@@ -65,8 +73,5 @@ Here are a few channels and resources for you to download, learn, try and get te
 
 # Feedback
 
-As always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/"Technical Support Forum").
-
-
-
+As always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/).
 

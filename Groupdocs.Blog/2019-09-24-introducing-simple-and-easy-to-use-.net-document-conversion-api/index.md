@@ -5,8 +5,8 @@ draft: false
 url: /2019/09/24/introducing-simple-and-easy-to-use-.net-document-conversion-api/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for .NET', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for .NET']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 We are introducing a new public API that is designed to be implemented easily. Those who are using previous version of the API (below 19.9), you don't have to worry. The legacy API has been moved into legacy namespace. If you want to upgrade to [v19.9](https://docs.groupdocs.com/display/conversionnet/GroupDocs.Conversion+for+.NET+19.9+Release+Notes), it is required to make project-wide replacement of namespace usages from **GroupDocs.Conversion** to **GroupDocs.Conversion.Legacy** in order to avoid any build issues.
@@ -31,6 +31,7 @@ Issue "Specified argument was out of range of valid values" is fixed while conve
 
 **Get Started**  
 Please download or clone our updated example [project](https://github.com/groupdocs-conversion/GroupDocs.Conversion-for-.NET) and explore [developer guide](https://docs.groupdocs.com/display/conversionnet/Developer+Guide).
+
 
 
 

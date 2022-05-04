@@ -5,8 +5,8 @@ draft: false
 url: /2019/11/01/lock-watermarks-in-word-documents-programmatically-using-csharp/
 author: 'Usman Aziz'
 summary: ''
-tags: ['API', 'Document Watermarking', 'dotnet']
-categories: ['GroupDocs.Watermark for .NET', 'GroupDocs.Watermark Product Family']
+tags: ['API', 'Document Watermarking', 'dotnet', 'GroupDocs.Watermark for .NET']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 Watermarking is a famous way of adding labels to the documents that may indicate the state of the document such as draft, confidential, etc. It can be used to add a company's logo behind the text of the document to avoid the ownership dispute. In some cases, people add watermarks to the documents to protect the content. But, are you sure that the content is protected and no one can remove those watermarks? There is no guarantee because various third-party tools are available that can wipe out the watermarks from the documents.
@@ -44,6 +44,7 @@ The following code sample shows how to impose the above-mentioned restrictions o
 {{< gist GroupDocsGists e04a73ccf29f6bab61c59ffa5a8daeca "LockWatermarkInWordDocument.cs" >}}
 
 Have any questions or queries? Do contact us on our [forum](https://forum.groupdocs.com/c/watermark).
+
 
 
 

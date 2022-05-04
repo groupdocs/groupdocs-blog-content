@@ -5,8 +5,8 @@ draft: false
 url: /2017/11/09/dotnet-e-signing-api-v17.11/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Signature for .NET', 'GroupDocs.Signature Product Family']
+tags: ['GroupDocs.Signature for .NET']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 [![GroupDocs.Signature](http://blog.groupdocs.com/wp-content/uploads/sites/4/2016/07/groupdocs-signature-net.png)](https://products.groupdocs.com/signature/net)
@@ -55,6 +55,7 @@ Here are a few channels and resources for you to learn, try and get technical su
 # Feedback
 
 As always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/signature) and our dedicated support team will be there to respond.
+
 
 
 

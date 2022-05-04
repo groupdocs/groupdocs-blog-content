@@ -5,7 +5,8 @@ draft: false
 url: /2013/07/01/announcing-groupdocs-viewer-for-net-an-asp-dotnet-html5-dll-version-of-groupdocs-online-document-viewer/
 author: 'Derek Hyland'
 summary: ''
-tags: ['GroupDocs Viewer', 'html5 document viewer', 'viewer for .net library', 'zArchive']
+tags: ['html5 document viewer', 'viewer for .net library', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 We're glad to announce the release of the .NET version of our [universal HTML5 document viewer](http://groupdocs.com/html5-document-viewer)!
@@ -22,6 +23,7 @@ Originally, GroupDocs.Viewer was available as a [web app](http://groupdocs.com/a
 Using GroupDocs.Viewer is easy: end users understand the controls intuitively and can navigate, search, download or print documents immediately from any HTML5-complient web-browser.
 
 To find more information on the .NET version of the GroupDocs.Viewer and download a free evaluation copy, please visit its [homepage](http://groupdocs.com/dot-net/document-viewer-library).
+
 
 
 

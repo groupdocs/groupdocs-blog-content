@@ -5,8 +5,8 @@ draft: false
 url: /2018/06/29/lock-watermark-in-word-documents-groupdocs.watermark-for-.net-18.6/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'lock watermark in word', 'lock watermark in word document', 'Watermark', 'watermarking', 'Watermarking API for .NET']
-categories: ['GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release', 'GroupDocs.Watermark Product Family']
+tags: ['.NET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'lock watermark in word', 'lock watermark in word document', 'Watermark', 'watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/05/GroupDocs-Watermark-for-.NET_.png)](https://products.groupdocs.com/watermark/net)[GroupDocs.Watermark for .NET](https://products.groupdocs.com/watermark/net) **18.6** has been released and it is available for download. The latest version has come with the feature of locking watermarks in **Word documents**. Furthermore, it also provides the ability to protect/unprotect the Word documents. Please continue to read more about the features added in version 18.6.
@@ -71,6 +71,7 @@ using (WordsDocument doc = Document.Load(@"D:\test.doc"))
 *   [Product Support Forum](https://forum.groupdocs.com/c/watermark) - Technical Support Forum for GroupDocs.Watermark
 
 ## FeedbackAs always, we would love to hear your queries and suggestions at our [forum](https://forum.groupdocs.com/c/watermark "Technical Support Forum").
+
 
 
 

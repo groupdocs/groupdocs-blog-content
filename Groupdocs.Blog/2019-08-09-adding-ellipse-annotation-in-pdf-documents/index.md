@@ -5,8 +5,8 @@ draft: false
 url: /2019/08/09/adding-ellipse-annotation-in-pdf-documents/
 author: 'Samicheema'
 summary: ''
-tags: ['Annotation', 'Ellipse', 'Ellipse Annotation']
-categories: ['GroupDocs.Annotation', 'GroupDocs.Annotation Product Family']
+tags: ['Annotation', 'Ellipse', 'Ellipse Annotation', 'GroupDocs.Annotation']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 **GroupDocs.Annotation API**
@@ -34,6 +34,7 @@ The code in Java will look like this:
 
 
 {{< figure align=center src="images/EllipseAnnotation-1024x601.png" alt="">}}
+
 
 
 

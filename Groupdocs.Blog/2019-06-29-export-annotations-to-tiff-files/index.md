@@ -5,8 +5,8 @@ draft: false
 url: /2019/06/29/export-annotations-to-tiff-files/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for .NET', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for .NET']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 This may be a big news for those who annotate TIFF documents, most of the time. Previously, there was issue with this format. API was throwing exception "Cannot open image file". But now you can:
@@ -31,6 +31,7 @@ API now supports following new Slide formats:
 We integrated credit based billing system in GroupDocs.Annotation for .NET 19.6. Each document operation, along with consumed bytes, also consumes one credit. The amount of already used credits can be retrieved through method GetConsumptionCredit in the Metered class: {{< gist GroupDocsGists 2f9cad3b25a73caeabd92ca53735c8c2 "GetAlreadyUsedCredit.cs" >}}
 
 API version 19.6 is now available for [download](https://www.nuget.org/packages/GroupDocs.annotation). Integrate it in your existing or new applications.
+
 
 
 

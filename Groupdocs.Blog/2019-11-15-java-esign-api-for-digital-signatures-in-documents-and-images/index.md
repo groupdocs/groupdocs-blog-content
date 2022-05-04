@@ -5,8 +5,8 @@ draft: false
 url: /2019/11/15/java-esign-api-for-digital-signatures-in-documents-and-images/
 author: 'Usman Aziz'
 summary: ''
-tags: ['API', 'digital signature', 'esign', 'java']
-categories: ['GroupDocs.Signature for Java Releases', 'GroupDocs.Signature Product Family']
+tags: ['API', 'digital signature', 'esign', 'java', 'GroupDocs.Signature for Java Releases']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 We are back with a major update for our customers who are using the eSign API - [GroupDocs.Signature for Java](https://products.groupdocs.com/signature/java). We have performed major product optimization and revamped the architecture which has made the API more memory efficient and easy to use. We have also added the support of a couple of new file formats. Let's have an overview of this amazing release and check out what you would get after upgrading to API v2.
@@ -54,6 +54,7 @@ We have added the support of following file formats in the latest release:
 *   [Corel Draw File (.cdr)](https://wiki.fileformat.com/image/cdr/)
 
 If you are interested in migration to the latest release, just download and integrate [v19.11](https://downloads.groupdocs.com/signature/java/new-releases/groupdocs.signature-for-java-19.11/) in your applications. We have also updated the source code examples in our [GitHub repository](https://github.com/groupdocs-signature/GroupDocs.Signature-for-Java) so you can easily evaluate the API v2. For more details, consult the documentation or have a conversation with us on our [forum](https://forum.groupdocs.com/c/signature).
+
 
 
 

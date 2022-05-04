@@ -5,8 +5,8 @@ draft: false
 url: /2017/12/16/highlighted-results-of-exact-phrase-search-in-text-groupdocs.search-for-.net-17.12/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Searching API', 'c# search documents', 'search API for .NET']
-categories: ['GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['.NET Text Searching API', 'c# search documents', 'search API for .NET', 'GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net) We are pleased to announce the release of version 17.12 of [GroupDocs.Search for .NET](https://products.groupdocs.com/search/net). **GroupDocs.Search for .NET 17.12** has come with 4 enhancements. We have introduced the feature of getting highlighted results of exact phrase search in text. Furthermore, we have improved the calculation of relevance of search results as well as redesigned the syntax of the search query. We would recommend you to enhance your applications using this latest version.
@@ -138,6 +138,7 @@ Here are a few channels and resources for you to download, try, learn and get te
 # Feedback
 
 If you have any suggestions, questions, or queries related to the [.NET Search API](https://products.groupdocs.com/search/net), we will be happy to hear from you. Just create a [forum thread](https://forum.groupdocs.com/c/search) to share your thoughts.
+
 
 
 

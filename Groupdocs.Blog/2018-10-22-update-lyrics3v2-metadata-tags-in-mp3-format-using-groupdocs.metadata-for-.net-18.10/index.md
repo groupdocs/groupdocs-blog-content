@@ -5,8 +5,8 @@ draft: false
 url: /2018/10/22/update-lyrics3v2-metadata-tags-in-mp3-format-using-groupdocs.metadata-for-.net-18.10/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata for .NET', 'GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata', 'GroupDocs.Metadata for .NET', 'GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")We are delighted to announce a new feature and enhancements in the monthly release of [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net) **18.10**. Using the latest version, you can now update **Lyrics3v2** tags in MP3 format. Memory consumption is now reduced for working with PNG, JPEG2000, BMP, DICOM, DJVU, EMF, WEBP and WMF formats. Furthermore, **MetadataUtility **obsolete methods are now removed and a bug, while cleaning or updating metadata of Strict Open XML Presentation (.pptx), is now fixed. We recommend you to [install](https://www.nuget.org/packages/GroupDocs.Metadata/) and use the latest version of the API.
@@ -36,6 +36,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) - Technical Support Forum for GroupDocs Metadata
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net ".NET Metadata API") API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/metadata).
+
 
 
 

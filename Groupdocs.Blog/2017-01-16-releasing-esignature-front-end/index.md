@@ -5,8 +5,8 @@ draft: false
 url: /2017/01/16/releasing-esignature-front-end/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Signature for .NET', 'GroupDocs.Signature Product Family']
+tags: ['GroupDocs.Signature for .NET']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 Experience the basics of GroupDocs e-Signing API through an open source ASP.NET MVC front end. This front end demonstrates essential functionalities provided by GroupDocs.Signature for .NET API, the easy to grasp UI permits .NET developers to develop their own front end or extend the existing one. We would recommend you to clone/download and explore the front end.
@@ -46,6 +46,7 @@ Experience the basics of GroupDocs e-Signing API through an open source ASP.NET 
 *   [Examples](https://github.com/groupdocs-signature/GroupDocs.Signature-for.NET "Signing API Examples") - Examples, Showcases and Plugins
 *   [Product Support Forum](http://www.groupdocs.com/Community/forums/groupdocs.signature-product-family/6/showforum.aspx "GroupDocs.Signature for .NET Support forum") \- Technical Support Forum for GroupDocs.Signature
 *   [Video Tutorials](https://www.youtube.com/channel/UCXfvjjoMbyvpUlzD4A7oBuA "GroupDocs.Signature for .NET  tutorials") \- YouTube Video Tutorials
+
 
 
 

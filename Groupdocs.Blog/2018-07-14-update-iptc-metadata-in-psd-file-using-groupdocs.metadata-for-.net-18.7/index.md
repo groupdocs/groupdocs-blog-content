@@ -5,8 +5,8 @@ draft: false
 url: /2018/07/14/update-iptc-metadata-in-psd-file-using-groupdocs.metadata-for-.net-18.7/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata for .NET', 'GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata', 'GroupDocs.Metadata for .NET', 'GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")GroupDocs team is proudly announcing the monthly release of [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net) **18.7**. Using the latest version, you can now update and remove  IPTC metadata in PSD file format. Furthermore, memory consumption is now reduced to perform metadata operations for PSD and MP3 file format.  We recommend you to [install](https://www.nuget.org/packages/GroupDocs.Metadata/) and use the latest version of the API.
@@ -32,6 +32,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) - Technical Support Forum for GroupDocs Metadata
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net ".NET Metadata API") API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/metadata).
+
 
 
 

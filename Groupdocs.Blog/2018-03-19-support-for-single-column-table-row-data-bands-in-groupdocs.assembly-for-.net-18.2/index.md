@@ -5,8 +5,8 @@ draft: false
 url: /2018/03/19/support-for-single-column-table-row-data-bands-in-groupdocs.assembly-for-.net-18.2/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['document assembly', 'Document Assembly API', 'GroupDocs Assembly']
-categories: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly Product Family']
+tags: ['document assembly', 'Document Assembly API', 'GroupDocs Assembly', 'GroupDocs.Assembly for .NET']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-assembly-net.png)[GroupDocs](https://www.groupdocs.com/) team is proudly announcing the support for single-column table-row data bands in monthly release of [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net)  **18.2**. Using the latest version, you can now add single-column table-row data bands in word processing, spreadsheet, presentation, and email messages with HTML and RTF bodies.  We recommend you to [download](https://downloads.groupdocs.com/assembly/net) and use the latest version of API.
@@ -32,6 +32,7 @@ categories: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly Product Family']
 *   [Product Support Forum ](https://forum.groupdocs.com/c/assembly "GroupDocs.Assembly for .NET Support forum")\- Technical Support Forum for GroupDocs.Assembly
 
 ## FeedbackWe will be happy to know your thoughts and we will try to enhance your experience with the **GroupDocs.Assembly for .NET API**. Just create a [forum thread](https://forum.groupdocs.com/c/assembly "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

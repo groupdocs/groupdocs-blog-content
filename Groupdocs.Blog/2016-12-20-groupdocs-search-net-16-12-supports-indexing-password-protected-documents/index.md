@@ -5,8 +5,8 @@ draft: false
 url: /2016/12/20/groupdocs-search-net-16-12-supports-indexing-password-protected-documents/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)We are really pleased to announce the monthly release of [GroupDocs.Search for .NET 16.12](https://www.groupdocs.com/products/search/net "GroupDocs.Search") API.  In this release, we have introduced three new features. You can now apply search to password protected documents. Not only this, the latest release provides its users with the functionality to maintain list of synonyms and stop words. [Download](http://www.groupdocs.com/downloads/search/net/new-releases/groupdocs.search-for-.net-16.12.0/ "GroupDocs.Search Download") the latest version and try out all the amazing features of GroupDocs.Search for .NET 16.12 API.
@@ -36,6 +36,7 @@ Here are a few channels and resources for you to download, try, learn and get te
 # Feedback
 
 If you have any suggestions, questions, or queries related to [GroupDocs.Search API](http://www.groupdocs.com/products/search/net), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

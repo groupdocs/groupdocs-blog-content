@@ -5,7 +5,8 @@ draft: false
 url: /2013/10/01/online-document-viewer-from-groupdocs-for-the-healthcare-industry/
 author: 'Rahul Gulati'
 summary: ''
-tags: ['GroupDocs Viewer', 'online document viewer', 'zArchive']
+tags: ['online document viewer', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 The technology research firm [Gartner](http://www.gartner.com/technology/home.jsp) states that the demand for SaaS (Software as a Service) products will continue to grow in a recent report (February, 2013). The report highlights that some of the top segments for the SaaS market will be:
@@ -35,6 +36,7 @@ Corporates understand the need to stay abreast technology trends and are taking 
 Healthcare organizations require all these features and need to work efficiently. GroupDocs can help.
 
 ## SummaryGovernments and state agencies worldwide are beginning to accept the web-based document management model and see the potential it offers. Digital documents are easy to share across teams, even widely dispersed ones. A tool like GroupDocs Viewer also overcomes cross-platform issues so that everyone who needs it has easy access to files. It allows health organizations to move towards a paperless environment and, at the same time, engage in document collaboration with [GroupDocs' online document viewer](http://groupdocs.com/apps/viewer).
+
 
 
 

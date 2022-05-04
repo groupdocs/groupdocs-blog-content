@@ -5,8 +5,8 @@ draft: false
 url: /2018/09/06/strengthen-the-protection-of-text-watermark-using-groupdocs.watermark-for-java-18.8/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Document Watermarking', 'Java document watermarking API', 'watermarking API for Java']
-categories: ['GroupDocs.Watermark for Java', 'GroupDocs.Watermark for Java Releases', 'GroupDocs.Watermark Product Family']
+tags: ['Document Watermarking', 'Java document watermarking API', 'watermarking API for Java', 'GroupDocs.Watermark for Java', 'GroupDocs.Watermark for Java Releases']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/01/groupdocs-watermark-java.png)](https://products.groupdocs.com/watermark/java)We are pleased to introduce version 18.8 of [GroupDocs.Watermark for Java](https://products.groupdocs.com/watermark/java). This version includes 2 new features, 1 enhancement, 1 bug fix, and a breaking change as well. It supports skipping unreadable characters during text watermark search. Furthermore, we have also added a new feature to strengthen protection of text watermark in PowerPoint documents. Please continue to read more about version 18.8.
@@ -47,6 +47,7 @@ Since version 18.8, the security of Metered licensing has been improved. Metered
 # Feedback
 
 As always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/"Technical Support Forum").
+
 
 
 

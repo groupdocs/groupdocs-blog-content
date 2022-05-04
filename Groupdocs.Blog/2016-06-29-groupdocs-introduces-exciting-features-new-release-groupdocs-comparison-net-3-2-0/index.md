@@ -5,8 +5,8 @@ draft: false
 url: /2016/06/29/groupdocs-introduces-exciting-features-new-release-groupdocs-comparison-net-3-2-0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET Releases', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET Releases']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison for .Net](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/07/GD_CMP_NETIcon_114.png)](http://groupdocs.com/dot-net/document-comparison-library)
@@ -43,6 +43,7 @@ For more details about supported document formats, please visit [Features Overv
 *   [Example / Plugins](https://github.com/groupdocs-comparison/GroupDocs.Comparison-for-.NET "GroupDocs.Comparison for .NET Github")\-Github source code examples
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.comparison-product-family/9/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

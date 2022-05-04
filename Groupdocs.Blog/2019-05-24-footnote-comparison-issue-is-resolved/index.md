@@ -5,8 +5,8 @@ draft: false
 url: /2019/05/24/footnote-comparison-issue-is-resolved/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 Footnote appears at bottom of the page and used to cite information. Previously, API was not comparing Footnotes correctly. But with the release of GroupDocs.Comparison for .NET [19.5](https://docs.groupdocs.com/display/comparisonnet/GroupDocs.Comparison+for+.NET+19.5+Release+Notes), we fixed this issue. Please have a glance.
@@ -58,6 +58,7 @@ Major Bug Fixes
 *   Word separation exception
 
 We'd recommend you to [download](https://www.nuget.org/packages/GroupDocs.Comparison/) latest release of the API and enhance your document comparison experience.
+
 
 
 

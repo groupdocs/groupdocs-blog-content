@@ -5,7 +5,8 @@ draft: false
 url: /2013/04/12/how-to-compare-files-with-groupdocs-php-sdk/
 author: 'Derek Hyland'
 summary: ''
-tags: ['API', 'document comparison', 'GroupDocs API', 'GroupDocs API SDK', 'GroupDocs Comparison', 'zArchive']
+tags: ['API', 'document comparison', 'GroupDocs API', 'GroupDocs API SDK', 'zArchive']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 This article explains the basics of using PHP SDK classes and methods. In this article I'll use the Comparison API and show how to [compare two documents](http://groupdocs.com/apps/comparison) from a GroupDocs account. [Find information about other methods in the Swagger explorer](https://api.groupdocs.com/v2.0/spec/).
@@ -314,6 +315,7 @@ try {
 //    f3::set('result', $result);
     echo Template::serve('comparison.htm');
 ```In this block we call our function with user data and a catch exception (in case there is an exception). The exception contains all possible errors. And we can set variables for the template and send them to it: f3::set('sourceFileId', $sourceFileId);. As I've already mentioned, this sets variables for the template and this line of code, echo Template::serve('comparison.htm'); calls template and send data to it. The iframe, complete with results, looks like this: ![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/04/iframe1.png "iframe")
+
 
 
 

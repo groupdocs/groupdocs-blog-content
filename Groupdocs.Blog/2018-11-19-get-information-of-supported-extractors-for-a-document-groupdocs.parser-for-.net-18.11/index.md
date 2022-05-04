@@ -5,8 +5,8 @@ draft: false
 url: /2018/11/19/get-information-of-supported-extractors-for-a-document-groupdocs.parser-for-.net-18.11/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'Document Parser', 'document parsing API', 'document text extraction', 'text parser']
-categories: ['GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases', 'GroupDocs.Parser Product Family']
+tags: ['.NET Text Extractor', 'Document Parser', 'document parsing API', 'document text extraction', 'text parser', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
+categories: ['GroupDocs.Parser Product Family']
 ---
 
 ![GroupDocs.Parser for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/05/groupdocs-parser.png "GroupDocs-Parser-theme-100x100")
@@ -51,6 +51,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Have Queries?
 
 If you have got any queries or concerns about the API, please feel free to get in touch with us over the [forum](https://forum.groupdocs.com/). We’ll be glad to address your concerns.
+
 
 
 

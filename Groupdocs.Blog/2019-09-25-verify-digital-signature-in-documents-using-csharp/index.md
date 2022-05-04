@@ -7,8 +7,8 @@ aliases:
     - /2019/09/25/verify-digital-signature-in-documents-using-c/
 author: 'Usman Aziz'
 summary: ''
-tags: ['c# electronic signature']
-categories: ['GroupDocs.Signature for .NET', 'GroupDocs.Signature Product Family']
+tags: ['c# electronic signature', 'GroupDocs.Signature for .NET']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 **Digital Signatures** in documents look similar to the paper-based signatures, however, being certificate-based **electronic signatures** they contain the identity of the signer in encrypted form. The certificates are issued by trusted and authorized Certificate Authorities. These authorities identify the person the certificates are issued to. This is why the digitally signed documents can be verified at any time. In this article, I'll show you how to programmatically verify the digital signature in **PDF**, **Word**, and **Excel**, **documents** by using [**GroupDocs.Signature for .NET**](https://products.groupdocs.com/signature/net) **API** with **C#**.
@@ -44,6 +44,7 @@ For demonstration, I am using a PDF document for digital signature verification.
 {{< gist GroupDocsGists 4b6047f897d21ce8d268f4b7972a8ad6 "VerifyDigitalSignatureInPDFDocument.cs" >}}
 
 Thus, you can determine whether the digital signature in the PDF document meets the specified criteria or not. Finally, you can mark the document as valid or invalid. Read more about _GroupDocs.Signature for .NET_ API [here](https://docs.groupdocs.com/display/signaturenet/Introducing+GroupDocs.Signature+for+.NET).
+
 
 
 

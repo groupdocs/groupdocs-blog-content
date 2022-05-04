@@ -5,8 +5,8 @@ draft: false
 url: /2018/07/05/announcing-hotfix-release-of-groupdocs.conversion-for-java-18.6.1/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for Java', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for Java']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 [![GroupDocs.Conversion](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/09/conversion.png?itok=MpNabR9F)](#)
@@ -29,6 +29,7 @@ This hotfix release of [GroupDocs.Conversion for Java](https://products.groupdoc
 *   [Examples/Plugins/Showcases](https://github.com/groupdocs-conversion/GroupDocs.Conversion-for-Java "Example projects") - GitHub source code examples
 *   [Video Tutorials](https://www.youtube.com/playlist?list=PL25CTxMCj5vPNfkcX3UXzMLKEOZwNpkzN) - YouTube Videos
 *   [Product Support Forum](https://forum.groupdocs.com/c/conversion "Support forum") \- Technical Support Forum for GroupDocs.Conversion
+
 
 
 

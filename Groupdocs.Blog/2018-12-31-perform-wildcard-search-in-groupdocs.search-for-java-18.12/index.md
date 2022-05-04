@@ -5,8 +5,8 @@ draft: false
 url: /2018/12/31/perform-wildcard-search-in-groupdocs.search-for-java-18.12/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search', 'GroupDocs.Search for Java', 'GroupDocs.Search for Java Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search', 'GroupDocs.Search for Java', 'GroupDocs.Search for Java Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/10/groupdocs.search-for-java-90x90.png)](https://products.groupdocs.com/search/java)We are pleased to announce the monthly release of [GroupDocs.Search for Java](https://products.groupdocs.com/search/java "GroupDocs.Search product page") **18.12**. Using the latest version, you can now index and search blended characters and perform a wildcard search. We would recommend you to [install](https://repository.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-search) and use the latest version of the API.
@@ -68,6 +68,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/"Technical Support Forum").
+
 
 
 

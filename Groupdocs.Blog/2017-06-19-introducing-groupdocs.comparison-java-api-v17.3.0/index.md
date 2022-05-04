@@ -5,8 +5,8 @@ draft: false
 url: /2017/06/19/introducing-groupdocs.comparison-java-api-v17.3.0/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for Java', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for Java']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/09/java-comparison-logo.png)](https://www.groupdocs.com/products/comparison/java)
@@ -75,6 +75,7 @@ We have always been improving our APIs to meet the requirements of our customers
 *   [Examples/Plugins/Showcases](https://github.com/groupdocs-comparison/GroupDocs.Comparison-for-Java "Examples/Plugins/Showcases") – Github source code examples
 
 ## FeedbackWe always welcome you to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.comparison-product-family/9/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

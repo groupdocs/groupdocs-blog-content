@@ -5,8 +5,8 @@ draft: false
 url: /2017/04/04/read-thumbnails-document-formats-using-groupdocs.metadata-.net-17.3/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")Team GroupDocs is really pleased to announce the release of **[GroupDocs.Metadata for .NET version 17.3.0](http://www.groupdocs.com/products/metadata/net "GroupDocs.Metadata")**. There are four enhancements and one new feature introduced in this regular monthly release.  GroupDocs.Metadata for .NET now allows its users to read thumbnails in supported document formats. The API has been enhanced to update and remove EXIF metadata faster. Not only this, the API has also been improved to load only the existing metadata keys in PDF class beside adding the ability to lazy load Document info property for Document formats. So, what are you waiting for? simply [download](https://downloads.groupdocs.com/metadata/net/new-releases/groupdocs.metadata-for-.net-17.3.0/) the latest release and enjoy a better experience with the API through the features and enhancements introduced in this version.
@@ -32,6 +32,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx) - Technical Support Forum for GroupDocs Metadata
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata for .NET](http://www.groupdocs.com/products/metadata/net ".NET Metadata API"), just share with us by creating a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx).
+
 
 
 

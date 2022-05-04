@@ -5,8 +5,8 @@ draft: false
 url: /2017/09/20/read-mp3-apev2-tag-groupdocs.metadata-17.9/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")It gives us immense pleasure to announce the release of version 17.9.0 of the **GroupDocs.Metadata for .NET** API. The latest release comes up with a number of new features along with an enhancement and a bug fix. In addition to the tags the API already supports, the API also supports reading APEv2 tags in Mp3 files. Furthermore, the API also allows reading metadata of OpenDocument Spreadsheet files(ODS format) starting from version 17.9.0. The API has also added features like reading SRational Tiff tags in Jpeg and Tiff images etc. Moreover, we have tried to improve the [metadata extraction API](https://www.groupdocs.com/products/metadata/net)'s functionality by improving the export process of files with larger objects and fixing a bug related to updating EXIF tags. We therefore recommend you to [download](https://downloads.groupdocs.com/metadata/net/new-releases/groupdocs.metadata-for-.net-17.9.0/) or update your applications to use the latest version of the API for a better and smoother experience.
@@ -50,6 +50,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 *   As always, if you have some questions, queries or suggestions about [GroupDocs.Metadata](http://www.groupdocs.com/products/metadata/net ".NET Metadata API") for .NET API,  just share with us by creating a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx).
+
 
 
 

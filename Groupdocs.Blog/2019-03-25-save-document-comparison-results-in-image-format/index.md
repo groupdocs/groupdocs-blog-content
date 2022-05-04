@@ -5,8 +5,8 @@ draft: false
 url: /2019/03/25/save-document-comparison-results-in-image-format/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 Yes, you heard it right. We've implemented ability to save document comparison results in image format as well. In this blog post we'll review the new feature and bug fixes introduced in monthly release of GroupDocs.Comparison for .NET [19.3.1](https://docs.groupdocs.com/display/comparisonnet/GroupDocs.Comparison+for+.NET+19.3.1+Release+Notes).
@@ -68,6 +68,7 @@ Get started with GroupDocs.Comparison for .NET [Developer Guide](https://docs.gr
 Go through the [release notes](https://docs.groupdocs.com/display/comparisonnet/Release+Notes) in order to get more insights. Articulate your concerns or feedback on [Forum](https://forum.groupdocs.com/c/comparison).
 
 We'd now recommend you to integrate latest release of the API in your project and enhance your document comparison experience.
+
 
 
 

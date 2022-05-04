@@ -7,8 +7,8 @@ aliases:
     - /2019/10/10/find-and-remove-watermarks-from-documents-in-java/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 Are you looking for a full-text search API that allows you to search over a lot of document formats? In that case, GroupDocs.Search for .NET will meet your requirements. API creates index and then perform instant search across thousands of documents.
@@ -60,6 +60,7 @@ When indexed paths are removed from an index, the index is updated and all remov
 {{< gist GroupDocsGists b70500ee090ed206f971b7c9f7d15125 "deleteindex.cs" >}}  
 
 We'd recommend you to download the latest version and share your experience. In case of any issues, you can post on [forum](https://forum.groupdocs.com/c/search).
+
 
 
 

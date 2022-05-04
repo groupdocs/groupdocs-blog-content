@@ -5,8 +5,8 @@ draft: false
 url: /2018/08/06/upcoming-release-of-groupdocs.merger-for-java-18.7/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Merger for Java', 'GroupDocs.Merger Product Family']
+tags: ['GroupDocs.Merger for Java']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 [![GroupDocs Editor for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/08/groupdocs-merger.png)](https://www.groupdocs.com/products/merger/net)
@@ -22,6 +22,7 @@ We are about to release GroupDocs.Merger for Java 18.8, a full featured, back-en
 *   Join Document
 
 ## First Version AvailabilityWe are finalizing the first release of GroupDocs.Merger for Java and hope that you will be able to avail it very soon. Please stay tuned for further updates. We would be happy to hear your queries or suggestions at [GroupDocs.Merger](https://forum.groupdocs.com/c/merger) forum.
+
 
 
 

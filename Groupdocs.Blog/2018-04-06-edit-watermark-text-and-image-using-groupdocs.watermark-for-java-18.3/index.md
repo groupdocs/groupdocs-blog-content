@@ -5,8 +5,8 @@ draft: false
 url: /2018/04/06/edit-watermark-text-and-image-using-groupdocs.watermark-for-java-18.3/
 author: 'Usman Aziz'
 summary: ''
-tags: ['document-watermark', 'Java document watermarking API', 'watermarking API for Java']
-categories: ['GroupDocs.Watermark for Java', 'GroupDocs.Watermark for Java Releases', 'GroupDocs.Watermark Product Family']
+tags: ['document-watermark', 'Java document watermarking API', 'watermarking API for Java', 'GroupDocs.Watermark for Java', 'GroupDocs.Watermark for Java Releases']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/01/groupdocs-watermark-java.png)](https://products.groupdocs.com/watermark/java)We are excited to announce that we have released version 18.3 of [GroupDocs.Watermark for Java](https://products.groupdocs.com/watermark/java). The latest version supports replacing text and image for the found watermarks across all the supported formats. It also allows editing of the objects that can be considered as the watermark in **PDF** documents. Following are some salient features of GroupDocs.Watermark for Java 18.3
@@ -187,6 +187,7 @@ doc.close();
 # Feedback
 
 As always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/"Technical Support Forum").
+
 
 
 

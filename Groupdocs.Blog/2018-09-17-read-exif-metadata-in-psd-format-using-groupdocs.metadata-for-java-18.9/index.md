@@ -5,8 +5,8 @@ draft: false
 url: /2018/09/17/read-exif-metadata-in-psd-format-using-groupdocs.metadata-for-java-18.9/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata', 'GroupDocs.Metadata for Java', 'GroupDocs.Metadata for Java Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata', 'GroupDocs.Metadata for Java', 'GroupDocs.Metadata for Java Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/12/groupdocs-metadata-java.png "GroupDocs-Metadata-theme-100x100")We are delighted to announce the monthly releaseof [GroupDocs.Metadata for Java](https://products.groupdocs.com/metadata/java) **18.9**. Using the latest version, you can now read EXIF metadata in PSD format, and read or update common TIFF/EXIF tags using shortcut properties in TIFF images. Moreover, memory consumption is now reduced to perform metadata operations for JPEG, GIF and TIFF file formats, and classes representing TIFF tags are now refactored. Additionally, **GroupDocs.Metadata.Formats.Document.InspectionResult** class, **Metadata.ContentProperties** property, and **EpubFormat.GetImageCoverBytes** method are now marked obsolete. We recommend you to [install](https://artifact.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-metadata/maven-metadata.xml) and use the latest version of the API.
@@ -46,6 +46,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) – Technical support forum for GroupDocs.Metadata product family
 
 ## FeedbackWe always love to hear your valuable feedback. Share your suggestions, questions, or queries related to GroupDocs.Metadata for Java at our [forum](https://forum.groupdocs.com/c/metadata).
+
 
 
 

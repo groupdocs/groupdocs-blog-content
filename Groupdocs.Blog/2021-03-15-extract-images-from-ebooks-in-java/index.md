@@ -1,5 +1,7 @@
 ---
-title: 'Extract Images from EPUB, FB2, CHM eBooks in Java'
+title: "Extract Images from EPUB, FB2, CHM eBooks in Java"
+seoTitle: "Extract Images from eBooks in Java | EPUB, PDF, FB2, CHM"
+description: "Programmatically extract images from EPUB, PDF, FB2, CHM eBooks using Java API for document parsing. Save the images in JPG, PNG, WebP, GIF, or BMP format."
 date: Mon, 15 Mar 2021 15:01:00 +0000
 draft: false
 url: /2021/03/15/extract-images-from-ebooks-in-java/

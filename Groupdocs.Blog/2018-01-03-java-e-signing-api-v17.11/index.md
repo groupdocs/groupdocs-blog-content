@@ -5,8 +5,8 @@ draft: false
 url: /2018/01/03/java-e-signing-api-v17.11/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Signature for Java', 'GroupDocs.Signature Product Family']
+tags: ['GroupDocs.Signature for Java']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 [![GroupDocs.Signature](https://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-signature-java.png)](https://products.groupdocs.com/signature/java)
@@ -52,6 +52,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 We always welcome you to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/signature) and our dedicated support team will be there to respond.
+
 
 
 

@@ -7,8 +7,8 @@ aliases:
     - /2019/10/16/count-words-and-occurrences-of-each-word-in-a-document-using-c/
 author: 'Usman Aziz'
 summary: ''
-tags: []
-categories: ['GroupDocs.Parser for .NET', 'GroupDocs.Parser Product Family']
+tags: ['GroupDocs.Parser for .NET']
+categories: ['GroupDocs.Parser Product Family']
 ---
 
 Repetition of data can diminish the worth of the content. Working as a writer, you must follow [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (don't repeat yourself) principle. The statistics such as **word count** or the number of occurrences of each word can let you analyze the content but it's hard to do it manually for multiple documents. So in this article, I'll demonstrate how to **programmatically count words** and the **number of** **occurrences** of  each word in **PDF**, **Word**, **Excel**, **PowerPoint**, **Ebook**, **Markup**, and **Email document** formats using **C#**. For extracting text from documents, I'll be using [**GroupDocs.Parser for .NET**](https://products.groupdocs.com/parser/net) which is a powerful **document parsing API**.
@@ -51,6 +51,7 @@ Repetition of data can diminish the worth of the content. Working as a writer, y
 
 
 Read more about _GroupDocs.Parser for .NET_ API [here](https://docs.groupdocs.com/display/parsernet/Home). Leave your questions or queries on our [forum](https://forum.groupdocs.com/c/parser).
+
 
 
 

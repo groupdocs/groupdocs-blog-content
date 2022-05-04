@@ -5,7 +5,8 @@ draft: false
 url: /2013/11/14/groupdocs-plugin-for-textpattern-released/
 author: 'Rahul Gulati'
 summary: ''
-tags: ['GroupDocs Comparison', 'GroupDocs plugin', 'GroupDocs update', 'zArchive']
+tags: ['GroupDocs plugin', 'GroupDocs update', 'zArchive']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 GroupDocs is excited to announce the launch of the [GroupDocs Comparison plugin for TextPattern](http://groupdocs.com/marketplace/plugins/comparison/textpattern). With this plugin, you can compare two documents in a browser. Select source and target files and run the comparison. Embed the compared documents to your TextPattern pages and easily share them with peers. GroupDocs Comparison generates a summary of any changes made to the document. Tracking insertions or deletions is easy. GroupDocs Comparison runs on a web-browser so no new software installations is needed.
@@ -21,6 +22,7 @@ GroupDocs is excited to announce the launch of the [GroupDocs Comparison plugin
 *   Stay Current: Find document differences quickly and manage document version effectively.
 
 ## Why GroupDocs Comparison?Think of document comparison in the past: it was a cumbersome task for writers and editors. Searching archived documents and sitting an entire day to figure out the changes made between previous and current document versions. Manual intervention was needed and prone to errors. With technology advancements, document management tools are important for optimizing task and achieving goals. GroupDocs Comparison provides [solutions](http://groupdocs.com/apps/comparison/features) that meets the demand for companies in the document management space. Generate a consolidated document that tracks the findings and share it with colleagues and peers. Product teams get an overview of any modifications which helps them devise an effective design strategy. An activity that required hours to complete can now be done in minutes. Web-entrepreneurs can embed and share documents online with partners through their portal or CMS. This facilitates document collaboration and speeds up the operational cycle. Want to see how it works? [Register now](https://apps.groupdocs.com/sign-up). Learning GroupDocs Comparison is easy: you will understand the flow in minutes. We appreciate and value our customers' feedback. Your suggestions can help us improve and deliver products and services effectively. Write an email to [support@groupdocs.com](mailto:support@groupdocs.com), [chat online](http://groupdocs.com/) or post feedback or queries on the [GroupDocs Forum](http://groupdocs.com/Community/Forums/Default.aspx).
+
 
 
 

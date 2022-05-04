@@ -5,8 +5,8 @@ draft: false
 url: /2018/06/20/document-editor-api-for-.net-v18.6/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Editor for .NET', 'GroupDocs.Editor Product Family']
+tags: ['GroupDocs.Editor for .NET']
+categories: ['GroupDocs.Editor Product Family']
 ---
 
 [![GroupDocs Editor for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/07/groupdocs-editor.png)](https://www.groupdocs.com/products/editor/net)
@@ -42,6 +42,7 @@ For more details on the supported feature, please visit the article: [Supported 
 *   [Product Support Forum](https://forum.groupdocs.com/c/editor) - Technical Support Forum for GroupDocs.Editor
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/editor "Technical Support Forum").
+
 
 
 

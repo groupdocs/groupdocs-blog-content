@@ -5,7 +5,8 @@ draft: false
 url: /2012/04/18/introducing-new-dashboard-and-online-document-viewer-ui/
 author: 'Derek Hyland'
 summary: ''
-tags: ['GroupDocs Dashboard', 'GroupDocs Viewer', 'online document viewer', 'zArchive']
+tags: ['GroupDocs Dashboard', 'online document viewer', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 We're about to launch a new interface for the GroupDocs Dashboard and our [online document viewer app](http://groupdocs.com/apps/viewer). We have overhauled the look and feel of the tools to make them more intuitive to use. At the moment, we're adding the final touches and making sure that everything works fine. The changes will be live in the next few weeks. Here's what will change when the new interface goes live: **Dashboard interface:**
@@ -39,6 +40,7 @@ We're about to launch a new interface for the GroupDocs Dashboard and our [onli
 ## Sort DocumentsOrganize your documents the way that suits you best by sorting them. By default, files are sorted in alphabetical order. You can change the order they are listed in by clicking column headers.
 
 ## Improved Interface of the Online Document Viewer AppThe new interface of GroupDocs' online document viewer app makes it easier to navigate a document. We've added a thumbnails feature, so that you can quickly move from one page to another. Also, you can now quickly access a set of handy tools that allow you to work with the document online. \[caption id="attachment\_290" align="aligncenter" width="650" caption="Improved interface of the online document viewer"\]![Improved Interface of the Online Document Viewer App](https://blog.groupdocs.com/wp-content/uploads/sites/4/2012/04/new-dash_viewer_3.png "Improved Interface of the Online Document Viewer App")\[/caption\]
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/11/26/net-java-document-assembly-api-for-dynamic-insertion-of-hyperlinks/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Document Automation API', 'dotnet', 'java', 'report generation']
-categories: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for Java', 'GroupDocs.Assembly Product Family']
+tags: ['Document Automation API', 'dotnet', 'java', 'report generation', 'GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for Java']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [**Document Automation**](https://en.wikipedia.org/wiki/Document_automation) (or **document assembly**) is widely used by organizations for their reporting services and [**GroupDocs.Assembly**](https://products.groupdocs.com/assembly) for .NET and Java APIs provide a complete package of features required to build reports dynamically. Keeping the modern trends in mind and to meet the emerging requirements of our customers, we keep introducing the new features. Recently, we have released the v19.11 of our **document automation API** with quite a useful set of features. So in this article, I'll give you an overview of what is new in the latest release.
@@ -46,6 +46,7 @@ For more details, see how to work with Markdown documents using [.NET](https://d
 Alright! So this is it from my side and it's your turn to check out and use these amazing document assembling features to enhance your document automation process.
 
 You can download our ready-to-run source code examples from the GitHub [repository](https://github.com/groupdocs-assembly/). The details of every feature are available in our [documentation](https://docs.groupdocs.com/display/assemblyproductfamily/Home) and as always, we would love to hear from you on our [forum](https://forum.groupdocs.com/c/assembly).
+
 
 
 

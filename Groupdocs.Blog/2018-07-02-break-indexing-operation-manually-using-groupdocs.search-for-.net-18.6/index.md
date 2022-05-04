@@ -5,8 +5,8 @@ draft: false
 url: /2018/07/02/break-indexing-operation-manually-using-groupdocs.search-for-.net-18.6/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search', 'GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search', 'GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)GroupDocs team is pleased to announce the monthly release of [GroupDocs.Search for .NET](https://products.groupdocs.com/search/net) **18.6**. Using the latest version, you can now break indexing operation manually. Furthermore, obsolete Relevance property is removed from the DetailResultInfo method and ImportDictionary and ExportDictonary methods are added to index dictionaries. We would recommend you to [install](https://www.nuget.org/packages/GroupDocs.Search/) and use the latest version of API.
@@ -41,6 +41,7 @@ index.Break();
 *   [Product Support Forum](https://forum.groupdocs.com/c/search "GroupDocs.Search Forum") - Technical Support Forum for GroupDocs.Search
 
 ## FeedbackIf you have any suggestions, questions, or queries related to the [.NET Search API](https://products.groupdocs.com/search/net), we will be happy to hear from you. Just create a [forum thread](https://forum.groupdocs.com/c/search) to share your thoughts.
+
 
 
 

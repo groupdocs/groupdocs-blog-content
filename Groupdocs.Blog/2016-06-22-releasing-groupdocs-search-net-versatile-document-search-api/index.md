@@ -5,8 +5,8 @@ draft: false
 url: /2016/06/22/releasing-groupdocs-search-net-versatile-document-search-api/
 author: 'Oleksandr Zinchenko@groupdocs Com'
 summary: ''
-tags: ['search api']
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['search api', 'GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)After a great success of vast APIs, [GroupDocs.Search for .NET](http://www.groupdocs.com/products/search/net) has been introduced which allows many ways to perform search operations against the various file formats. Furthermore, It is a document search API that can be used for performing full text search over the indexed documents. Let’s not wait and see how it is going to serve the users.
@@ -57,6 +57,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

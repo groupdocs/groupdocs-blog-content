@@ -1,5 +1,7 @@
 ---
-title: 'Manage XMP and EXIF Data of HEIF/HEIC Images using C#'
+title: "Manage XMP and EXIF Data of HEIF/HEIC Images using C#"
+seoTitle: "Manage XMP and EXIF Data of HEIF HEIC Images using C#"
+description: "Manage XMP and EXIF data of HEIF, HEIC images using C#. Read, update, remove EXIF and XMP data using Metadata automation API within .NET applications."
 date: Sat, 17 Jul 2021 17:58:00 +0000
 draft: false
 url: /2021/07/17/manage-xmp-and-exif-data-of-heif-heic-images-using-csharp/

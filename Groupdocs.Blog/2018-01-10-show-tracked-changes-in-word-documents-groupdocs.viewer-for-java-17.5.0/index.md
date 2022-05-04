@@ -5,8 +5,8 @@ draft: false
 url: /2018/01/10/show-tracked-changes-in-word-documents-groupdocs.viewer-for-java-17.5.0/
 author: 'Usman Aziz'
 summary: ''
-tags: ['document rendering API', 'document rendering API for Java', 'document viewer', 'Document viewer API', 'document viewer API for Java', 'Java document viewer API']
-categories: ['GroupDocs.Viewer for Java', 'GroupDocs.Viewer for Java Releases', 'GroupDocs.Viewer Product Family']
+tags: ['document rendering API', 'document rendering API for Java', 'document viewer', 'Document viewer API', 'document viewer API for Java', 'Java document viewer API', 'GroupDocs.Viewer for Java', 'GroupDocs.Viewer for Java Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![Logo Image](http://joomla-groupdocs.dynabic.com/templates/groupdocs/images/product-logos/90x90/groupdocs-viewer-java.png?v2)](http://www.groupdocs.com/products/viewer/java)We are excited to announce the release of version 17.5.0 of [GroupDocs.Viewer for Java](https://products.groupdocs.com/viewer/java). The latest version has come with **9** new features, **16** improvements, and more than **20** bug fixes. Please continue to read more about this major release of GroupDocs.Viewer for Java.
@@ -227,6 +227,7 @@ Following resources will help you to download, learn, try and get technical supp
 *   [Sample Front End App](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-Java-App) - Open Source **Document Viewer** Application
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/viewer) and our dedicated support team will be there to respond.
+
 
 
 

@@ -5,7 +5,8 @@ draft: false
 url: /2014/05/20/enhancements-and-new-features-in-the-document-viewer-for-net-library-part-a/
 author: 'Denis Gvardionov'
 summary: ''
-tags: ['document viewer for .net', 'GroupDocs Viewer', 'viewer for .net library', 'zArchive']
+tags: ['document viewer for .net', 'viewer for .net library', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 Greetings!![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/03/GD_VWR_NETIcon_114.png) We're pleased to announce a major update of the [GroupDocs.Viewer for .NET library](http://groupdocs.com/dot-net/document-viewer-library): version 2.0. This version of the document viewer has a lot of new features, improvements and bug fixes. You'll find a complete list of updates and the new library itself [here](http://groupdocs.com/Community/files/8/.net-libraries/groupdocs_viewer_for_.net/entry1177.aspx). In this and the next article, I'd like to take a closer look at the updates that I think you'll be the most interested. So here we go:
@@ -90,6 +91,7 @@ FileMode.Open, FileAccess.Read, FileShare.Read)
         )
 
 ```In this example we have two documents, two streams and two _StreamDefinition_ instances. When executing this code, both of the documents are displayed sequentially, one after another! This is it for this article, but not for the new release. I'll publish another post describing the rest of the new functionality and improvements (also very promising) in a few days. Stay in touch!
+
 
 
 

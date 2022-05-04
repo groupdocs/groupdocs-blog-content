@@ -5,8 +5,8 @@ draft: false
 url: /2019/03/15/support-of-inline-syntax-error-messages/
 author: 'Usman Aziz'
 summary: ''
-tags: ['document automation', 'Document Generation API for .NET', 'Dynamic Report Generation', 'Report Generation API for .NET', 'Report Generation API for Java']
-categories: ['GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly for Java Releases', 'GroupDocs.Assembly Product Family']
+tags: ['document automation', 'Document Generation API for .NET', 'Dynamic Report Generation', 'Report Generation API for .NET', 'Report Generation API for Java', 'GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly for Java Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 We are back with the latest release of [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net). In this post, I am going to give you an overview of the latest release including the demonstration and usage of an exciting feature. Let's not wait and walk through what's new in the latest release. You may also have a glance at the [release notes](https://docs.groupdocs.com/display/assemblynet/GroupDocs.Assembly+for+.net+19.3+Release+Notes) of the latest release.
@@ -33,6 +33,7 @@ For working examples, you may consult our documentation article on how to use [i
 Along with the aforementioned feature, we have added a couple of enhancements in the latest release. These enhancements allow you to use null values for image tag and doc tag expressions.
 
 Now, you would have got the idea of how the integration of the latest version may enhance your applications. You may quickly try out the API features by [downloading](https://downloads.groupdocs.com/assembly/net) the latest version as well as cloning and exploring the examples project from [GitHub repository](https://github.com/groupdocs-assembly/GroupDocs.Assembly-for-.NET). In case you would have any questions or queries, just reach us on our [forum](https://forum.groupdocs.com/) and we would love to have a conversation with you.
+
 
 
 

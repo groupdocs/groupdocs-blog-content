@@ -5,8 +5,8 @@ draft: false
 url: /2017/04/26/use-date-ranges-search-groupdocs.search-.net-17.4.0/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net) Team GroupDocs is really pleased to announce another regular monthly release of [GroupDocs.Search for .NET 17.4.0](https://www.groupdocs.com/products/search/net "GroupDocs.Search") API. We have introduced two new features in this release.  The API has extended its search functionality and it now allows using date ranges in search. Another exciting feature introduced in this release is the ability to define table discrete function as step function while performing search operation. We suggest you to [download](https://downloads.groupdocs.com/search/net/new-releases/groupdocs.search-for-.net-17.4.0/) the latest version of the API and check out all the features introduced in this release.
@@ -29,6 +29,7 @@ For further details, please visit [Features Overview](https://www.groupdocs.com/
 *   [Product Support Forum](https://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) - Technical Support Forum for GroupDocs.Search
 
 ## FeedbackIf you have any suggestions, questions, or queries related to [GroupDocs.Search API](http://www.groupdocs.com/products/search/net), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

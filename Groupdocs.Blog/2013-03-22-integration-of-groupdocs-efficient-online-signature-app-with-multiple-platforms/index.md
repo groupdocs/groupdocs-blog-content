@@ -5,7 +5,8 @@ draft: false
 url: /2013/03/22/integration-of-groupdocs-efficient-online-signature-app-with-multiple-platforms/
 author: 'Derek Hyland'
 summary: ''
-tags: ['collect signatures online', 'digital signature', 'e-signature', 'GroupDocs Signature', 'GroupDocs Signature plugin', 'sign documents online', 'zArchive']
+tags: ['collect signatures online', 'digital signature', 'e-signature', 'GroupDocs Signature plugin', 'sign documents online', 'zArchive']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 Attention to all who still follow the traditional signing process! Now it’s high time to change to [online signature process](https://products.groupdocs.com/signature) as it saves your time and effort. In addition, it’s a tribute to your ecosystem by going completely green via a paperless office. To speed up this process, **GroupDocs** has introduced its [powerful online signature add-on for multiple platforms](http://groupdocs.com/marketplace/plugins/signature). By installing this online signature service add-on, you can embed documents as digital forms and then collect signatures online from within your webpages.
@@ -76,6 +77,7 @@ GroupDocs’ online signature add-on lets you collect signatures online easily:
 So why wait? Install this powerful online signature add-on to modify your office into a green, paperless one.
 
 Your support and feedback are important to us. Talk to us through our [official feedback forum](https://forum.groupdocs.com/). Stay tuned for our blog and newsletter, which brings you all enhancements happening in GroupDocs.
+
 
 
 

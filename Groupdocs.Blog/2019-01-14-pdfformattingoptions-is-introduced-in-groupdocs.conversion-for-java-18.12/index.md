@@ -5,8 +5,8 @@ draft: false
 url: /2019/01/14/pdfformattingoptions-is-introduced-in-groupdocs.conversion-for-java-18.12/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for Java', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for Java']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 [![GroupDocs.Conversion](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/09/conversion.png?itok=MpNabR9F)](https://www.groupdocs.com/products/conversion/java)
@@ -54,6 +54,7 @@ GroupDocs.Conversion for Java 18.12 comes with some new features, improvements a
 *   [Examples/Plugins/Showcases](https://github.com/groupdocs-conversion/GroupDocs.Conversion-for-Java "Example projects") - GitHub source code examples
 *   [Video Tutorials](https://www.youtube.com/playlist?list=PL25CTxMCj5vPNfkcX3UXzMLKEOZwNpkzN) - YouTube Videos
 *   [Product Support Forum](https://forum.groupdocs.com/c/conversion "Support forum") \- Technical Support Forum for GroupDocs.Conversion
+
 
 
 

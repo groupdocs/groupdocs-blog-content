@@ -5,8 +5,8 @@ draft: false
 url: /2019/05/30/define-and-use-custom-objects-for-pdf-metadata-signature/
 author: 'Usman Aziz'
 summary: ''
-tags: ['digital document signature', 'digital signature', 'Digital verification of Word documents', 'e-sign API', 'e-signature', 'esignature', 'Metadata signature', 'SIgn PDF documents']
-categories: ['GroupDocs.Signature for .NET', 'GroupDocs.Signature Product Family']
+tags: ['digital document signature', 'digital signature', 'Digital verification of Word documents', 'e-sign API', 'e-signature', 'esignature', 'Metadata signature', 'SIgn PDF documents', 'GroupDocs.Signature for .NET']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 Metadata signature is a convenient way to sign documents using metadata properties. In GroupDocs.Signature for .NET 18.9, we introduced the feature of signing the PDF documents using various metadata properties including:
@@ -45,6 +45,7 @@ To avoid any unauthorized usage of the metadata values, we have introduced a mec
 This is surely a valuable addition to the API features which can give you more control over the metadata signature. So why not [download](https://downloads.groupdocs.com/signature/net) the latest version and integrate this feature in your e-signing application?
 
 In case you would have any queries or suggestions, let's have a conversation over our [forum](https://forum.groupdocs.com/).
+
 
 
 

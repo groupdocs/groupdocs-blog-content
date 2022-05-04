@@ -5,8 +5,8 @@ draft: false
 url: /2019/08/24/view-messages-from-desired-folders-in-outlook-data-files-ostpst/
 author: 'Usman Aziz'
 summary: ''
-tags: ['Document viewer API', 'Email viewer', 'File viewer', 'Office Viewer']
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['Document viewer API', 'Email viewer', 'File viewer', 'Office Viewer', 'GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 
@@ -81,6 +81,7 @@ Similarly, you can apply the address filter to get the messages based on the sen
 Well, you have seen how easy it is to view the folders as well as the messages from the Outlook Data Files using GroupDocs.Viewer for Java 19.8. This is it from my side. For a full list of new features, improvements, and fixes, please have a look at the [release notes](https://docs.groupdocs.com/display/viewerjava/GroupDocs.Viewer+for+Java+19.8+Release+Notes). Try out the API features yourself by downloading and running the examples [project](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-Java/tree/master/Examples). For more details on each feature of the API, have a look at the [documentation](https://docs.groupdocs.com/display/viewerjava/Developer+Guide).
 
 As always we look forward to connecting with you via the [GroupDocs Forum](https://forum.groupdocs.com/categories).
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/11/29/manipulate-metadata-properties-in-documents-groupdocs-metadata-net-api/
 author: 'Usman Aziz'
 summary: ''
-tags: ['API', 'document properties', 'dotnet', 'Metadata', 'metadata management']
-categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['API', 'document properties', 'dotnet', 'Metadata', 'metadata management', 'GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 We have a major update for our customers who are using our **metadata manipulation API** - [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net). We have revamped the architecture of the API to improve and simplify the process of reading, updating, searching or removing the metadata properties from the documents. So let's take a tour of version 19.11.
@@ -57,6 +57,7 @@ The following code samples show how to replace metadata properties using a regul
 For more details, please have a look at the [migration notes](https://docs.groupdocs.com/display/metadatanet/Migration+Notes).
 
 You can download and evaluate the source code examples of the latest release from the [GitHub repository](https://github.com/groupdocs-metadata/GroupDocs.Metadata-for-.NET). For more details about every feature of the API, please visit the [documentation](https://docs.groupdocs.com/display/metadatanet/Home). In case you find something difficult for you, feel free to contact us via our free support [forum](https://forum.groupdocs.com/c/metadata).
+
 
 
 

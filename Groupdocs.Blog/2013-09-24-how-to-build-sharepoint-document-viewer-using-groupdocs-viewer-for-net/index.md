@@ -5,7 +5,8 @@ draft: false
 url: /2013/09/24/how-to-build-sharepoint-document-viewer-using-groupdocs-viewer-for-net/
 author: 'Denis Gvardionov'
 summary: ''
-tags: ['GroupDocs Viewer', 'GroupDocs Viewer for .NET', 'SharePoint', 'zArchive']
+tags: ['GroupDocs Viewer for .NET', 'SharePoint', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 When we released [GroupDocs.Viewer for .NET](http://groupdocs.com/dot-net/document-viewer-library), we got lots of questions from SharePoint users about whether it could be used to build a SharePoint document viewer. Finally, the answer is yes: our online document viewer allows integration with SharePoint web applications. Moreover, SharePoint websites using GroupDocs.Viewer for .NET can also be used for cross-domain document viewing. \[caption id="attachment\_3916" align="alignnone" width="600"\]![How to Build a SharePoint Document Viewer Using GroupDocs.Viewer for .NET](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/09/GD_VWR_SharePoint_02.png)\[/caption\] Just follow these simple step-by-step instructions to embed our online document viewer in your SharePoint websites as a Web Part: **Requirements**
@@ -50,6 +51,7 @@ protected override void RenderContents(HtmlTextWriter writer)
 ```
 
   5. Now, deploy the project. The **Output** screen is displayed: ![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/09/deploy_6.jpg "The Output screen") On the **Output** screen, you can see that the solution **ViewConsumer.wsp** is successfully deployed to the SharePoint server.   6. To view the control in a local SharePoint instance, you have to add it to your page as a web part. ![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/09/site_7.jpg "Viewing the control in a local SharePoint instance")   7. To add the control, go to a page intended for editing. ![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/09/site_edit_8.jpg "Adding a Web Part")   8. Add the Web Part by using the option **Add a Web Part** as shown below. ![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/09/addwebpart_9.jpg "Adding a Web Part")   9. The Web Part (**WebPartConsumer**) is listed as shown below. ![](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/09/webpartconsumer_10.jpg "WebPartConsumer")   10. Click **Add** to add the Web Part to the page. 11. Click **Stop Editing** to save the page. After saving, you can see the WebPart, **WebPartConsumer**, in action as shown below. ![Building a SharePoint Document Viewer Using The GroupDocs.Viewer for .NET](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/09/site_11.jpg "WebPartConsumer") Thus, the GroupDocs document viewer service, integrated in a web application, is consumed in a SharePoint website.
+
 
 
 

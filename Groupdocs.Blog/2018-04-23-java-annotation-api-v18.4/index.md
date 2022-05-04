@@ -5,8 +5,8 @@ draft: false
 url: /2018/04/23/java-annotation-api-v18.4/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for Java']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 [![Logo Image](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/12/groupdocs-annotation-java.png)](https://products.groupdocs.com/annotation/java)At [GroupDocs](https://www.groupdocs.com/), we are always focused on delivering the best to our customers. In this regard, we are excitedly announcing another monthly release of Java Annotation API v18.4. Using this latest version, now users can import distance annotation for Words and also able to add text redaction annotation in Slides. Aside this, multitude fixes and improvements are also introduced in this [release](https://docs.groupdocs.com/display/annotationjava/GroupDocs.Annotation+for+Java+18.4+Release+Notes). We therefore recommend you to download this [latest](https://downloads.groupdocs.com/annotation/java) release for a better API experience.
@@ -65,6 +65,7 @@ categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Fami
 # Feedback
 
 We always appreciate and welcome to our valuable users to share their feedback to improve this product. We will be happy to know your thoughts and suggestions. Just create a [forum thread](https://forum.groupdocs.com/c/annotation) and our dedicated support team will be there to respond.
+
 
 
 

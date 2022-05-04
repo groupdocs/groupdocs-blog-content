@@ -5,8 +5,8 @@ draft: false
 url: /2019/08/19/join-images-using-groupdocs.merger-for-java/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Merger for Java', 'GroupDocs.Merger Product Family']
+tags: ['GroupDocs.Merger for Java']
+categories: ['GroupDocs.Merger Product Family']
 ---
 
 With the new release of GroupDocs.Merger for Java [19.8](https://docs.groupdocs.com/display/mergerjava/GroupDocs.Merger+for+Java+19.8+Release+Notes) you can take your document joining experience to the next level.  
@@ -26,6 +26,7 @@ API now fully supports HTML format.
 
   
 We'd recommend you to [download](https://downloads.groupdocs.com/merger/java) the latest release and integrate it in your application. In case you find any issue, feel free to post on [forum](https://forum.groupdocs.com/c/merger).
+
 
 
 

@@ -5,7 +5,8 @@ draft: false
 url: /2013/03/01/how-to-convert-files-with-groupdocs-php-sdk/
 author: 'Derek Hyland'
 summary: ''
-tags: ['API', 'document conversion', 'document management', 'GroupDocs Conversion', 'online document management system', 'zArchive']
+tags: ['API', 'document conversion', 'document management', 'online document management system', 'zArchive']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 This article explains the basics of using PHP SDK classes and methods. In this article I'll use the Comparison API and show how to [compare two documents](http://groupdocs.com/apps/comparison) from a GroupDocs account. [Find information about others methods in the Swagger explorer](https://api.groupdocs.com/v2.0/spec/).
@@ -164,6 +165,7 @@ Lastly, we only need to transfer data which we want to show to the template:
     // Process template
     echo Template::serve('sample2.htm');
 ```
+
 
 
 

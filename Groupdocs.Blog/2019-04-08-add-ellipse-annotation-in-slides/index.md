@@ -5,8 +5,8 @@ draft: false
 url: /2019/04/08/add-ellipse-annotation-in-slides/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for .NET', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for .NET']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 We try our best to provide minimal yet appropriate solutions to our customers. Hence, in this month's release of GroupDocs.Annotation for .NET 19.3 you will observe some new "easy-to-implement" features. Lets start with ellipse annotation. You might be looking for it, we've now added its support for different document formats.
@@ -30,6 +30,7 @@ Now coming to your issues, we'll discuss some major fixes introduced in this rel
 _AnnotationImageHandler.GetDocumentInfo_ exception while evaluating API in trial mode is now resolved. API now closes stream when you import annotations for Images. Lastly, issue in setting comments to shapes in Slides is fixed.
 
 Learn more about API integration and usage check out the docs [here](https://docs.groupdocs.com/display/annotationnet/Home).
+
 
 
 

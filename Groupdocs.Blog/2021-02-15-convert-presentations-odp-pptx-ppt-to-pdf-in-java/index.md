@@ -1,5 +1,7 @@
 ---
-title: 'Convert Presentations to PDF in Java'
+title: "Convert Presentations to PDF in Java"
+seoTitle: "Convert Presentations to PDF in Java | PPT, PPTX, ODP to PDF"
+description: "Programmatically convert presentations of MS PowerPoint and Open Office Impress formats like ODP, PPT, PPTX to PDF using Java conversion API."
 date: Mon, 15 Feb 2021 17:30:00 +0000
 draft: false
 url: /2021/02/15/convert-presentations-odp-pptx-ppt-to-pdf-in-java/

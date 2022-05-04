@@ -1,5 +1,7 @@
 ---
-title: 'Watermark PDF Files in Java'
+title: "Watermark PDF Files in Java"
+seoTitle: "Add Watermark to PDF in Java | Text and Image Watermarks"
+description: "Add image watermarks or apply text watermarks to PDF files in Java. Apply watermarks to all & selective pages of PDF using GroupDocs Watermarking Java API."
 date: Sat, 26 Jun 2021 09:48:16 +0000
 draft: false
 url: /2021/06/26/add-watermark-to-pdf-in-java/

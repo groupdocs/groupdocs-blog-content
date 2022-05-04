@@ -5,8 +5,8 @@ draft: false
 url: /2019/02/14/escape-special-characters-in-search-queries-using-groupdocs.search-for-.net-19.2/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)We are pleased to announce the monthly release of GroupDocs.Search for .NET 19.2. Improvements such as indexing of a ZIP archive inside other ZIP and escape of special characters in search queries are introduced. Please check GroupDocs.Search for .NET 19.2 [release notes](https://docs.groupdocs.com/display/searchnet/GroupDocs.Search+for+.NET+19.2+Release+Notes) for further reference. We would recommend you to [download](https://www.nuget.org/packages/GroupDocs.Search/) and integrate latest version of the API.
@@ -59,6 +59,7 @@ Here are a few channels and resources for you to download, try, learn and get te
 # Feedback
 
 If you have any suggestions, questions, or queries related to the [GroupDocs.Search for .NET API](https://products.groupdocs.com/search/net), we will be happy to hear from you. Just create a [forum thread](https://forum.groupdocs.com/c/search) to share your thoughts.
+
 
 
 

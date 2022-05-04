@@ -5,8 +5,8 @@ draft: false
 url: /2019/08/30/introducing-a-more-optimized-and-simplified-electronic-signature-api/
 author: 'Usman Aziz'
 summary: ''
-tags: ['digital signature', 'electronic signature', 'esign']
-categories: ['GroupDocs.Signature for .NET', 'GroupDocs.Signature Product Family']
+tags: ['digital signature', 'electronic signature', 'esign', 'GroupDocs.Signature for .NET']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 Why change is considered as a hard but yet good thing to occur? Why the updates are important? This is because if there is no change there is no progress and staying the same over the time makes the things die. The updates in the software components are also similar when a new version of the same software replaces the old one. A software that remains the same and doesn't introduce any improvements or new features becomes obsolete. This is the reason the updates are always welcomed. And today, I am going to tell you about some major updates we have provided for our electronic signature API - [GroupDocs.Signature for .NET](https://products.groupdocs.com/signature/net).
@@ -38,6 +38,7 @@ So if you are already using GroupDocs.Signature for .NET then it is the right ti
 Just have a look at our [documentation](https://docs.groupdocs.com/display/signaturenet/Introducing+GroupDocs.Signature+for+.NET) to check out how easy we have made the document signing process. Download or clone the new source code samples from the [GitHub repository](https://github.com/groupdocs-signature/GroupDocs.Signature-for-.NET) to know about the working of the API.
 
 If you would face any issue while using or upgrading to the latest release, just post it on our [forum](https://forum.groupdocs.com/categories) and we would love to assist you.
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/01/24/extract-metadata-from-.mkv-files-using-groupdocs.metadata-for-.net-19.1/
 author: 'Usman Aziz'
 summary: ''
-tags: ['document-metadata', 'extracting metadata', 'Metadata Editor', 'metadata extraction API for .NET']
-categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['document-metadata', 'extracting metadata', 'Metadata Editor', 'metadata extraction API for .NET', 'GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs.Metadata for .NET")Today, we are pleased to announce the release of [GroupDocs.Metadata for .NET 19.1](https://products.groupdocs.com/metadata/net). In this version, we have introduced two new features and added seven enhancements. Using the latest version, you can extract metadata from Matroska Multimedia Container (.MKV) files. Furthermore, the latest version allows you to extract metadata from password-protected OneNote documents. Please have a look at the [release notes](https://docs.groupdocs.com/display/metadatanet/GroupDocs.Metadata+for+.NET+19.1+Release+Notes) for more details.
@@ -54,6 +54,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, if you have any questions, queries or suggestions about [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net ".NET Metadata API"), just share with us on our [forum](https://forum.groupdocs.com/c/metadata).
+
 
 
 

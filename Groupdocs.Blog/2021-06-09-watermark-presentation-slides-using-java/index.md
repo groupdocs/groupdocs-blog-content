@@ -1,5 +1,7 @@
 ---
-title: 'Watermark Presentation Slides using Java'
+title: "Watermark Presentation Slides using Java"
+seoTitle: "Add Watermark to Presentations in Java | Text and Image Watermarks"
+description: "Add image watermark to presentation slides, or apply text watermarks to PPT, PPTX, PPS & more formats in Java using GroupDocs Watermarking API."
 date: Wed, 09 Jun 2021 17:36:49 +0000
 draft: false
 url: /2021/06/09/watermark-presentation-slides-using-java/

@@ -5,8 +5,8 @@ draft: false
 url: /2018/05/21/working-with-regular-expression-in-groupdocs.metadata-for-java-18.5/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/12/groupdocs-metadata-java.png "GroupDocs-Metadata-theme-100x100")A new update for Java users! We are announcing a number of enhancements in the monthly release of [GroupDocs.Metadata for Java](https://products.groupdocs.com/metadata/java) **18.5**. The latest version allows you to search and replace metadata using a regular expression, read DublinCore metadata using a unified approach, and edit ZIP archive comments. Furthermore, memory consumption is now reduced for ZIP, torrent, and EPUB file formats. We recommend you to [install](https://artifact.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-metadata/maven-metadata.xml) the latest version of API for a better experience.
@@ -30,6 +30,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) – Technical support forum for GroupDocs.Metadata product family
 
 ## FeedbackWe always love to hear your valuable feedback. Share your suggestions, questions, or queries related to GroupDocs.Metadata for Java at our [forum](https://forum.groupdocs.com/c/metadata).
+
 
 
 

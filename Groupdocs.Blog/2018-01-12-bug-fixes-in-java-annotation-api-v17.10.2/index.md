@@ -5,8 +5,8 @@ draft: false
 url: /2018/01/12/bug-fixes-in-java-annotation-api-v17.10.2/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for Java']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 [![Logo Image](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/12/groupdocs-annotation-java.png)](https://products.groupdocs.com/annotation/java)Keeping feedback of our valuable customers in view, we are pleased to announce a new version of GroupDocs.Annotation for Java 17.10.2. This release comes up with number of bug fixes. The main fix introduced in this release is visibility and color behavior of added annotation. We therefore recommend you to download this [latest](https://downloads.groupdocs.com/annotation/java) release for a better API experience.
@@ -30,6 +30,7 @@ categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Fami
 # Feedback
 
 We always appreciate and welcome to our valuable users to share their feedback to improve this product. We will be happy to know your thoughts and suggestions. Just create a [forum thread](https://forum.groupdocs.com/c/annotation) and our dedicated support team will be there to respond.
+
 
 
 

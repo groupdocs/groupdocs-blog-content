@@ -1,5 +1,7 @@
 ---
-title: 'Convert Excel to CSV and CSV to Excel Formats in C#'
+title: "Convert Excel to CSV and CSV to Excel Formats in C#"
+seoTitle: "Convert Excel and CSV Data in C# | XLSX to CSV - CSV to XLS"
+description: "Convert XLS & XLSX to CSV and CSV to Excel formats within Java applications. Automate your files conversion using Java API for document conversion."
 date: Wed, 18 Aug 2021 03:39:00 +0000
 draft: false
 url: /2021/08/18/convert-excel-xls-xlsx-and-csv-in-csharp/

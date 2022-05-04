@@ -5,8 +5,8 @@ draft: false
 url: /2019/08/02/add-ellipse-annotation-in-multiple-documents/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for Java']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 We are always keen to make our APIs rich in features and enhance usability. When we talk about annotation types. One cannot neglect ellipse annotation. Its a multi purposed annotation type. For instance you can use it to display extra information on your gauge or capture graph hits against a target line. Previously, Ellipse annotation was implemented in .NET version and it seemed very useful. We are pleased to announce that Ellipse annotation is now added in GroupDocs.Annotation for Java [19.7](https://docs.groupdocs.com/display/annotationjava/GroupDocs.Annotation+for+Java+19.7+Release+Notes). Java users can implement this annotation as follows: {{< gist GroupDocsGists 5e1eb75931fb40a23c8e881dcc9e30a0 "ellipseannotation.java" >}}  
@@ -39,6 +39,7 @@ Aside new features, we've also fixed some bugs:
 *   Annotation not apply if page number not defined in Words
 
 We'd recommend you to [download](https://downloads.groupdocs.com/annotation/java) and integrate latest release of the API and share your concerns on [forum](https://forum.groupdocs.com/c/annotation).
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2016/09/26/groupdocs-comparison-for-java-released/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for Java', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for Java']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/09/java-comparison-logo.png)](https://www.groupdocs.com/products/comparison/java)
@@ -51,6 +51,7 @@ For more details about supported document formats, please visit [Features Overv
 *   [Examples/Plugins/Showcases](https://github.com/groupdocs-comparison/GroupDocs.Comparison-for-Java) - Github source code examples
 
 **Feedback** As always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://groupdocs.com/Community/forums/groupdocs.comparison-product-family/9/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

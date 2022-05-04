@@ -5,7 +5,8 @@ draft: false
 url: /2013/08/10/build-asp-net-webforms-html5-document-viewer/
 author: 'Derek Hyland'
 summary: ''
-tags: ['ASP.NET', 'asp.net document viewer', 'GroupDocs Viewer', 'GroupDocs Viewer for .NET', 'html5 document viewer', 'zArchive']
+tags: ['ASP.NET', 'asp.net document viewer', 'GroupDocs Viewer for .NET', 'html5 document viewer', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs.Viewer for .NET Library](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/04/GD_VWR_NETIcon_114.png)](https://docs.groupdocs.com/viewer/net)Customers who integrate our [HTML5 document viewer](http://groupdocs.com/html5-document-viewer "html5 document viewer") into their website can plug it into other websites too. This article shows how to build an ASP.NET WebForms HTML5 document viewer using the [.NET version of the GroupDocs.Viewer](http://groupdocs.com/dot-net/document-viewer-library "GroupDocs.Viewer for .NET Library").
@@ -46,6 +47,7 @@ public WebServiceProvidingViewer() { GroupdocsViewer.SetRootStoragePath(Server.M
 </system.web>
 </configuration>
 ```
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/02/15/introducing-form-field-signatures-for-pdf-documents-in-groupdocs.signature-for-java-19.1/
 author: 'Usman Aziz'
 summary: ''
-tags: ['digital document signature', 'digital signature', 'Digital verification of Word documents', 'Image Signatrue', 'Metadata signature', 'sign documents online', 'signature api for java', 'Text Signature']
-categories: ['GroupDocs.Signature for Java', 'GroupDocs.Signature for Java Releases', 'GroupDocs.Signature Product Family']
+tags: ['digital document signature', 'digital signature', 'Digital verification of Word documents', 'Image Signatrue', 'Metadata signature', 'sign documents online', 'signature api for java', 'Text Signature', 'GroupDocs.Signature for Java', 'GroupDocs.Signature for Java Releases']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 [![GroupDocs.Signature](https://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-signature-java.png)](https://www.groupdocs.com/products/signature/java)We are pleased to announce a major release of [ GroupDocs.Signature for Java](https://products.groupdocs.com/signature/java) containing 13 new features, 5 improvements, and 2 bug fixes. In this release, we have introduced Metadata Signature for word-processing, presentation and spreadsheet documents. Furthermore, a new signature type, Form-Field Signature, is implemented for signing PDF documents. Please have a look at the [release notes](https://docs.groupdocs.com/display/signaturejava/GroupDocs.Signature+for+Java+19.1+Release+Notes) for more details on the new features and changes introduced in version 19.1.
@@ -60,6 +60,7 @@ Here are a few channels and resources for you to learn, try and get technical su
 # Feedback
 
 As always, we will be happy to know your thoughts. Just create a new topic on our [forum](https://forum.groupdocs.com/c/signature) and our dedicated support team will be there to respond.
+
 
 
 

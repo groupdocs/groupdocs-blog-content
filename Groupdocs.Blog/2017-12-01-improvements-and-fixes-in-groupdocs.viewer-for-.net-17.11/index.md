@@ -5,8 +5,8 @@ draft: false
 url: /2017/12/01/improvements-and-fixes-in-groupdocs.viewer-for-.net-17.11/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', '.net document viewer API', 'document viewer API for .net']
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['.NET document rendering API', '.net document viewer API', 'document viewer API for .net', 'GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs Viewer for .NET](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-viewer-net.png)](https://www.groupdocs.com/products/viewer/net)
@@ -45,6 +45,7 @@ We are inspired to see a wide number of users across the world using [GroupDocs
 *   [Sample Front Ends](https://github.com/groupdocs-viewer/ "Open Source Document Viewer Applications") - Open Source **Document Viewer** Applications
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/viewer "Technical Support Forum").
+
 
 
 

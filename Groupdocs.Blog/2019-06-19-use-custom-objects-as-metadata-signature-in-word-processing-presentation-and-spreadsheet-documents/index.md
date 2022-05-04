@@ -5,8 +5,8 @@ draft: false
 url: /2019/06/19/use-custom-objects-as-metadata-signature-in-word-processing-presentation-and-spreadsheet-documents/
 author: 'Usman Aziz'
 summary: ''
-tags: ['digital document signature', 'digital signature', 'digital signature API for Java', 'e-sign API', 'e-signature', 'electronic signature', 'Metadata signature', 'PDF Signature', 'Sign Documents', 'signature api for java', 'Word Signature']
-categories: ['GroupDocs.Signature for Java', 'GroupDocs.Signature Product Family']
+tags: ['digital document signature', 'digital signature', 'digital signature API for Java', 'e-sign API', 'e-signature', 'electronic signature', 'Metadata signature', 'PDF Signature', 'Sign Documents', 'signature api for java', 'Word Signature', 'GroupDocs.Signature for Java']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 
@@ -53,6 +53,7 @@ In addition to the above-mentioned feature, we have made the following bug fixes
 *   Implementation of a new method _AddSignature_ for _MetadataOptions_
 
 So now, using the latest release, you can extend the ability to sign documents using custom objects for the word processing, presentation, and spreadsheet documents in your application. You can [download](https://downloads.groupdocs.com/signature/net) the latest version of the API and evaluate the new features using the [examples](https://github.com/groupdocs-signature/GroupDocs.Signature-for-.NET) project. In case you would have any queries or questions, just create a new topic in our [forum](https://forum.groupdocs.com/) and we'll love to assist you.
+
 
 
 

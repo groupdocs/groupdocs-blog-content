@@ -5,8 +5,8 @@ draft: false
 url: /2017/11/14/groupdocs.search-for-.net-17.11-metadata-indexing/
 author: 'Zeeshan Shafqat'
 summary: ''
-tags: ['.NET Text Searching API', 'GroupDocs', 'text-search']
-categories: ['GroupDocs.Search', 'GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['.NET Text Searching API', 'GroupDocs', 'text-search', 'GroupDocs.Search', 'GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)We are glad to announce another monthly release of [**GroupDocs.Search for .NET**](https://products.groupdocs.com/search/net) API. The latest version **17.11** provides metadata indexing as well as improved indexing for PDF documents. This release also provides support for MSG, EML and EMLX file formats. Just [download](https://downloads.groupdocs.com/search/net) the latest release to check out the new and improved features of  **GroupDocs.Search for .NET** API. Please continue to read more about version 17.11.
@@ -36,6 +36,7 @@ Here are a few channels and resources for you to download, try, learn and get te
 # Feedback
 
 If you have any suggestions, questions, or queries related to the [.NET Search API](https://products.groupdocs.com/search/net), we will be happy to hear from you. Just create a [forum thread](https://forum.groupdocs.com/c/search) to share your thoughts.
+
 
 
 

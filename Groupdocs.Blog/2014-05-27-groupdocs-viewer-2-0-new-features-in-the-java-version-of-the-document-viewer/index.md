@@ -5,7 +5,8 @@ draft: false
 url: /2014/05/27/groupdocs-viewer-2-0-new-features-in-the-java-version-of-the-document-viewer/
 author: 'Ihor Mykhalevych'
 summary: ''
-tags: ['GroupDocs Viewer', 'viewer for java library', 'zArchive']
+tags: ['viewer for java library', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs.Viewer for Java library](https://blog.groupdocs.com/wp-content/uploads/sites/4/2014/05/GD_VWR_JavaIcon_114.png "GroupDocs.Viewer for Java library")](http://groupdocs.com/java/document-viewer-library) Last week, we released an update to the GroupDocs.Viewer library for the .NET platform. Now it is time to share what version 2.0 of [GroupDocs.Viewer](http://groupdocs.com/java/document-viewer-library "GroupDocs.Viewer for Java") has to offer to the Java world. You can find a full list of new features, improvements and fixes on the [GroupDocs.Viewer download page](http://groupdocs.com/Community/files/9/java-libraries/groupdocs_viewer_for_java/entry1204.aspx). The most notable improvements, I'm going to discover in this article.
@@ -45,6 +46,7 @@ For a complete list of new features, improvements and bug fixes, as well as to d
 
 *   [Java Dropwizard Framework Sample](https://github.com/groupdocs-viewer/)
 *   [Java Spring Framework Sample](https://github.com/groupdocs-viewer/)
+
 
 
 

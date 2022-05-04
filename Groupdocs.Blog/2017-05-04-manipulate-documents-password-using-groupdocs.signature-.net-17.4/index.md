@@ -5,8 +5,8 @@ draft: false
 url: /2017/05/04/manipulate-documents-password-using-groupdocs.signature-.net-17.4/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Signature for .NET Releases', 'GroupDocs.Signature Product Family']
+tags: ['GroupDocs.Signature for .NET Releases']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 [![GroupDocs.Signature](http://blog.groupdocs.com/wp-content/uploads/sites/4/2016/07/groupdocs-signature-net.png)](https://www.groupdocs.com/products/signature/net)
@@ -42,6 +42,7 @@ For more details about the API features, please visit [features overview](https:
 *   [Video Tutorials](https://www.youtube.com/channel/UCXfvjjoMbyvpUlzD4A7oBuA "GroupDocs.Signature for .NET tutorials") \- YouTube Video Tutorials
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.signature-product-family/6/showforum.aspx) and our dedicated support team will be there to respond.
+
 
 
 

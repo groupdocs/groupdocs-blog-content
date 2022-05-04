@@ -5,8 +5,8 @@ draft: false
 url: /2018/05/21/search-and-replace-metadata-using-regular-expression-in-groupdocs.metadata-for-.net-18.5/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['document-metadata']
-categories: ['GroupDocs.Metadata for .NET', 'GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['document-metadata', 'GroupDocs.Metadata for .NET', 'GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")GroupDocs team is introducing a bunch of enhancements in this monthly release of [GroupDocs.Metadata for .NET](https://products.groupdocs.com/metadata/net) **18.5**. Using the latest version, you can now search and replace metadata using a regular expression, read DublinCore metadata using a unified approach, and edit ZIP archive comments. Furthermore, memory consumption is now reduced for ZIP, torrent, and EPUB file formats. We recommend you to [install](https://www.nuget.org/packages/GroupDocs.Metadata/) and use the latest version of the API.
@@ -31,6 +31,7 @@ For details about the features supported by the API, please visit [Features Over
 *   [Product Support Forum](https://forum.groupdocs.com/c/metadata) - Technical Support Forum for GroupDocs Metadata
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata](https://products.groupdocs.com/metadata/net ".NET Metadata API") for .NET API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/metadata).
+
 
 
 

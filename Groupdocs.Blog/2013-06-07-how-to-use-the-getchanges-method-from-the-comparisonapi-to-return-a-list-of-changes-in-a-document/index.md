@@ -5,7 +5,8 @@ draft: false
 url: /2013/06/07/how-to-use-the-getchanges-method-from-the-comparisonapi-to-return-a-list-of-changes-in-a-document/
 author: 'Derek Hyland'
 summary: ''
-tags: ['API', 'compare documents', 'document collaboration', 'document comparison', 'document management', 'documentation comparison tool', 'GroupDocs API', 'GroupDocs API SDK', 'GroupDocs Comparison', 'GroupDocs PHP SDK', 'zArchive']
+tags: ['API', 'compare documents', 'document collaboration', 'document comparison', 'document management', 'documentation comparison tool', 'GroupDocs API', 'GroupDocs API SDK', 'GroupDocs PHP SDK', 'zArchive']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 This article explains how to use the GetChanges method from the ComparisonApi in the [GroupDocs SDK](https://github.com/groupdocs).
@@ -170,6 +171,7 @@ try {
 ``` 
 
 ## ScreenshotsBelow are screenshots of how it looks in action. \[caption id="attachment\_2466" align="alignnone" width="602" caption="Form"\]![Form](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/06/Form.png "Form")\[/caption\] \[caption id="attachment\_2470" align="alignnone" width="602" caption="Table displaying the changes"\]![Table displaying the changes](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/06/Table-displaying-the-changes1.png "Table displaying the changes")\[/caption\]
+
 
 
 

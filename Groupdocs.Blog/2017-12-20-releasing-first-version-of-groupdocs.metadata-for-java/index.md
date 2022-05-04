@@ -5,8 +5,8 @@ draft: false
 url: /2017/12/20/releasing-first-version-of-groupdocs.metadata-for-java/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['metadata API for Java', 'metadata extraction API for Java', 'Metadata manipulation API']
-categories: ['GroupDocs.Metadata for Java', 'GroupDocs.Metadata for Java Releases', 'GroupDocs.Metadata Product Family']
+tags: ['metadata API for Java', 'metadata extraction API for Java', 'Metadata manipulation API', 'GroupDocs.Metadata for Java', 'GroupDocs.Metadata for Java Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/12/groupdocs-metadata-java.png "GroupDocs-Metadata-theme-100x100")We are extremely excited to announce that the first version of **GroupDocs.Metadata for Java** has been released. [GroupDocs.Metadata for Java](https://products.groupdocs.com/metadata/java) is a valuable addition to the GroupDocs.Metadata product family that empowers Java developers while working with metadata of popular file formats. It is powerful as well as easy to use API that provides all basic metadata operations (i.e. view, add, modify, remove) for a number of file formats. API gets the file as an input and makes its metadata accessible to the user. The following section contains the information about the key features exposed by the API.
@@ -89,6 +89,7 @@ Here are a few channels and resources for you to download, try, learn and get te
 # Feedback
 
 We always love to hear your valuable feedback. Share your suggestions, questions, or queries related to GroupDocs.Metadata for Java at our [forum](https://forum.groupdocs.com/c/metadata).
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2019/06/18/enable-pagination-in-wordprocessing-module/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Editor for .NET', 'GroupDocs.Editor Product Family']
+tags: ['GroupDocs.Editor for .NET']
+categories: ['GroupDocs.Editor Product Family']
 ---
 
 Yes, this is right. Paginal mode is now implemented in GroupDocs.Editor for .NET [19.5](https://docs.groupdocs.com/display/editornet/GroupDocs.Editor+for+.NET+19.5+Release+Notes). How this mode will effect WordProcessing documents? As you know that previously, there was only _float_ mode. When WordProcessing documents were converted to the page-less HTML, page division was absent. But in this release _WordProcessing_ options class contains new _paged_ (also called _paginal_) mode. When _paged_ is enabled, it produces HTML markup, optimized and adjusted for per-page edit and it creates ease to enable paged editing in any of WYSIWYG-editors.
@@ -32,6 +32,7 @@ Metered Credits is introduced in this release as well. As API already supports M
 {{< gist GroupDocsGists cc854fe21166991e43b10eaf0fc715d4 "getconsumptioncredit.cs" >}}
 
 Grab the latest release [here](https://www.nuget.org/packages/GroupDocs.editor). Please communicate with us on [forum](https://forum.groupdocs.com/c/editor) if you face any issue.
+
 
 
 

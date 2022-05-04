@@ -5,8 +5,8 @@ draft: false
 url: /2018/07/20/groupdocs.annotation-for-.net-18.7/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Annotation for .NET', 'GroupDocs.Annotation Product Family']
+tags: ['GroupDocs.Annotation for .NET']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 [![GroupDocs.Annotation for .NET](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-annotation-net.png)](https://products.groupdocs.com/annotation/net)
@@ -48,6 +48,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 We always appreciate and welcome to our valuable users to share their feedback to improve this product. We will be happy to know your thoughts and suggestions. Just create a [forum thread](https://forum.groupdocs.com/c/annotation) and our dedicated support team will be there to respond.
+
 
 
 

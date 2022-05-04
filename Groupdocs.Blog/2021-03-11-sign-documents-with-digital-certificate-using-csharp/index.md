@@ -1,5 +1,7 @@
 ---
-title: 'Sign Documents with Digital Certificate using C#'
+title: "Sign Documents with Digital Certificate using C#"
+seoTitle: "Sign Documents with Digital Certificate using C# | Word & PDF"
+description: "Electronically sign Word & PDF files with digital certificate in C# using .NET API for electronic signatures. Change the appearance of digital signatures."
 date: Thu, 11 Mar 2021 07:36:00 +0000
 draft: false
 url: /2021/03/11/sign-documents-with-digital-certificate-using-csharp/

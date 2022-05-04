@@ -5,8 +5,8 @@ draft: false
 url: /2019/05/03/autocad-to-image-conversion-issue-is-fixed/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Conversion for .NET', 'GroupDocs.Conversion Product Family']
+tags: ['GroupDocs.Conversion for .NET']
+categories: ['GroupDocs.Conversion Product Family']
 ---
 
 Here we are with another release of GroupDocs.Conversion for .NET 19.4. We've implemented automatic naming when saving a converted document to file. Do you want to convert a **CMX** (Corel Metafile eXchange) file to PDF or any other [supported](https://docs.groupdocs.com/display/conversionnet/Supported+Document+Formats) file format? Then you must try out this release.
@@ -32,6 +32,7 @@ In this release, we fixed some major bugs. Let's have a overview.
 *   Diagrams to image conversion issue is fixed
 
 Have a glance at API documentation [here](https://docs.groupdocs.com/display/conversionnet/Home).
+
 
 
 

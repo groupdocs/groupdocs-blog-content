@@ -5,8 +5,8 @@ draft: false
 url: /2016/10/14/groupdocs-metadata-dotnet-16-10-supports-wav-audio-format/
 author: 'Usman Aziz'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")We are happy to share that another monthly release of [GroupDocs.Metadata for .NET](http://www.groupdocs.com/products/metadata/net) with a bunch of new features is available for the .NET community. **GroupDocs.Metadata for .NET 16.10** has come with the support of WAV audio format. Not only this, the API has also brought some new features related to PSD, JPEG, TIFF and MP3 file formats. We recommend you to download this latest version and check out its exciting features.
@@ -36,6 +36,7 @@ For details, please visit: [Features Overview](http://www.groupdocs.com/docs/dis
 *   [Product Support Forum](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx) - Technical Support Forum for GroupDocs Metadata queries
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata for .NET](http://www.groupdocs.com/products/metadata/net ".NET Metadata API"), just share with us by creating a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx).
+
 
 
 

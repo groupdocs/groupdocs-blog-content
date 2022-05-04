@@ -1,5 +1,7 @@
 ---
-title: 'Merge Multiple File Types into Single Document using C#'
+title: "Merge Multiple File Types into Single Document using C#"
+seoTitle: "Merge Multiple File Types into One File using C# | PDF Word Excel PPT"
+description: "C# way to combine two or more documents of different file formats into a single file. Merge different PDF, Word, Excel, PPT files into one PDF with .NET API."
 date: Tue, 04 May 2021 20:10:39 +0000
 draft: false
 url: /2021/05/04/merge-multiple-file-types-using-csharp/

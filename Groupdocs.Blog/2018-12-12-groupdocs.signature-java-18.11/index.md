@@ -5,8 +5,8 @@ draft: false
 url: /2018/12/12/groupdocs.signature-java-18.11/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Signature for Java', 'GroupDocs.Signature Product Family']
+tags: ['GroupDocs.Signature for Java']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 [![GroupDocs.Signature](https://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-signature-java.png)](https://www.groupdocs.com/products/signature/java)
@@ -168,6 +168,7 @@ Here are a few channels and resources for you to learn, try and get technical su
 # Feedback
 
 As always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/signature) and our dedicated support team will be there to respond.
+
 
 
 

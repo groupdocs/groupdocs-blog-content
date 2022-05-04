@@ -5,8 +5,8 @@ draft: false
 url: /2017/10/05/groupdocs.search-.net-17.10-introduces-safe-reliable-indexing/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net)We are glad to announce another monthly release of **GroupDocs.Search for .NET** API. The API has been improved with some valuable additions in version 17.10. The e-Search API now introduces safe and reliable indexing by implementing the option to reload the index in case some of some critical error. The API also implements high compression level for storing documents text. Further details about the changes made to the API in this release will be discussed below. Click on the [download](https://downloads.groupdocs.com/search/net/new-releases/groupdocs.search-for-.net-17.10/) link and check out the new and improved version of the search API.
@@ -34,6 +34,7 @@ Here are a few channels and resources for you to download, try, learn and get te
 # Feedback
 
 If you have any suggestions, questions, or queries related to the [.NET Search API](http://www.groupdocs.com/products/search/net), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

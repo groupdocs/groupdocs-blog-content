@@ -5,8 +5,8 @@ draft: false
 url: /2019/06/14/filter-documents-in-search-results/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 Sometimes, we have a lot of different formatted documents. We create index then perform search and API shows hits from all the indexed documents. Ever thought to get search results from desired documents only?
@@ -71,6 +71,7 @@ Above are the major improvements introduced in version 19.5. Please go through a
 *   [.NET](https://docs.groupdocs.com/display/searchnet/GroupDocs.Search+for+.NET+19.5+Release+Notes)
 
 Avail these exciting improvements now in your project. This release is available for [download](https://downloads.groupdocs.com/search). Please share your feedback or concerns [here](https://forum.groupdocs.com/c/search).
+
 
 
 

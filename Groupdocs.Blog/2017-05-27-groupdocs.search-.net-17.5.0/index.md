@@ -5,8 +5,8 @@ draft: false
 url: /2017/05/27/groupdocs.search-.net-17.5.0/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net) Team GroupDocs is really excited to announce the monthly release of [GroupDocs.Search for .NET](https://www.groupdocs.com/products/search/net "GroupDocs.Search") 17.5.0 API. We have introduced a number of new features and enhancements in this release. The most notable improvement made to the API in this release is the support for some new formats like epub, OneNote, OpenDocument presentation format etc. For a better user experience the API has implemented optimization of simple and fuzzy search along with optimizing the index data on hard disk. We strongly recommend you to [download](https://downloads.groupdocs.com/search/net/new-releases/groupdocs.search-for-.net-17.5.0/) the latest API and check out all the features and enhancements introduced in this release.
@@ -38,6 +38,7 @@ For further details about the file formats supported by the API, please visit [S
 *   [Product Support Forum](https://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) - Technical Support Forum for GroupDocs.Search
 
 ## FeedbackIf you have any suggestions, questions, or queries related to [GroupDocs.Search API](http://www.groupdocs.com/products/search/net), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

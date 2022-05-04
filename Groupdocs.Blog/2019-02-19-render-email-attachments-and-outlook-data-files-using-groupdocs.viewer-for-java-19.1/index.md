@@ -5,8 +5,8 @@ draft: false
 url: /2019/02/19/render-email-attachments-and-outlook-data-files-using-groupdocs.viewer-for-java-19.1/
 author: 'Usman Aziz'
 summary: ''
-tags: ['document rendering API for Java', 'document viewer', 'java document viewer', 'Java document viewer API', 'online document viewer', 'PDF viewer']
-categories: ['GroupDocs.Viewer for Java', 'GroupDocs.Viewer for Java Releases', 'GroupDocs.Viewer Product Family']
+tags: ['document rendering API for Java', 'document viewer', 'java document viewer', 'Java document viewer API', 'online document viewer', 'PDF viewer', 'GroupDocs.Viewer for Java', 'GroupDocs.Viewer for Java Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2019/08/groupdocs-viewer-for-java_logo-e1566819687432.png)We are back with a major release of [GroupDocs.Viewer for Java](https://products.groupdocs.com/viewer/java) as version 19.1. The latest release has come with some exciting new features as well as a bunch of improvements and important bug fixes. Please have a look at the [release notes](https://docs.groupdocs.com/display/viewerjava/GroupDocs.Viewer+for+Java+19.1+Release+Notes) to know about the new features and the changes introduced in GroupDocs.Viewer for Java 19.1. Furthermore, if you are planning to upgrade the API from any previous version, we strongly recommend you to check the Public API Changes section of release notes.
@@ -59,6 +59,7 @@ The following resources will help you to download, learn, try and get technical 
 *   [Product Support Forum](https://forum.groupdocs.com/c/viewer) – Technical Support Forum for GroupDocs.Viewer Product Family
 
 ## FeedbackAs always, you are welcome to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/viewer) and our dedicated support team will be there to respond.
+
 
 
 

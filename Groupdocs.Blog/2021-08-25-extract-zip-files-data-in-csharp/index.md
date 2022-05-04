@@ -1,5 +1,7 @@
 ---
-title: 'Extract ZIP Files Data in C#'
+title: "Extract ZIP Files Data in C#"
+seoTitle: "Extract Archive Files Data using C# | ZIP, RAR, TAR, GZIP, BZIP2"
+description: "Extract data of compressed archives like ZIP, RAR, TAR, GZIP, BZIP2 files using C# in .NET application. Parse archives and extract whole text within files."
 date: Wed, 25 Aug 2021 12:43:51 +0000
 draft: false
 url: /2021/08/25/extract-zip-files-data-in-csharp/

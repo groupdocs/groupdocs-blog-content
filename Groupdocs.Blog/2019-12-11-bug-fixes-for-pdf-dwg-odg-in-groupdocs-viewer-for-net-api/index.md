@@ -5,8 +5,8 @@ draft: false
 url: /2019/12/11/bug-fixes-for-pdf-dwg-odg-in-groupdocs-viewer-for-net-api/
 author: 'Usman Aziz'
 summary: ''
-tags: ['autocad viewer', 'CAD viewer', 'document viewer', 'dwg or dfx viewer', 'Excel viewer', 'html5 document viewer', 'visio viewer', 'vsdx viewer', 'web document viewer', 'Word Viewer']
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['autocad viewer', 'CAD viewer', 'document viewer', 'dwg or dfx viewer', 'Excel viewer', 'html5 document viewer', 'visio viewer', 'vsdx viewer', 'web document viewer', 'Word Viewer', 'GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 
@@ -37,6 +37,7 @@ In the [previous release](https://blog.groupdocs.com/2019/11/07/support-of-net-s
 We have updated the unique identifier that is used by OS to identify the application installed with an MSI package. This update would require you to manually uninstall the previous version of GropuDocs.Viewer for .NET before installing v19.11 using the MSI package.
 
 Since the updates are always important, we would recommend you to upgrade to v19.11 in your applications. In case you would face any issue or have any confusion, feel free to share with us via our [forum](https://forum.groupdocs.com/c/viewer).
+
 
 
 

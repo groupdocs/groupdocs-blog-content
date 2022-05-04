@@ -5,8 +5,8 @@ draft: false
 url: /2019/11/29/add-point-annotation-in-documents-using-.net-and-java-api/
 author: 'Samicheema'
 summary: ''
-tags: ['.NET', 'Annotation', 'API', 'Arrow', 'Backend-API', 'C#', 'Cells', 'CSharp', 'Diagrams', 'Email', 'HTML', 'Images', 'java', 'OpenDocument', 'Password Protected', 'Password Protected Document', 'PDF', 'PDF Document', 'Point', 'Presentation', 'Slides', 'Spreadsheet', 'Word Processing', 'Words']
-categories: ['GroupDocs.Annotation', 'GroupDocs.Annotation for .NET', 'GroupDocs.Annotation for Java', 'GroupDocs.Annotation Product Family']
+tags: ['.NET', 'Annotation', 'API', 'Arrow', 'Backend-API', 'C#', 'Cells', 'CSharp', 'Diagrams', 'Email', 'HTML', 'Images', 'java', 'OpenDocument', 'Password Protected', 'Password Protected Document', 'PDF', 'PDF Document', 'Point', 'Presentation', 'Slides', 'Spreadsheet', 'Word Processing', 'Words', 'GroupDocs.Annotation', 'GroupDocs.Annotation for .NET', 'GroupDocs.Annotation for Java']
+categories: ['GroupDocs.Annotation Product Family']
 ---
 
 As all our records and documentations are facing a digital transformation. It has made it quite necessary for us to have a good knowledge of the tools that may help us in the long run. Annotation is one of those tools which may help you in adding the extra, yet necessary, piece of information into your documents.
@@ -34,6 +34,7 @@ Following screenshot shows how the point annotation look likes in resultant docu
 *   
 
 {{< figure align=center src="images/Screenshot_6-1024x560.png" alt="">}}
+
 
 
 

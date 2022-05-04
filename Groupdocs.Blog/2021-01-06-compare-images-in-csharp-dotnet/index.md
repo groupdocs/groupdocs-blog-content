@@ -1,5 +1,7 @@
 ---
-title: 'Image Comparison in C# to Spot the Differences'
+title: "Image Comparison in C# to Spot the Differences"
+seoTitle: "Compare Images in C# to Highlight Differences | Comparison API"
+description: "Perform image comparison using C# within .NET applications. Compare JPG, PNG, BMP, GIF, DICOM, DCM, or DjVu images using image comparing .NET API."
 date: Wed, 06 Jan 2021 17:52:00 +0000
 draft: false
 url: /2021/01/06/compare-images-in-csharp-dotnet/

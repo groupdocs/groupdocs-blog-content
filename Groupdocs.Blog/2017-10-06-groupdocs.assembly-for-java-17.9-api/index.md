@@ -5,8 +5,8 @@ draft: false
 url: /2017/10/06/groupdocs.assembly-for-java-17.9-api/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['API', 'Email', 'Enhanced Support', 'GroupDocs', 'java']
-categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly Product Family']
+tags: ['API', 'Email', 'Enhanced Support', 'GroupDocs', 'java', 'GroupDocs.Assembly for Java']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [![Document Assembly API](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-assembly-java-1.png)](https://www.groupdocs.com/products/assembly/java) We are at [GroupDocs](https://www.groupdocs.com/) glad to announce another release of document report generation API **version 17.9** also known as [GroupDocs.Assembly for Java](https://www.groupdocs.com/products/assembly/java) API. The latest release adds enhanced support for existing features to the API, the most important changes are done to support document assembly for Email formats and also providing bug fixes for all major email formats. For a better experience with the API, we recommend you to [download](https://downloads.groupdocs.com/assembly/java) the latest release and try out the features introduced in the latest version of the API. Full list of changes are provided below.
@@ -33,6 +33,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 We'd like to hear your valuable feedback. Just create a [forum thread](https://forum.groupdocs.com/c/assembly "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2017/01/30/groupdocs.search-.net-17.1.0/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net) Team GroupDocs is really excited to announce the monthly release of [GroupDocs.Search for .NET 17.1.0](https://www.groupdocs.com/products/search/net "GroupDocs.Search") API. We have introduced four new features in this release. The most notable feature introduced in this release is the functionality to merge indexes. The API has also extended its search functionality and introduces correction of a misspelled search query before searching. The latest API implements homophone dictionary functionality and alias dictionary functionality as well. [Download](https://downloads.groupdocs.com/search/net/new-releases/groupdocs.search-for-.net-17.01.0/) the latest API and check out all the features introduced in this release.
@@ -31,6 +31,7 @@ For further details, please visit [Features Overview](https://www.groupdocs.com/
 *   [Product Support Forum](https://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) - Technical Support Forum for GroupDocs.Search
 
 ## FeedbackIf you have any suggestions, questions, or queries related to [GroupDocs.Search API](http://www.groupdocs.com/products/search/net), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

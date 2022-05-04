@@ -5,8 +5,8 @@ draft: false
 url: /2019/06/21/groupdocs-redaction-has-been-released-for-java-platform/
 author: 'Usman Aziz'
 summary: ''
-tags: ['annotation redaction', 'API', 'hide sensitive information', 'java', 'metadata redaction', 'redact classified information', 'Redact PDF files', 'redact sensitive content', 'Redact Word documents', 'Redact Word Excel PowerPoint PDF', 'text redaction', 'Text redaction API']
-categories: ['GroupDocs.Redaction', 'GroupDocs.Redaction Product Family']
+tags: ['annotation redaction', 'API', 'hide sensitive information', 'java', 'metadata redaction', 'redact classified information', 'Redact PDF files', 'redact sensitive content', 'Redact Word documents', 'Redact Word Excel PowerPoint PDF', 'text redaction', 'Text redaction API', 'GroupDocs.Redaction']
+categories: ['GroupDocs.Redaction Product Family']
 ---
 
 
@@ -61,6 +61,7 @@ So why not check out how you can automate your document redaction process by dow
 You can evaluate the API features for free without any trial limitations using the temporary license. Just follow the instructions provided [here](https://purchase.groupdocs.com/temporary-license) and get your temporary license now.
 
 In case you would have any questions or queries, just feel free to share with us on our [forum](https://forum.groupdocs.com/categories). Cheers!
+
 
 
 

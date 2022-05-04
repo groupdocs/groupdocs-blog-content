@@ -5,8 +5,8 @@ draft: false
 url: /2018/08/20/skip-unreadable-characters-during-watermark-search-using-groupdocs.watermark-for-.net-18.8/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'Document Watermarking', 'Watermarking API C#']
-categories: ['GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release', 'GroupDocs.Watermark Product Family']
+tags: ['.NET Watermarking API', 'Document Watermarking', 'Watermarking API C#', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/05/GroupDocs-Watermark-for-.NET_.png)](https://products.groupdocs.com/watermark/net)We are delighted to announce the release of version 18.8 of [GroupDocs.Watermark for .NET](https://products.groupdocs.com/watermark/net). The latest version allows skipping unreadable characters during text watermark search. Furthermore, we have also added a new feature to strengthen protection of text watermark in presentation documents. Please continue to read more about the new features, enhancements and bug fixes added in version 18.8.
@@ -92,6 +92,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, we would love to hear your queries and suggestions at our [forum](https://forum.groupdocs.com/c/watermark "Technical Support Forum").
+
 
 
 

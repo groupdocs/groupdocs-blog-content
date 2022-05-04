@@ -5,8 +5,8 @@ draft: false
 url: /2017/10/06/extract-zip-and-mov-file-format-metadata-using-gorupdocs.metadata/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['.NET API']
-categories: ['GroupDocs.Metadata for .NET', 'GroupDocs.Metadata Product Family']
+tags: ['.NET API', 'GroupDocs.Metadata for .NET']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![GroupDocs.Metadata for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")GroupDocs team is pleased to announce the release of version **17.10** of the **GroupDocs.Metadata for .NET** API. Keeping in mind customer's feedback, this release has new features and bug fixes. Users can now extract metadata from **ZIP** and **MOV** file formats. Furthermore, few issues reported on forums are also fixed. We, therefore, recommend you to [download](https://downloads.groupdocs.com/metadata/net/new-releases/groupdocs.metadata-for-.net-17.10/) or update your applications to use the latest version of the API for a better and smoother experience.
@@ -47,6 +47,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 *   As always, if you have some questions, queries or suggestions about [GroupDocs.Metadata](http://www.groupdocs.com/products/metadata/net ".NET Metadata API") for .NET API,  just share with us by creating a [forum thread](https://forum.groupdocs.com/c/metadata).
+
 
 
 

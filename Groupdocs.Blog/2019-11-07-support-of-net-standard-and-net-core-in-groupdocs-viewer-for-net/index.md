@@ -5,8 +5,8 @@ draft: false
 url: /2019/11/07/support-of-net-standard-and-net-core-in-groupdocs-viewer-for-net/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Standard 2.0', 'API', 'document viewer API for .net', 'dotnet']
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['.NET Standard 2.0', 'API', 'document viewer API for .net', 'dotnet', 'GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 
@@ -52,6 +52,7 @@ The following bugs that were reported in earlier versions have been fixed.
 *   Fit content by width when rendering mail messages into PDF/JPG/PNG.
 
 Have a look at the [release notes](https://docs.groupdocs.com/display/viewernet/GroupDocs.Viewer+for+.NET+19.10+Release+Notes) for more details about the API changes in v19.10. We have also updated the source code examples on the [GitHub repository](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET) for the latest release and added the sample project for .NET Core. In case you would have any questions or queries, do let us know on our [forum](https://forum.groupdocs.com/c/viewer).
+
 
 
 

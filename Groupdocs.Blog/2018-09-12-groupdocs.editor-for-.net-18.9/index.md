@@ -5,8 +5,8 @@ draft: false
 url: /2018/09/12/groupdocs.editor-for-.net-18.9/
 author: 'Samicheema'
 summary: ''
-tags: []
-categories: ['GroupDocs.Editor for .NET', 'GroupDocs.Editor Product Family']
+tags: ['GroupDocs.Editor for .NET']
+categories: ['GroupDocs.Editor Product Family']
 ---
 
 [![GroupDocs Editor for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/07/groupdocs-editor.png)](https://www.groupdocs.com/products/editor/net)
@@ -39,6 +39,7 @@ We are pleased to announce another monthly release of [GroupDocs.Editor for .NET
 *   [Product Support Forum](https://forum.groupdocs.com/c/editor) - Technical Support Forum for GroupDocs.Editor
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/editor "Technical Support Forum").
+
 
 
 

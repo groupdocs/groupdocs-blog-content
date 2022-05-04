@@ -5,8 +5,8 @@ draft: false
 url: /2019/08/02/searching-in-a-large-number-of-documents/
 author: 'Muhammad Umar'
 summary: ''
-tags: ['Facet Search', 'Fuzzy', 'GroupDocs', 'Indexing', 'lucene', 'search api', 'Searching', 'Stop Words']
-categories: ['GroupDocs.Search', 'GroupDocs.Search Product Family']
+tags: ['Facet Search', 'Fuzzy', 'GroupDocs', 'Indexing', 'lucene', 'search api', 'Searching', 'Stop Words', 'GroupDocs.Search']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 Usually, a searching software is able to achieve fast search responses because, instead of search the text directly, it searches an index. This would be the equivalent of retrieving pages in a book related to a keyword by searching the index at the back of a book, as opposed to searching the words in each page of the book.
@@ -76,6 +76,7 @@ The output will be appeared like the following screenshot:
 
 
 The complete ready to run code sample is available on [GitHub](https://github.com/groupdocs-search).
+
 
 
 

@@ -5,8 +5,8 @@ draft: false
 url: /2018/11/02/releasing-groupdocs.search-for-java-document-searching-and-indexing-api/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for Java](http://blog.groupdocs.com/wp-content/uploads/sites/4/2018/10/groupdocs.search-for-java-90x90.png)](https://products.groupdocs.com/search/java)We are pleased to announce that the first version of [GroupDocs.Search for Java](https://products.groupdocs.com/search/java "GroupDocs.Search product page") has been released. The API allows Java developers to perform searching and indexing operations against various formats to gain data insights. One can easily perform actions to search through different directories and documents for text occurrences, basic metadata fields, file names, document types and many more. Please continue to read more about the features and the file formats supported by the API.
@@ -70,6 +70,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/"Technical Support Forum").
+
 
 
 

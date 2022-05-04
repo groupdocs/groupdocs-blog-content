@@ -5,7 +5,8 @@ draft: false
 url: /2013/02/01/developing-firefox-add-ons-with-the-add-on-builder-and-sdk/
 author: 'Derek Hyland'
 summary: ''
-tags: ['document upload', 'GroupDocs Viewer', 'GroupDocs Viewer Plugin', 'online document viewer', 'View documents online', 'zArchive']
+tags: ['document upload', 'GroupDocs Viewer Plugin', 'online document viewer', 'View documents online', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 This article explains the basics of creating an add-on for FireFox using the FireFox Add-on Builder and Add-on SDK. [Read more about them on the Mozilla website](https://addons.mozilla.org/en-US/developers/builder). As an example, I’ll use the GroupDocs add-on. (You can [download the source code from Github](https://github.com/liosha2007/groupdocs-firefox-viewer-source).) It's an advanced extension so I’ll focus on the basics and highlight a couple of interesting aspects communication between scripts. I'll mainly look at the add-on folders **data** and **lib** in the **/resources/groupdocsviewer/** folder.
@@ -26,6 +27,7 @@ This article explains the basics of creating an add-on for FireFox using the Fir
 ### Messages to other ScriptsJavaScript files connected to the panel are executed within the panel in the order that they are listed. This is important because it allows you to load any number of libraries and then also files that use those libraries. One of the files called by the **main.js** file to create the main panel is **popup.js**. It initializes handlers for all the controls in the add-on window. This file also contains the all the extension's logic. Sending and receiving messages here is a little more complicated. The methods port.on() and port.emit() are located within the object itself, and the object is available in the global context, that is, it's not visible to other functions or objects. Keep a reference to the object so that you can use it when you run the file. It is worth noticing that to start carrying out any actions in the popup.js file follows not in the first line of the file, but in the method which has received the message from the main.js file.
 
 ### SummaryThis is how it works: widgets and panels are created in **main.js**. Then we have a message handler that ensures that a “show” message is generated when the panel is displayed. Code in **main.js** catches the message and sends a similar message to **popup.js**. Code in **popup.js** catches the message and initialises the extension. \[caption id="attachment\_1465" align="aligncenter" width="573" caption="Transit of the message of 'show'"\]![Transit of the message of 'show'](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/02/Transit-of-the-message-of-show.png "Transit of the message of 'show'")\[/caption\] **popup.js** starts working as soon as the panel has been displayed and a DOM model add-on is ready to use. It functions as any site: JavaScripts respond, the DOM is modified as needed and AJAX requests are made. To interact with the FireFox API, send a message to **main.js** which, after working with the FireFox API, sends a message back to **popup.js** with the results.
+
 
 
 

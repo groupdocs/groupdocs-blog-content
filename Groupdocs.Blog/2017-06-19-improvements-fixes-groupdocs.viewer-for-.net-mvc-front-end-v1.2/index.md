@@ -5,8 +5,8 @@ draft: false
 url: /2017/06/19/improvements-fixes-groupdocs.viewer-for-.net-mvc-front-end-v1.2/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [![GroupDocs Viewer for .NET](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-viewer-net.png)](http://groupdocs.com/dot-net/document-viewer-library)
@@ -37,6 +37,7 @@ GroupDocs team always takes care of customers. Our customers provide us with the
 *   [Sample Front Ends](https://github.com/groupdocs-viewer/ "Open Source Document Viewer Applications") - Open Source **Document Viewer** Applications
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](http://groupdocs.com/Community/forums/groupdocs.viewer-product-family/4/showforum.aspx "Technical Support Forum").
+
 
 
 

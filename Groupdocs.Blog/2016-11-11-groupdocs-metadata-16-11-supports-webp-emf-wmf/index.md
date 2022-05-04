@@ -5,8 +5,8 @@ draft: false
 url: /2016/11/11/groupdocs-metadata-16-11-supports-webp-emf-wmf/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Metadata for .NET Releases', 'GroupDocs.Metadata Product Family']
+tags: ['GroupDocs.Metadata for .NET Releases']
+categories: ['GroupDocs.Metadata Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/06/groupdocs-metadata-net.png "GroupDocs-Metadata-theme-100x100")We’ve just published some important updates for [GroupDocs.Metadata for the .NET](http://www.groupdocs.com/products/metadata/net "GroupDocs.Metadata") community and we’re really pleased to announce our newest stable **GroupDocs.Metadata for .NET 16.11** release, which includes support for even some more document formats as well as some great new features for images and audio files. To try out all of the awesome features available now in our latest release, simply [download](http://www.groupdocs.com/downloads/metadata/net/new-releases/groupdocs.metadata-for-.net-16.11.0/ "GroupDocs.Metadata Download") this latest version or check for updates in Visual Studio and install the release .
@@ -45,6 +45,7 @@ You can get more information about supported formats [here](http://www.groupdocs
 *   [Product Support Forum](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx) - Technical Support Forum for GroupDocs Metadata
 
 ## FeedbackAs always, if you have some questions, queries or suggestions about [GroupDocs.Metadata for .NET](http://www.groupdocs.com/dot-net/document-metadata-library ".NET Metadata API"), just share with us by creating a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.metadata-product-family/48/showforum.aspx).
+
 
 
 

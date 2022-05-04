@@ -5,8 +5,8 @@ draft: false
 url: /2019/09/27/hide-or-remove-classified-content-from-documents-using-net-api/
 author: 'Usman Aziz'
 summary: ''
-tags: []
-categories: ['GroupDocs.Redaction for .NET', 'GroupDocs.Redaction Product Family']
+tags: ['GroupDocs.Redaction for .NET']
+categories: ['GroupDocs.Redaction Product Family']
 ---
 
 We are continuing the journey of revamping our products to bring a more simplified and easy to use interfaces for you. We have done it for many of our document manipulation APIs and recently, we have released all-new **[GroupDocs.Redaction for .NET](https://products.groupdocs.com/redaction/net)** API for you as  [**v19.9**](https://downloads.groupdocs.com/redaction/net). With this release, we have made it even easier for you to programmatically **remove or mask classified information** from **text**, **metadata**, and the **annotations** in **MS Word**, **Excel**, **PowerPoint**, and **PDF** documents as well as **images**.
@@ -40,6 +40,7 @@ The migration to an API version with major updates is always hard since it requi
 For a complete list of all public API changes, please have a look at the [release notes](https://docs.groupdocs.com/display/redactionnet/GroupDocs.Redaction+for+.NET+19.9+Release+Notes).
 
 Alright! Are you interested in trying out the new API? If yes, [download](https://github.com/groupdocs-redaction/GroupDocs.Redaction-for-.NET) or clone the complete source code examples from the GitHub repository. You can consult the [documentation](https://docs.groupdocs.com/display/redactionnet/GroupDocs.Redaction+Overview) to get details about all the features of the API. In case you find any issue or something confusing, do let us know via our [forum](https://forum.groupdocs.com/).
+
 
 
 

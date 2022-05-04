@@ -5,8 +5,8 @@ draft: false
 url: /2018/06/15/color-individual-chart-series-points-using-groupdocs.assembly-for-java-18.5/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly for Java Releases', 'GroupDocs.Assembly Product Family']
+tags: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly for Java Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [![Document Assembly API](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-assembly-java-1.png)](https://www.groupdocs.com/products/assembly/java)At [GroupDocs](https://www.groupdocs.com/), we keep on updating our products for better user experience. In this regard, we are excitedly announcing the monthly release of [GroupDocs.Assembly for Java](https://products.groupdocs.com/assembly/java) **18.5**. Using the latest version, you can now change color of chart series and individual point series dynamically for word processing, spreadsheet and presentation formats. We recommend you to [install](https://artifact.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-assembly/maven-assembly.xml) the latest version of API for a better experience.
@@ -42,6 +42,7 @@ categories: ['GroupDocs.Assembly for Java', 'GroupDocs.Assembly for Java Release
 *   [Product Support Forum](https://forum.groupdocs.com/c/assembly) – Technical support forum for GroupDocs.Assembly product family
 
 ## FeedbackWe always love to hear your valuable feedback. Share your suggestions, questions, or queries related to GroupDocs.Assembly for Java at our [forum](https://forum.groupdocs.com/c/assembly).
+
 
 
 

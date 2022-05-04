@@ -5,7 +5,8 @@ draft: false
 url: /2013/07/04/how-to-use-groupdocs-viewer-for-net-mvc4/
 author: 'Derek Hyland'
 summary: ''
-tags: ['.NET', '.NET MVC4', 'document viewer', 'GroupDocs Viewer', 'GroupDocs Viewer for .NET', 'online document viewer', 'View documents online', 'zArchive']
+tags: ['.NET', '.NET MVC4', 'document viewer', 'GroupDocs Viewer for .NET', 'online document viewer', 'View documents online', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 We are often asked whether our GroupDocs Viewer for .NET works with Microsoft ASP.NET MVC 4. The answer is YES, it works well. In this article, we will learn how to use the ASP.NET HTML5 DLL version of GroupDocs' document viewer with .NET MVC 4.
@@ -87,6 +88,7 @@ We are often asked whether our GroupDocs Viewer for .NET works with Microsoft AS
 *   Go to the project properties -> web and set **Use Visual Studio Development server** then run project
 
 When the code runs, we see an iframe with GroupDocs Viewer on the page. \[caption id="attachment\_2980" align="alignnone" width="600" caption="GroupDocs' online document viewer in action"\]![GroupDocs' online document viewer in action](https://blog.groupdocs.com/wp-content/uploads/sites/4/2013/07/GroupDocs-online-document-viewer-in-action2.png "GroupDocs' online document viewer in action")\[/caption\]
+
 
 
 

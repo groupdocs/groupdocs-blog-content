@@ -5,8 +5,8 @@ draft: false
 url: /2017/10/02/add-paragraphmerger-using-groupdocs.comaprison-for-.net-17.10/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET Releases', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET Releases']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 Team [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-comparison-net.png)](https://www.groupdocs.com/products/comparison/net)GroupDocs  is really pleased to announce the release of version 17.10 of [GroupDocs.Comparison for .NET](http://www.groupdocs.com/products/comparison/net "Document Comparison API ") API which not only adds a number of new features to the API, but also adds numerous enhancements along-with some bug fixes. The API now allows adding password to PDF documents. It also adds ParagraphMerger to the API. Not only this; the API has also made improvements related to the PDF document format beside improving Comparison.Note and Comparison.Cells. A detailed overview of all the changes made to the API in version 17.10 is listed below. Please click [here](https://downloads.groupdocs.com/comparison/net) to download the latest API and check out all the latest features and improvements made to the API in this release.
@@ -65,6 +65,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 You are always welcome to share your feedback and suggestions to improve this product, we take it very seriously and try to incorporate it as much as its possible for upcoming releases . We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/comparison) and our dedicated support team will be there to respond.
+
 
 
 

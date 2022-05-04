@@ -5,8 +5,8 @@ draft: false
 url: /2018/10/19/multicomparer-issue-is-resolved-in-groupdocs.comparison-for-java-18.6.3/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for Java', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for Java']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/09/java-comparison-logo.png)](https://www.groupdocs.com/products/comparison/java)
@@ -28,6 +28,7 @@ Another release of GroupDocs.Comparison for Java 18.6.3 is on-board. It comes wi
 *   [Product Support Forum](https://forum.groupdocs.com/c/comparison "Product Support Forum") – Technical Support Forum for GroupDocs.Comparison
 
 ## FeedbackWe always welcome you to share your feedback to improve this product. We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/comparison) and our dedicated support team will be there to respond.
+
 
 
 

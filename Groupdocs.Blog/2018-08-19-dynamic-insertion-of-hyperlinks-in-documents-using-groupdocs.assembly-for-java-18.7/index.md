@@ -5,8 +5,8 @@ draft: false
 url: /2018/08/19/dynamic-insertion-of-hyperlinks-in-documents-using-groupdocs.assembly-for-java-18.7/
 author: 'Ali Ahmed'
 summary: ''
-tags: []
-categories: ['GroupDocs.Assembly', 'GroupDocs.Assembly for Java', 'GroupDocs.Assembly for Java Releases', 'GroupDocs.Assembly Product Family']
+tags: ['GroupDocs.Assembly', 'GroupDocs.Assembly for Java', 'GroupDocs.Assembly for Java Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 [![Document Assembly API](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/03/groupdocs-assembly-java-1.png)](https://www.groupdocs.com/products/assembly/java)We are excitedly announcing the monthly release of [GroupDocs.Assembly for Java](https://products.groupdocs.com/assembly/java) **18.7**.  Using the latest version, you can now insert hyperlinks dynamically in Word Processing, Spreadsheet, Presentation and Email documents. Furthermore, a bug related to **DocumentAssembler** is now fixed. We recommend you to [install](https://artifact.groupdocs.com/webapp/#/artifacts/browse/tree/General/repo/com/groupdocs/groupdocs-assembly/maven-assembly.xml) the latest version of the API for a better user experience.
@@ -32,6 +32,7 @@ categories: ['GroupDocs.Assembly', 'GroupDocs.Assembly for Java', 'GroupDocs.Ass
 *   [Product Support Forum](https://forum.groupdocs.com/c/assembly) – Technical support forum for GroupDocs.Assembly product family
 
 ## FeedbackWe always love to hear your valuable feedback. Share your suggestions, questions, or queries related to GroupDocs.Assembly for Java at our [forum](https://forum.groupdocs.com/c/assembly).
+
 
 
 

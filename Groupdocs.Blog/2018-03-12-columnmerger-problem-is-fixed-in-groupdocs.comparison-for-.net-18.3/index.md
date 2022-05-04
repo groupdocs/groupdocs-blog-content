@@ -5,8 +5,8 @@ draft: false
 url: /2018/03/12/columnmerger-problem-is-fixed-in-groupdocs.comparison-for-.net-18.3/
 author: 'Atir Tahir'
 summary: ''
-tags: []
-categories: ['GroupDocs.Comparison for .NET', 'GroupDocs.Comparison Product Family']
+tags: ['GroupDocs.Comparison for .NET']
+categories: ['GroupDocs.Comparison Product Family']
 ---
 
 [![GroupDocs.Comparison](https://blog.groupdocs.com/wp-content/uploads/sites/4/2016/11/groupdocs-comparison-net.png)](https://www.groupdocs.com/products/comparison/net)This month's release of [GroupDocs.Comparison for .NET 18.3](https://products.groupdocs.com/comparison/net "Document Comparison API ") covers some improvements and one bug fix. Features like Comparison.Imaging and registration of changes by groups are improved. ColumnMerger problem is now fixed. You can follow release notes [here](https://docs.groupdocs.com/display/comparisonnet/GroupDocs.Comparison+for+.NET+18.3+Release+Notes). We'd recommend you to download latest version of the API and share your feedback.
@@ -34,6 +34,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 You are always welcome to share your feedback and suggestions to improve this product, we take it very seriously and try to incorporate it as much as its possible for upcoming releases . We will be happy to know your thoughts. Just create a [forum thread](https://forum.groupdocs.com/c/comparison) and our dedicated support team will be there to respond.
+
 
 
 

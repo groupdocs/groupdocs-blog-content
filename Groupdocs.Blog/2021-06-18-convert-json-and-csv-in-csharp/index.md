@@ -1,5 +1,7 @@
 ---
-title: 'Convert JSON to CSV and CSV to JSON using C#'
+title: "Convert JSON to CSV and CSV to JSON using C#"
+seoTitle: "Convert JSON and CSV Data in C# | JSON to CSV | CSV to JSON"
+description: "Convert JSON to CSV and CSV to JSON in C# within .NET applications. Examples convert the structured JSON data into comma-separated values CSV and vice-versa."
 date: Fri, 18 Jun 2021 12:25:49 +0000
 draft: false
 url: /2021/06/18/convert-json-and-csv-in-csharp/

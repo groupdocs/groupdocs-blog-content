@@ -5,8 +5,8 @@ draft: false
 url: /2019/07/09/embed-custom-objects-in-metadata-signature-for-images/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET', '.NET API', 'Custom Metadata', 'digital document signature', 'digital signature', 'e-signature', 'electronic signature', 'Embed Custom Objects', 'Encrypted Metadata Signature', 'Metadata signature']
-categories: ['GroupDocs.Signature for .NET', 'GroupDocs.Signature Product Family']
+tags: ['.NET', '.NET API', 'Custom Metadata', 'digital document signature', 'digital signature', 'e-signature', 'electronic signature', 'Embed Custom Objects', 'Encrypted Metadata Signature', 'Metadata signature', 'GroupDocs.Signature for .NET']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 
@@ -54,6 +54,7 @@ Listed below are the other improvements and the bug fixes that we have packaged 
 *   The output file's path is unexpected for different scenarios
 
 Alright! So this is it from my side and now, it's your turn to [download](https://downloads.groupdocs.com/signature/net) and check out the latest release. For more details, you can have a glance at the [release notes](https://docs.groupdocs.com/display/signaturenet/GroupDocs.Signature+for+.NET+19.6+Release+Notes). I would also recommend you consult the [Developer's Guide](https://docs.groupdocs.com/display/signaturenet/Developer+Guide) while evaluating the API's features. Still, if you need any assistance, please feel free to write to us on our [forum](https://forum.groupdocs.com/).
+
 
 
 

@@ -5,7 +5,8 @@ draft: false
 url: /2012/04/20/groupdocs-online-signature-app-dashboard-new-look-and-feel/
 author: 'Derek Hyland'
 summary: ''
-tags: ['collect signatures online', 'GroupDocs Signature', 'online document signing', 'online signature', 'online signature service', 'sign documents online', 'zArchive']
+tags: ['collect signatures online', 'online document signing', 'online signature', 'online signature service', 'sign documents online', 'zArchive']
+categories: ['GroupDocs.Signature Product Family']
 ---
 
 We're constantly working to improve the functionality and user interface of our online document management apps. Today we introduce our [online signature app's](http://groupdocs.com/apps/signature) new user interface. The changes we are about to discuss are coming within the next weeks.
@@ -32,6 +33,7 @@ We're constantly working to improve the functionality and user interface of our 
 ## 5\. Add fields to the documentAdd custom fields to the document to collect necessary data from the signers, such as name, address, title, date, etc. \[caption id="attachment\_213" align="aligncenter" width="650" caption="GroupDocs Signature - Add custom fields"\]![GroupDocs Signature - Add custom fields](https://blog.groupdocs.com/wp-content/uploads/sites/4/2012/04/add-fields_a.png "GroupDocs Signature - Add custom fields")\[/caption\] \[caption id="attachment\_219" align="aligncenter" width="650" caption="GroupDocs Signature - New tools"\]![DGroupDocs Signature - New tools](https://blog.groupdocs.com/wp-content/uploads/sites/4/2012/04/signature-tools_tools_general_a.png "SGroupDocs Signature - New tools")\[/caption\] 
 
 ## 6\. Save and sendSend the envelope right away or save it as a draft, so that you can come back and review it anytime later. \[caption id="attachment\_217" align="aligncenter" width="650" caption="GroupDocs Signature - Check and save envelope settings"\]![GroupDocs Signature - Check and save envelope settings](https://blog.groupdocs.com/wp-content/uploads/sites/4/2012/04/save-and-send_a.png "GroupDocs Signature - Check and save envelope settings")\[/caption\]
+
 
 
 

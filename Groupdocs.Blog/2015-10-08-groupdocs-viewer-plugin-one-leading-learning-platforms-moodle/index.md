@@ -5,7 +5,8 @@ draft: false
 url: /2015/10/08/groupdocs-viewer-plugin-one-leading-learning-platforms-moodle/
 author: 'Stanislav Tatarin'
 summary: ''
-tags: ['GroupDocs Viewer', 'marketplace', 'moodle', 'zArchive']
+tags: ['marketplace', 'moodle', 'zArchive']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 
@@ -32,6 +33,7 @@ GroupDocs.Viewer Java plugin for Moodle
 GroupDocs.Viewer Cloud plugin for Moodle
 
 If you have any questions about GroupDocs.Viewer, or need help with deployment, please do not hesitate to contact us and make an inquiry via our [support forum](https://forum.groupdocs.com/c/viewer).
+
 
 
 

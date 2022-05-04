@@ -1,5 +1,7 @@
 ---
-title: 'Add or Remove Annotations from PDF files using Java'
+title: "Add or Remove Annotations from PDF files using Java"
+seoTitle: "Add or Remove Annotations | Annotate PDF files in Java"
+description: "Programmatically add and remove annotations from PDF files in Java. Add arrow, rectangle, ellipse, highlight, watermark annotations and more using Java API."
 date: Sun, 18 Apr 2021 05:20:00 +0000
 draft: false
 url: /2021/04/18/annotate-pdf-files-using-java/

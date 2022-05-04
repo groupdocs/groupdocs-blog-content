@@ -5,8 +5,8 @@ draft: false
 url: /2018/01/12/change-text-background-color-dynamically-using-groupdocs.assembly-for-.net-17.12/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['.NET Reporting API', 'Document Generation API for .NET', 'Reporting API for .NET']
-categories: ['GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly Product Family']
+tags: ['.NET Reporting API', 'Document Generation API for .NET', 'Reporting API for .NET', 'GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases']
+categories: ['GroupDocs.Assembly Product Family']
 ---
 
 ![](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-assembly-net.png)[GroupDocs](https://www.groupdocs.com/) team is proudly announcing the monthly release of [GroupDocs.Assembly for .NET](https://products.groupdocs.com/assembly/net) API version **17.12**. Using the latest version, you can change text **background color **dynamically in word processing and email documents. You can also change **chart axis title dynamically** in word processing documents. Furthermore, you can **insert images and barcodes** dynamically in email messages (.msg) with RTF body. We recommend you to [download](https://downloads.groupdocs.com/assembly/net) and use the latest version of API.
@@ -39,6 +39,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 We observe your feedback carefully, please share your feedback about **GroupDocs.Assembly for .NET API**. We will be happy to know your thoughts and we will try to enhance your experience with the API. Just create a [forum thread](https://forum.groupdocs.com/c/assembly "Technical Support Forum") and our dedicated support team will be there to respond.
+
 
 
 

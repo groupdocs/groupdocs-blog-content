@@ -5,8 +5,8 @@ draft: false
 url: /2019/02/10/introducing-groupdocs.redaction-for-.net-an-api-to-redact-classified-content-in-documents/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Redaction API', 'Annotation redaction API', 'C# Redaction API', 'Excel', 'Metadata ‎redaction API', 'PowerPoint', 'Redact API for Excel', 'Redact API for fixed layout files', 'Redact API for PowerPoint', 'Redact documents in C# ASP.NET', 'Redact PDF files', 'Redact protected files', 'Redact Word', 'Redact Word documents', 'Redact Word Excel PowerPoint PDF', 'Redaction of protected files', 'Sanitize documents using API', 'Tabular document redaction API', 'Text redaction API']
-categories: ['GroupDocs.Redaction for .NET', 'GroupDocs.Redaction for .NET Releases', 'GroupDocs.Redaction Product Family']
+tags: ['.NET Redaction API', 'Annotation redaction API', 'C# Redaction API', 'Excel', 'Metadata ‎redaction API', 'PowerPoint', 'Redact API for Excel', 'Redact API for fixed layout files', 'Redact API for PowerPoint', 'Redact documents in C# ASP.NET', 'Redact PDF files', 'Redact protected files', 'Redact Word', 'Redact Word documents', 'Redact Word Excel PowerPoint PDF', 'Redaction of protected files', 'Sanitize documents using API', 'Tabular document redaction API', 'Text redaction API', 'GroupDocs.Redaction for .NET', 'GroupDocs.Redaction for .NET Releases']
+categories: ['GroupDocs.Redaction Product Family']
 ---
 
 ![GroupDocs.Redaction for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2019/01/groupdocs-redaction-net.png "GroupDocs.Redaction for .NET")
@@ -46,6 +46,7 @@ For a complete list of supported features, please have a look at [features overv
 *   [Product Support Forum](https://forum.groupdocs.com/c/redaction) – Technical Support Forum for GroupDocs.Redaction Product Family
 
 ## FeedbackAs always, if you have any questions or suggestions, feel free to write on our [forum](https://forum.groupdocs.com/c/redaction).
+
 
 
 

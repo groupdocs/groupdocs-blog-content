@@ -5,8 +5,8 @@ draft: false
 url: /2017/02/10/groupdocs.search-.net-17.2.0-release/
 author: 'Rida Fatima'
 summary: ''
-tags: []
-categories: ['GroupDocs.Search for .NET Releases', 'GroupDocs.Search Product Family']
+tags: ['GroupDocs.Search for .NET Releases']
+categories: ['GroupDocs.Search Product Family']
 ---
 
 [![GroupDocs.Search for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/04/groupdocs-search-net.png)](https://www.groupdocs.com/products/search/net) It gives us great pleasure to announce the monthly release of [GroupDocs.Search for .NET 17.2.0](https://www.groupdocs.com/products/search/net "GroupDocs.Search") API. We have introduced two enhancements and a new feature in this release. The API now supports multiple search features in a single search query. Another exciting feature introduced in this release is the ability to recognize queries written in a different keyboard layout. We suggest you to [download](https://downloads.groupdocs.com/search/net/new-releases/groupdocs.search-for-.net-17.02.0/) the latest API and check out all the features introduced in this release.
@@ -33,6 +33,7 @@ For further details, please visit [Features Overview](https://www.groupdocs.com/
 *   [Product Support Forum](https://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) - Technical Support Forum for GroupDocs.Search
 
 ## FeedbackIf you have any suggestions, questions, or queries related to [GroupDocs.Search API](http://www.groupdocs.com/products/search/net), we will be happy to hear from you. Just create a [forum thread](http://www.groupdocs.com/Community/forums/groupdocs.search-product-family/52/showforum.aspx) to share your thoughts.
+
 
 
 

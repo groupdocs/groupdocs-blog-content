@@ -5,8 +5,8 @@ draft: false
 url: /2018/03/30/edit-watermark-objects-in-pdf-documents-using-groupdocs.watermark-for-.net-18.3/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'document-watermark']
-categories: ['GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release', 'GroupDocs.Watermark Product Family']
+tags: ['.NET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'document-watermark', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
+categories: ['GroupDocs.Watermark Product Family']
 ---
 
 [![GroupDocs Watermark for .NET](http://blog.groupdocs.com/wp-content/uploads/sites/4/2017/05/GroupDocs-Watermark-for-.NET_.png)](https://products.groupdocs.com/watermark/net)We are really delighted to announce the release of version 18.3 of [GroupDocs.Watermark for .NET.](https://products.groupdocs.com/watermark/net) The latest version supports editing of the objects that can be considered as the watermark in **PDF** documents. Furthermore, the feature of replacing text and image for the found watermarks is also added for all the supported formats. Following are some highlighted features of version 18.3.
@@ -178,6 +178,7 @@ Here are a few channels and resources for you to download, learn, try and get te
 # Feedback
 
 As always, we would love to hear your queries and suggestions at our [forum](https://forum.groupdocs.com/c/watermark "Technical Support Forum").
+
 
 
 

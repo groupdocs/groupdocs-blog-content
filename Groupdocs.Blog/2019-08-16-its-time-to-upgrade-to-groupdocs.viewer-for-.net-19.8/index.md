@@ -5,8 +5,8 @@ draft: false
 url: /2019/08/16/its-time-to-upgrade-to-groupdocs.viewer-for-.net-19.8/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', 'CAD viewer', 'document viewer', 'Document viewer API', 'document viewer API for asp.net', 'Office Viewer', 'online document viewer', 'PDF viewer', 'render as PDF', 'word to pdf']
-categories: ['GroupDocs.Viewer for .NET Releases', 'GroupDocs.Viewer Product Family']
+tags: ['.NET document rendering API', 'CAD viewer', 'document viewer', 'Document viewer API', 'document viewer API for asp.net', 'Office Viewer', 'online document viewer', 'PDF viewer', 'render as PDF', 'word to pdf', 'GroupDocs.Viewer for .NET Releases']
+categories: ['GroupDocs.Viewer Product Family']
 ---
 
 [GroupDocs.Viewer for .NET](https://products.groupdocs.com/viewer/net) has been serving the developers in creating the document viewer applications for many years. With the efforts of our hard-working team and the support of our valuable customers, we are able to make the API stand among the top-ranked document viewer APIs. Since the Sky is the only limit, we always keep on enriching the API with more features, improving its performance, and making its usage easier for the developers. And today, I am excited to announce that we have introduced a new public API for GroupDocs.Viewer for .NET with major improvements.
@@ -38,6 +38,7 @@ Now, as a developer, it is obvious that you would think about how would you deal
 Alright! So now, its time to switch to the latest version. I would recommend you to first explore the [documentation](https://docs.groupdocs.com/viewer/net/) of the new API with the help of the source code [examples](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET/tree/master/Examples). Once you try it yourself, you will get a better idea of how useful it'll be for you to switch to the latest version. You can also consult the [release notes](https://docs.groupdocs.com/display/viewernet/GroupDocs.Viewer+for+.NET+19.8+Release+Notes) as well as the [migration notes](https://docs.groupdocs.com/viewer/net).
 
 In case you would find the migration process difficult for you, feel free to post on our [forum](https://forum.groupdocs.com/categories).
+
 
 
 
