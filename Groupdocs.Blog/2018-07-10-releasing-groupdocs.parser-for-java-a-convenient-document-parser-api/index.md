@@ -2,7 +2,10 @@
 title: 'Releasing GroupDocs.Parser for Java – A Convenient Document Parser API'
 date: Tue, 10 Jul 2018 06:22:41 +0000
 draft: false
-url: /2018/07/10/releasing-groupdocs.parser-for-java-%e2%80%93-a-convenient-document-parser-api/
+url: /2018/07/10/releasing-groupdocs.parser-for-java-a-convenient-document-parser-api/
+aliases:
+    - /2018/07/10/releasing-groupdocs.parser-for-java-–-a-convenient-document-parser-api/
+
 author: 'Usman Aziz'
 summary: ''
 tags: ['Document Parser', 'Java Text Extractor', 'Java text extractor API', 'text extractor API for Java', 'text parser', 'GroupDocs.Parser for Java', 'GroupDocs.Parser for Java Releases']

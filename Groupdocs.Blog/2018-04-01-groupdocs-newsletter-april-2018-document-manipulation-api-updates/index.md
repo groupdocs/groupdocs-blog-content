@@ -2,7 +2,9 @@
 title: 'GroupDocs Newsletter April 2018 – Document Manipulation API Updates and Code Examples'
 date: Sun, 01 Apr 2018 00:02:00 +0000
 draft: false
-url: /2018/04/01/groupdocs-newsletter-april-2018%e2%80%93document-manipulation-api-updates/
+url: /2018/04/01/groupdocs-newsletter-april-2018-document-manipulation-api-updates/
+aliases:
+    - /2018/04/01/groupdocs-newsletter-april-2018-–-document-manipulation-api-updates/
 author: 'Usman Sarfraz'
 summary: ''
 tags: ['Customer Newsletters']

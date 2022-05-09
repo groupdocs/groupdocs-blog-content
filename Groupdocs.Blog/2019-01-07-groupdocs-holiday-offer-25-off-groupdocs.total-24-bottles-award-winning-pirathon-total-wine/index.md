@@ -2,7 +2,7 @@
 title: 'GroupDocs Holiday Offer – 25% off GroupDocs.Total or 24 Bottles of Award Winning Pirathon Total Wine'
 date: Mon, 07 Jan 2019 07:00:12 +0000
 draft: false
-url: /2019/01/07/groupdocs-holiday-offer-%e2%80%93-25-off-groupdocs.total-24-bottles-award-winning-pirathon-total-wine/
+url: /2019/01/07/groupdocs-holiday-offer-25-off-groupdocs.total-24-bottles-award-winning-pirathon-total-wine/
 author: 'JohnOwens'
 summary: ''
 tags: ['Customer Newsletters']

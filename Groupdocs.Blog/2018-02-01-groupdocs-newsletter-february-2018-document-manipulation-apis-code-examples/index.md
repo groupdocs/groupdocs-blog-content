@@ -2,7 +2,9 @@
 title: 'GroupDocs Newsletter February 2018 – Document Manipulation APIs and Code Examples'
 date: Thu, 01 Feb 2018 19:53:50 +0000
 draft: false
-url: /2018/02/01/groupdocs-newsletter-february-2018-%e2%80%93-document-manipulation-apis-code-examples/
+url: /2018/02/01/groupdocs-newsletter-february-2018-document-manipulation-apis-code-examples/
+aliases:
+    - /2018/02/01/groupdocs-newsletter-february-2018-–-document-manipulation-apis-code-examples/
 author: 'Usman Sarfraz'
 summary: ''
 tags: ['Customer Newsletters']

@@ -2,7 +2,9 @@
 title: 'Updates to GroupDocs Privacy Policy – GroupDocs Newsletter June 2018'
 date: Fri, 01 Jun 2018 15:51:13 +0000
 draft: false
-url: /2018/06/01/updates-to-groupdocs-privacy-policy-%e2%80%93-groupdocs-newsletter-june-2018/
+url: /2018/06/01/updates-to-groupdocs-privacy-policy-groupdocs-newsletter-june-2018/
+aliases:
+    - /2018/06/01/updates-to-groupdocs-privacy-policy-–-groupdocs-newsletter-june-2018/
 author: 'Usman Sarfraz'
 summary: ''
 tags: ['Customer Newsletters']

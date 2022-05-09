@@ -2,7 +2,9 @@
 title: 'Celebrate New Year with 25% Off GroupDocs.Total APIs – GroupDocs Newsletter January 2018'
 date: Mon, 01 Jan 2018 15:35:17 +0000
 draft: false
-url: /2018/01/01/celebrate-new-year-25-off-groupdocs.total-apis-%e2%80%93-groupdocs-newsletter-january-2018/
+url: /2018/01/01/celebrate-new-year-25-off-groupdocs.total-apis-groupdocs-newsletter-january-2018/
+aliases:
+    - /2018/01/01/celebrate-new-year-25-off-groupdocs.total-apis-–-groupdocs-newsletter-january-2018/
 author: 'Usman Sarfraz'
 summary: ''
 tags: ['Customer Newsletters']

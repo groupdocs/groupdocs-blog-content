@@ -2,7 +2,9 @@
 title: 'GroupDocs Newsletter May 2018 – Document Manipulation APIs for Business Applications Development'
 date: Tue, 01 May 2018 11:59:12 +0000
 draft: false
-url: /2018/05/01/groupdocs-newsletter-may-2018-–-document-manipulation-apis-for-business-apps-development/
+url: /2018/05/01/groupdocs-newsletter-may-2018-document-manipulation-apis-for-business-apps-development/
+aliases:
+    - /2018/05/01/groupdocs-newsletter-may-2018-–-document-manipulation-apis-for-business-apps-development/
 author: 'Usman Sarfraz'
 summary: ''
 tags: ['Customer Newsletters']
