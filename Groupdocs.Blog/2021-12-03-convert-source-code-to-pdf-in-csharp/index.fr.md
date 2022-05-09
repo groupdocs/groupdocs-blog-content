@@ -6,7 +6,7 @@ url: /fr/2021/12/03/convert-source-code-to-pdf-in-csharp/
 aliases:
 - /2019/06/28/create-your-source-code-viewer-using-groupdocs.viewer-for-.net-19.6/
 author: 'Shoaib Khan'
-summary: "Vous devez parfois convertir les fichiers de code source dans d'autres formats. Cela peut être à des fins de partage ou d'analyse. Cet article explique **comment convertir les fichiers de code source Python**, PHP, Java, C#, C/C++ **au format PDF** dans les applications .NET. De plus, nous protégerons par programme par mot de passe les fichiers convertis."
+summary: "Vous devez parfois convertir les fichiers de code source dans d'autres formats. Cela peut être à des fins de partage ou d'analyse. Cet article explique **comment convertir les fichiers de code source Python, PHP, Java, C#, C/C++ au format PDF** dans les applications .NET. De plus, nous protégerons par programme par mot de passe les fichiers convertis."
 tags: ['Convert Source Code to PDF in CSharp', 'document rendering API', 'Java to PDF', 'PHP to PDF', 'Python Code to PDF', 'Source Code to PDF', 'source code viewer']
 categories: ['GroupDocs.Viewer Product Family']
 ---
@@ -16,7 +16,7 @@ categories: ['GroupDocs.Viewer Product Family']
 {{< figure align=center src="images/convert-source-code-to-pdf-in-csharp.jpg" alt="Convertir le code source en PDF à l'aide de C#">}}
 
 
-Vous devez parfois convertir les fichiers de code source dans d'autres formats. Cela peut être à des fins de partage ou d'analyse. Cet article explique **comment convertir les fichiers de code source Python**, PHP, Java, C#, C/C++** au format PDF** dans les applications .NET. De plus, nous protégerons par programme par mot de passe les fichiers convertis.
+Vous devez parfois convertir les fichiers de code source dans d'autres formats. Cela peut être à des fins de partage ou d'analyse. Cet article explique **comment convertir les fichiers de code source Python, PHP, Java, C#, C/C++ au format PDF** dans les applications .NET. De plus, nous protégerons par programme par mot de passe les fichiers convertis.
 
 * [API .NET de conversion de code source][1]
 * [Java vers PDF en utilisant C#][2]
