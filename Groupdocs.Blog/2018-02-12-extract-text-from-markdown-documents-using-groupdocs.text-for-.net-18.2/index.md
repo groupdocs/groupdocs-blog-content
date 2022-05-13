@@ -5,7 +5,7 @@ draft: false
 url: /2018/02/12/extract-text-from-markdown-documents-using-groupdocs.text-for-.net-18.2/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'GroupDocs.Text for .NET Releases', 'Text Extraction API for .NET']
+tags: ['dotNET Text Extractor', 'GroupDocs.Text for .NET Releases', 'Text Extraction API for .NET']
 categories: ['GroupDocs.Parser Product Family']
 ---
 

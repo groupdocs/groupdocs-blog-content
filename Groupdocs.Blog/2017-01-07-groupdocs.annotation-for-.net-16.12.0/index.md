@@ -5,7 +5,7 @@ draft: false
 url: /2017/01/07/groupdocs.annotation-for-.net-16.12.0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.net library', 'annotate PDF', 'Annotation for .NET Library', 'Area Annotation', 'document collaboration', 'document management', 'Image Annotation', 'Text Annotation', 'watermarking']
+tags: ['dotNET library', 'annotate PDF', 'Annotation for .NET Library', 'Area Annotation', 'document collaboration', 'document management', 'Image Annotation', 'Text Annotation', 'watermarking']
 categories: ['GroupDocs.Annotation Product Family']
 ---
 

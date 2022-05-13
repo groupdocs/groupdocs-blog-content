@@ -5,7 +5,7 @@ draft: false
 url: /2015/04/10/display-pdf-microsoft-office-and-other-document-types-on-your-kentico-site/
 author: 'Stanislav Tatarin'
 summary: ''
-tags: ['.net library', 'kentico', 'zArchive']
+tags: ['dotNET library', 'kentico', 'zArchive']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

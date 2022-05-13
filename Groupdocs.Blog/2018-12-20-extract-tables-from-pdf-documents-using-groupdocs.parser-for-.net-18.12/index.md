@@ -5,7 +5,7 @@ draft: false
 url: /2018/12/20/extract-tables-from-pdf-documents-using-groupdocs.parser-for-.net-18.12/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'Document Parser', 'metadata extractor', 'text analysis API', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
+tags: ['dotNET Text Extractor', 'Document Parser', 'metadata extractor', 'text analysis API', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
 categories: ['GroupDocs.Parser Product Family']
 ---
 

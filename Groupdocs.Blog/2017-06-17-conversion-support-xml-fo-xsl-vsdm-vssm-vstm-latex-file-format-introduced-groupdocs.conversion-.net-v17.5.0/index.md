@@ -5,7 +5,7 @@ draft: false
 url: /2017/06/17/conversion-support-xml-fo-xsl-vsdm-vssm-vstm-latex-file-format-introduced-groupdocs.conversion-.net-v17.5.0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET API', 'Cells', 'document conversion', 'GroupDocs Conversion for .NET', 'HTML', 'Improved', 'LATEX', 'PDF', 'Performance', 'VSDM', 'VSSM', 'VSTM', 'XML-FO', 'XSL', 'Zoom Option']
+tags: ['dotNET API', 'Cells', 'document conversion', 'GroupDocs Conversion for .NET', 'HTML', 'Improved', 'LATEX', 'PDF', 'Performance', 'VSDM', 'VSSM', 'VSTM', 'XML-FO', 'XSL', 'Zoom Option']
 categories: ['GroupDocs.Conversion Product Family']
 ---
 

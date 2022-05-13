@@ -5,7 +5,7 @@ draft: false
 url: /2017/01/19/groupdocs.comparison-.net-mvc-based-front-end/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.net library', 'API', 'document management', 'GroupDocs Comparison', 'GroupDocs Viewer', 'viewer for .net library']
+tags: ['dotNET library', 'API', 'document management', 'GroupDocs Comparison', 'GroupDocs Viewer', 'viewer for .net library']
 categories: ['GroupDocs.Total Product Family']
 ---
 

@@ -5,7 +5,7 @@ draft: false
 url: /2018/04/15/render-print-area-in-worksheets-groupdocs.viewer-for-.net-18.4/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', '.net document viewer API', 'asp.net document viewer API', 'C# document viewer API', 'document rendering API', 'document viewer', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document rendering API', 'dotNET document viewer API', 'asp.net document viewer API', 'C# document viewer API', 'document rendering API', 'document viewer', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

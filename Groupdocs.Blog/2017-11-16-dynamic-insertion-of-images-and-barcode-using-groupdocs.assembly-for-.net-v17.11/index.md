@@ -5,7 +5,7 @@ draft: false
 url: /2017/11/16/dynamic-insertion-of-images-and-barcode-using-groupdocs.assembly-for-.net-v17.11/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['.NET Reporting API', 'Document Generation API for .NET', 'Report Generation API for .NET', 'Reporting API for .NET', 'GroupDocs.Assembly for .NET']
+tags: ['dotNET Reporting API', 'Document Generation API for .NET', 'Report Generation API for .NET', 'Reporting API for .NET', 'GroupDocs.Assembly for .NET']
 categories: ['GroupDocs.Assembly Product Family']
 ---
 

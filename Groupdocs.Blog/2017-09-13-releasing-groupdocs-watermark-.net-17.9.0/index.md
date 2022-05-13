@@ -5,7 +5,7 @@ draft: false
 url: /2017/09/13/releasing-groupdocs-watermark-.net-17.9.0/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'Document Watermarking', 'watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET Release']
+tags: ['dotNET Watermarking API', 'Document Watermarking', 'watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET Release']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

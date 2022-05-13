@@ -5,7 +5,7 @@ draft: false
 url: /2018/03/29/extract-formatted-text-from-chm-documents-using-groupdocs.text-for-.net-18.3/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'Extract Text', 'GroupDocs.Text for .NET Releases', 'Text Extraction API for .NET', 'Text Extractor']
+tags: ['dotNET Text Extractor', 'Extract Text', 'GroupDocs.Text for .NET Releases', 'Text Extraction API for .NET', 'Text Extractor']
 categories: ['GroupDocs.Parser Product Family']
 ---
 

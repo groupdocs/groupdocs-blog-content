@@ -5,7 +5,7 @@ draft: false
 url: /2017/03/08/groupdocs.viewer-.net-17.2.0/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.net document viewer API', 'online document viewer', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document viewer API', 'online document viewer', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

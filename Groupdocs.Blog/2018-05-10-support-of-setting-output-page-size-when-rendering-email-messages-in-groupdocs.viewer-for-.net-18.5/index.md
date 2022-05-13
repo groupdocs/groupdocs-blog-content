@@ -5,7 +5,7 @@ draft: false
 url: /2018/05/10/support-of-setting-output-page-size-when-rendering-email-messages-in-groupdocs.viewer-for-.net-18.5/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', '.net document viewer API', 'asp.net document viewer API', 'C# document viewer API', 'document rendering API', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document rendering API', 'dotNET document viewer API', 'asp.net document viewer API', 'C# document viewer API', 'document rendering API', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

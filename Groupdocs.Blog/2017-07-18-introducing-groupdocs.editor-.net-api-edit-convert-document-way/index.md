@@ -5,7 +5,7 @@ draft: false
 url: /2017/07/18/introducing-groupdocs.editor-.net-api-edit-convert-document-way/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET', '.NET API', 'document conversion', 'Document Editing API', 'HTML Editor', 'Words']
+tags: ['dotNET', 'dotNET API', 'document conversion', 'Document Editing API', 'HTML Editor', 'Words']
 categories: ['GroupDocs.Editor Product Family']
 ---
 

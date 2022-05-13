@@ -5,7 +5,7 @@ draft: false
 url: /2016/11/25/asp-net-mvc-front-end-enhancements-fixes-improvements/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document viewer application', '.NET MVC document viewer', 'online document viewer']
+tags: ['dotNET document viewer application', 'dotNET MVC document viewer', 'online document viewer']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

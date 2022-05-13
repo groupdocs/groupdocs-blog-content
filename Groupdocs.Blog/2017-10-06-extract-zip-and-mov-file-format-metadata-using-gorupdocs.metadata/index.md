@@ -5,7 +5,7 @@ draft: false
 url: /2017/10/06/extract-zip-and-mov-file-format-metadata-using-gorupdocs.metadata/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['.NET API', 'GroupDocs.Metadata for .NET']
+tags: ['dotNET API', 'GroupDocs.Metadata for .NET']
 categories: ['GroupDocs.Metadata Product Family']
 ---
 

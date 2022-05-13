@@ -5,7 +5,7 @@ draft: false
 url: /2017/01/31/groupdocs.viewer-supports-partial-rendering-of-excel-sheets/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.net document viewer API', 'document viewer for .net', 'online document viewer', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document viewer API', 'document viewer for .net', 'online document viewer', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

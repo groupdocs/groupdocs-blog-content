@@ -5,7 +5,7 @@ draft: false
 url: /2015/02/17/add-microsoft-office-files-pdf-and-image-annotation-functionality-to-concrete5-website/
 author: 'Derek Hyland'
 summary: ''
-tags: ['.net library', 'concrete5', 'zArchive']
+tags: ['dotNET library', 'concrete5', 'zArchive']
 categories: ['GroupDocs.Annotation Product Family']
 ---
 

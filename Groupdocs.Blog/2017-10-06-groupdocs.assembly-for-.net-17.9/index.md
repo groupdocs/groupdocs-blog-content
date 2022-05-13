@@ -5,7 +5,7 @@ draft: false
 url: /2017/10/06/groupdocs.assembly-for-.net-17.9/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET', '.NET API', 'API', 'Email', 'Enhanced Support', 'Fixes', 'GroupDocs', 'HTML', 'MHTML', 'MSG', 'RTF']
+tags: ['dotNET', 'dotNET API', 'API', 'Email', 'Enhanced Support', 'Fixes', 'GroupDocs', 'HTML', 'MHTML', 'MSG', 'RTF']
 categories: ['GroupDocs.Assembly Product Family']
 ---
 

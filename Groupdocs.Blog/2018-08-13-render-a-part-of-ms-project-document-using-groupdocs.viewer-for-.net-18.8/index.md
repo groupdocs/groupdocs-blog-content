@@ -5,7 +5,7 @@ draft: false
 url: /2018/08/13/render-a-part-of-ms-project-document-using-groupdocs.viewer-for-.net-18.8/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', '.net document viewer API', 'asp.net document viewer API', 'C# document viewer API', 'document viewer API for .net', 'GroupDocs.Viewer', 'GroupDocs.Viewer for .NET', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document rendering API', 'dotNET document viewer API', 'asp.net document viewer API', 'C# document viewer API', 'document viewer API for .net', 'GroupDocs.Viewer', 'GroupDocs.Viewer for .NET', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

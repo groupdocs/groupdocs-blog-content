@@ -5,7 +5,7 @@ draft: false
 url: /zh/2021/07/27/watermark-pdf-files-using-csharp/
 author: 'Shoaib Khan'
 summary: "为了保护您的文件免遭任何非法使用或为您的文档应用品牌，可以使用水印。在本文中，您将学习使用 C# 以编程方式将水印添加到 PDF 文件。我们将分别研究添加水印文本和图像水印。"
-tags: ['.NET Watermarking API', 'Image Watermark in C#', 'Watermark in C#', 'Watermark PDF in C#', 'Watermark Text in C#']
+tags: ['dotNET Watermarking API', 'Image Watermark in C#', 'Watermark in C#', 'Watermark PDF in C#', 'Watermark Text in C#']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

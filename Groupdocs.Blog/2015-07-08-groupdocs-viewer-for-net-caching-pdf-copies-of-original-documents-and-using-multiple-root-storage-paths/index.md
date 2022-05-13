@@ -5,7 +5,7 @@ draft: false
 url: /2015/07/08/groupdocs-viewer-for-net-caching-pdf-copies-of-original-documents-and-using-multiple-root-storage-paths/
 author: 'Stanislav Tatarin'
 summary: ''
-tags: ['.net library', 'release notes', 'zArchive']
+tags: ['dotNET library', 'release notes', 'zArchive']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

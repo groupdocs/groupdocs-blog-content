@@ -5,7 +5,7 @@ draft: false
 url: /2019/02/07/dynamic-merging-of-table-cells-in-groupdocs.assembly-for-.net-19.1/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Reporting API', 'Dynamic Report Generation', 'Report Generation API for .NET', 'Reporting API for .NET', 'GroupDocs.Assembly for .NET Releases']
+tags: ['dotNET Reporting API', 'Dynamic Report Generation', 'Report Generation API for .NET', 'Reporting API for .NET', 'GroupDocs.Assembly for .NET Releases']
 categories: ['GroupDocs.Assembly Product Family']
 ---
 

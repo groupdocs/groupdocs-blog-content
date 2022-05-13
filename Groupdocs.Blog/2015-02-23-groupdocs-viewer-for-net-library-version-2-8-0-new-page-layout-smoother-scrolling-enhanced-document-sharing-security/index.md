@@ -5,7 +5,7 @@ draft: false
 url: /2015/02/23/groupdocs-viewer-for-net-library-version-2-8-0-new-page-layout-smoother-scrolling-enhanced-document-sharing-security/
 author: 'Denis Gvardionov'
 summary: ''
-tags: ['.net library', 'release notes', 'zArchive']
+tags: ['dotNET library', 'release notes', 'zArchive']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

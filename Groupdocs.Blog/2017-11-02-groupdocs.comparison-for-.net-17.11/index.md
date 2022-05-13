@@ -5,7 +5,7 @@ draft: false
 url: /2017/11/02/groupdocs.comparison-for-.net-17.11/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET', '.NET API', 'Comparison', 'Document Manipulation', 'PDF Structure']
+tags: ['dotNET', 'dotNET API', 'Comparison', 'Document Manipulation', 'PDF Structure']
 categories: ['GroupDocs.Comparison Product Family']
 ---
 

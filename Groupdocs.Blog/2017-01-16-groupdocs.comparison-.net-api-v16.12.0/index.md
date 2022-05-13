@@ -5,7 +5,7 @@ draft: false
 url: /2017/01/16/groupdocs.comparison-.net-api-v16.12.0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.net library', 'compare documents', 'Compare PDF', 'document management', 'GroupDocs Comparison', 'Shapes', 'Spreadsheet Comparison', 'Text', 'Text Style', 'Watermark', 'GroupDocs.Comparison for .NET Releases']
+tags: ['dotNET library', 'compare documents', 'Compare PDF', 'document management', 'GroupDocs Comparison', 'Shapes', 'Spreadsheet Comparison', 'Text', 'Text Style', 'Watermark', 'GroupDocs.Comparison for .NET Releases']
 categories: ['GroupDocs.Comparison Product Family']
 ---
 

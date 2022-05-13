@@ -5,7 +5,7 @@ draft: false
 url: /2015/05/08/complete-guide-for-developing-a-groupdocs-viewer-for-net-plugin-for-kentico-cms/
 author: 'Denis Gvardionov'
 summary: ''
-tags: ['.net library', 'kentico', 'zArchive']
+tags: ['dotNET library', 'kentico', 'zArchive']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

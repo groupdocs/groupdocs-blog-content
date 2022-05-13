@@ -5,7 +5,7 @@ draft: false
 url: /2018/03/30/edit-watermark-objects-in-pdf-documents-using-groupdocs.watermark-for-.net-18.3/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'document-watermark', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
+tags: ['dotNET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'document-watermark', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

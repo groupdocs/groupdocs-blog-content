@@ -5,7 +5,7 @@ draft: false
 url: /2018/07/10/extract-text-areas-from-document-pages-using-groupdocs.parser-for-.net-18.7/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'Document Parser', 'Extract Text', 'Text Extraction API for .NET', 'Text extractor API', 'text parser', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
+tags: ['dotNET Text Extractor', 'Document Parser', 'Extract Text', 'Text Extraction API for .NET', 'Text extractor API', 'text parser', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
 categories: ['GroupDocs.Parser Product Family']
 ---
 

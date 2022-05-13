@@ -5,7 +5,7 @@ draft: false
 url: /2018/05/30/groupdocs.text-for-.net-has-been-renamed-to-groupdocs.parser-for-.net/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'Dcoument Parsing API', 'Document Parser', 'Text Extraction API for .NET', 'Text Extractor', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
+tags: ['dotNET Text Extractor', 'Dcoument Parsing API', 'Document Parser', 'Text Extraction API for .NET', 'Text Extractor', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
 categories: ['GroupDocs.Parser Product Family']
 ---
 

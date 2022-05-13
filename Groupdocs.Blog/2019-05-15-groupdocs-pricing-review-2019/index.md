@@ -5,7 +5,7 @@ draft: false
 url: /2019/05/15/groupdocs-pricing-review-2019/
 author: 'JohnOwens'
 summary: ''
-tags: ['.NET Document Viewer', 'Business', 'GroupDocs Pricing Update', 'News Release']
+tags: ['dotNET Document Viewer', 'Business', 'GroupDocs Pricing Update', 'News Release']
 ---
 
 In this post, we share how we conducted our 2019 GroupDocs Pricing Review.

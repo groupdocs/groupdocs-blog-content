@@ -5,7 +5,7 @@ draft: false
 url: /2017/11/14/working-with-email-messages-using-groupdocs.watermark-for-.net-17.11/
 author: 'Zeeshan Shafqat'
 summary: ''
-tags: ['.NET Watermarking API', 'Watermark', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
+tags: ['dotNET Watermarking API', 'Watermark', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

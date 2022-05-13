@@ -5,7 +5,7 @@ draft: false
 url: /2018/01/17/edit-watermark-objects-in-powerpoint-and-visio-documents-using-groupdocs.watermark-for-.net-18.1/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET API', '.NET Watermarking API', 'Document Watermarking', 'watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET Release']
+tags: ['dotNET API', 'dotNET Watermarking API', 'Document Watermarking', 'watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET Release']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

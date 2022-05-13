@@ -5,7 +5,7 @@ draft: false
 url: /2018/11/06/render-tsv-and-pcl-formats-using-groupdocs.viewer-for-.net-18.11/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.net document viewer API', 'asp.net document viewer API', 'document viewer', 'Document Viewer API C#', 'PDF viewer', 'GroupDocs.Viewer for .NET', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document viewer API', 'asp.net document viewer API', 'document viewer', 'Document Viewer API C#', 'PDF viewer', 'GroupDocs.Viewer for .NET', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

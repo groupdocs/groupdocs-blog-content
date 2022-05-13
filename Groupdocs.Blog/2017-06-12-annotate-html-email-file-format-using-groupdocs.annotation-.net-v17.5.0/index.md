@@ -5,7 +5,7 @@ draft: false
 url: /2017/06/12/annotate-html-email-file-format-using-groupdocs.annotation-.net-v17.5.0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.net library', 'Annotation for .NET Library', 'Email Annotation', 'HTML Annotation']
+tags: ['dotNET library', 'Annotation for .NET Library', 'Email Annotation', 'HTML Annotation']
 categories: ['GroupDocs.Annotation Product Family']
 ---
 

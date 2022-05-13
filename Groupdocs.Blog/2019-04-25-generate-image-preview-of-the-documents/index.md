@@ -5,7 +5,7 @@ draft: false
 url: /2019/04/25/generate-image-preview-of-the-documents/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET API', 'document preview', 'document-metadata', 'file preview', 'Image preview', 'Java API', 'render document preview', 'GroupDocs.Metadata']
+tags: ['dotNET API', 'document preview', 'document-metadata', 'file preview', 'Image preview', 'Java API', 'render document preview', 'GroupDocs.Metadata']
 categories: ['GroupDocs.Metadata Product Family']
 ---
 

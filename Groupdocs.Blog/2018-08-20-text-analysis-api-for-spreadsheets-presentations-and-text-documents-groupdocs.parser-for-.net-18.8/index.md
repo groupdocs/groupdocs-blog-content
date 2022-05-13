@@ -5,7 +5,7 @@ draft: false
 url: /2018/08/20/text-analysis-api-for-spreadsheets-presentations-and-text-documents-groupdocs.parser-for-.net-18.8/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'Dcoument Parsing API', 'Document Parser', 'Text Extraction API for .NET', 'GroupDocs.Parser for .NET Releases']
+tags: ['dotNET Text Extractor', 'Dcoument Parsing API', 'Document Parser', 'Text Extraction API for .NET', 'GroupDocs.Parser for .NET Releases']
 categories: ['GroupDocs.Parser Product Family']
 ---
 

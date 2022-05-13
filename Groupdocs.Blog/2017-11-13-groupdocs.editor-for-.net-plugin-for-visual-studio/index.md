@@ -5,7 +5,7 @@ draft: false
 url: /2017/11/13/groupdocs.editor-for-.net-plugin-for-visual-studio/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET API', 'Document Editing API', 'plugin', 'Visual Studio Plugin', 'GroupDocs.Editor']
+tags: ['dotNET API', 'Document Editing API', 'plugin', 'Visual Studio Plugin', 'GroupDocs.Editor']
 categories: ['GroupDocs.Editor Product Family']
 ---
 

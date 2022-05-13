@@ -5,7 +5,7 @@ draft: false
 url: /2015/06/08/protect-your-documents-with-watermarks-in-groupdocs-viewer-for-dot-net/
 author: 'Denis Gvardionov'
 summary: ''
-tags: ['.net library', 'watermarking', 'zArchive']
+tags: ['dotNET library', 'watermarking', 'zArchive']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

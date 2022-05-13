@@ -5,7 +5,7 @@ draft: false
 url: /2019/11/07/support-of-net-standard-and-net-core-in-groupdocs-viewer-for-net/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Standard 2.0', 'API', 'document viewer API for .net', 'dotnet', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET Standard 2.0', 'API', 'document viewer API for .net', 'dotnet', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

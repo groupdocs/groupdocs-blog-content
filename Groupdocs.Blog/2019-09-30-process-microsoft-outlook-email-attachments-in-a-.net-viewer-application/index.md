@@ -5,7 +5,7 @@ draft: false
 url: /2019/09/30/process-microsoft-outlook-email-attachments-in-a-.net-viewer-application/
 author: 'Muhammad Umar'
 summary: ''
-tags: ['.NET', '.NET API', 'ASP.NET', 'Attachment', 'C#', 'Email', 'GroupDocs Viewer', 'Microsoft Outlook', 'MS Outlook']
+tags: ['dotNET', 'dotNET API', 'ASP.NET', 'Attachment', 'C#', 'Email', 'GroupDocs Viewer', 'Microsoft Outlook', 'MS Outlook']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

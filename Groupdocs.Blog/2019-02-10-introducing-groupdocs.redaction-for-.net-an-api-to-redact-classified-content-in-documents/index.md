@@ -5,7 +5,7 @@ draft: false
 url: /2019/02/10/introducing-groupdocs.redaction-for-.net-an-api-to-redact-classified-content-in-documents/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Redaction API', 'Annotation redaction API', 'C# Redaction API', 'Excel', 'Metadata ‎redaction API', 'PowerPoint', 'Redact API for Excel', 'Redact API for fixed layout files', 'Redact API for PowerPoint', 'Redact documents in C# ASP.NET', 'Redact PDF files', 'Redact protected files', 'Redact Word', 'Redact Word documents', 'Redact Word Excel PowerPoint PDF', 'Redaction of protected files', 'Sanitize documents using API', 'Tabular document redaction API', 'Text redaction API', 'GroupDocs.Redaction for .NET', 'GroupDocs.Redaction for .NET Releases']
+tags: ['dotNET Redaction API', 'Annotation redaction API', 'C# Redaction API', 'Excel', 'Metadata ‎redaction API', 'PowerPoint', 'Redact API for Excel', 'Redact API for fixed layout files', 'Redact API for PowerPoint', 'Redact documents in C# ASP.NET', 'Redact PDF files', 'Redact protected files', 'Redact Word', 'Redact Word documents', 'Redact Word Excel PowerPoint PDF', 'Redaction of protected files', 'Sanitize documents using API', 'Tabular document redaction API', 'Text redaction API', 'GroupDocs.Redaction for .NET', 'GroupDocs.Redaction for .NET Releases']
 categories: ['GroupDocs.Redaction Product Family']
 ---
 

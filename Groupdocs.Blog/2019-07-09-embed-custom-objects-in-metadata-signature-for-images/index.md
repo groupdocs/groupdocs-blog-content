@@ -5,7 +5,7 @@ draft: false
 url: /2019/07/09/embed-custom-objects-in-metadata-signature-for-images/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET', '.NET API', 'Custom Metadata', 'digital document signature', 'digital signature', 'e-signature', 'electronic signature', 'Embed Custom Objects', 'Encrypted Metadata Signature', 'Metadata signature', 'GroupDocs.Signature for .NET']
+tags: ['dotNET', 'dotNET API', 'Custom Metadata', 'digital document signature', 'digital signature', 'e-signature', 'electronic signature', 'Embed Custom Objects', 'Encrypted Metadata Signature', 'Metadata signature', 'GroupDocs.Signature for .NET']
 categories: ['GroupDocs.Signature Product Family']
 ---
 

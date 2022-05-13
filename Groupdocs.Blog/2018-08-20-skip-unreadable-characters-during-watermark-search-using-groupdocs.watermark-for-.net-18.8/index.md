@@ -5,7 +5,7 @@ draft: false
 url: /2018/08/20/skip-unreadable-characters-during-watermark-search-using-groupdocs.watermark-for-.net-18.8/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'Document Watermarking', 'Watermarking API C#', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
+tags: ['dotNET Watermarking API', 'Document Watermarking', 'Watermarking API C#', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

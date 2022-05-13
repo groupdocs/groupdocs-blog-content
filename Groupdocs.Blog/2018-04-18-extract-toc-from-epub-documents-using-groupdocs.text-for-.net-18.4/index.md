@@ -5,7 +5,7 @@ draft: false
 url: /2018/04/18/extract-toc-from-epub-documents-using-groupdocs.text-for-.net-18.4/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'Extract Text', 'GroupDocs.Text for .NET Releases', 'Text Extraction API for .NET', 'Text Extractor']
+tags: ['dotNET Text Extractor', 'Extract Text', 'GroupDocs.Text for .NET Releases', 'Text Extraction API for .NET', 'Text Extractor']
 categories: ['GroupDocs.Parser Product Family']
 ---
 

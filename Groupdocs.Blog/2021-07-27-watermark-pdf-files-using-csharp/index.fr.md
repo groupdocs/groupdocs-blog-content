@@ -5,7 +5,7 @@ draft: false
 url: /fr/2021/07/27/watermark-pdf-files-using-csharp/
 author: 'Shoaib Khan'
 summary: "Pour protéger vos fichiers de toute utilisation illégale ou pour apposer une image de marque sur vos documents, des filigranes peuvent être utilisés . Dans cet article, vous apprendrez à ajouter par programme les filigranes aux fichiers PDF à l'aide de C#. Nous examinerons séparément l'ajout de filigranes de texte et d'image en filigrane."
-tags: ['.NET Watermarking API', 'Image Watermark in C#', 'Watermark in C#', 'Watermark PDF in C#', 'Watermark Text in C#']
+tags: ['dotNET Watermarking API', 'Image Watermark in C#', 'Watermark in C#', 'Watermark PDF in C#', 'Watermark Text in C#']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

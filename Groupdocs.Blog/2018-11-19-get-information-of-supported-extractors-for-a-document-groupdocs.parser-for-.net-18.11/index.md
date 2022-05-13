@@ -5,7 +5,7 @@ draft: false
 url: /2018/11/19/get-information-of-supported-extractors-for-a-document-groupdocs.parser-for-.net-18.11/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'Document Parser', 'document parsing API', 'document text extraction', 'text parser', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
+tags: ['dotNET Text Extractor', 'Document Parser', 'document parsing API', 'document text extraction', 'text parser', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
 categories: ['GroupDocs.Parser Product Family']
 ---
 

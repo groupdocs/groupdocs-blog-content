@@ -5,7 +5,7 @@ draft: false
 url: /2017/05/23/introducing-groupdocs.watermark-.net-watermarking-api/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'Document Watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET Release']
+tags: ['dotNET Watermarking API', 'Document Watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET Release']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

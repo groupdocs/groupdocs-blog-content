@@ -5,7 +5,7 @@ draft: false
 url: /2017/09/29/groupdocs.editor-for-.net-v17.9.0-api/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET', '.NET API', 'API', 'Document Editing API', 'GroupDocs']
+tags: ['dotNET', 'dotNET API', 'API', 'Document Editing API', 'GroupDocs']
 categories: ['GroupDocs.Editor Product Family']
 ---
 

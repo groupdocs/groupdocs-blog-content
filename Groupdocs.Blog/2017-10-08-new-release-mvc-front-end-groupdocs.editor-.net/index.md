@@ -5,7 +5,7 @@ draft: false
 url: /2017/10/08/new-release-mvc-front-end-groupdocs.editor-.net/
 author: 'Zeeshan Shafqat'
 summary: ''
-tags: ['.NET', 'Bootstrap', 'HTML Editor', 'Modern Front End', 'MVC', 'Visual Studio 2015', 'WYSIWYG']
+tags: ['dotNET', 'Bootstrap', 'HTML Editor', 'Modern Front End', 'MVC', 'Visual Studio 2015', 'WYSIWYG']
 categories: ['GroupDocs.Editor Product Family']
 ---
 

@@ -5,7 +5,7 @@ draft: false
 url: /2018/06/12/tiled-rendering-of-cad-documents-using-groupdocs.viewer-for-.net-18.6/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', '.net document viewer API', 'C# document viewer API', 'document viewer', 'Document viewer API', 'PDF viewer', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document rendering API', 'dotNET document viewer API', 'C# document viewer API', 'document viewer', 'Document viewer API', 'PDF viewer', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

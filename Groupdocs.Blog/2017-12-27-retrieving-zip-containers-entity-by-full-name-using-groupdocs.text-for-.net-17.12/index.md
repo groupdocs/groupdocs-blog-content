@@ -5,7 +5,7 @@ draft: false
 url: /2017/12/27/retrieving-zip-containers-entity-by-full-name-using-groupdocs.text-for-.net-17.12/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'GroupDocs.Text for .NET Releases', 'Text Extraction API for .NET']
+tags: ['dotNET Text Extractor', 'GroupDocs.Text for .NET Releases', 'Text Extraction API for .NET']
 categories: ['GroupDocs.Parser Product Family']
 ---
 

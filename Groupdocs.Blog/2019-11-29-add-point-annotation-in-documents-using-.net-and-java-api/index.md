@@ -5,7 +5,7 @@ draft: false
 url: /2019/11/29/add-point-annotation-in-documents-using-.net-and-java-api/
 author: 'Samicheema'
 summary: ''
-tags: ['.NET', 'Annotation', 'API', 'Arrow', 'Backend-API', 'C#', 'Cells', 'CSharp', 'Diagrams', 'Email', 'HTML', 'Images', 'java', 'OpenDocument', 'Password Protected', 'Password Protected Document', 'PDF', 'PDF Document', 'Point', 'Presentation', 'Slides', 'Spreadsheet', 'Word Processing', 'Words', 'GroupDocs.Annotation', 'GroupDocs.Annotation for .NET', 'GroupDocs.Annotation for Java']
+tags: ['dotNET', 'Annotation', 'API', 'Arrow', 'Backend-API', 'C#', 'Cells', 'CSharp', 'Diagrams', 'Email', 'HTML', 'Images', 'java', 'OpenDocument', 'Password Protected', 'Password Protected Document', 'PDF', 'PDF Document', 'Point', 'Presentation', 'Slides', 'Spreadsheet', 'Word Processing', 'Words', 'GroupDocs.Annotation', 'GroupDocs.Annotation for .NET', 'GroupDocs.Annotation for Java']
 categories: ['GroupDocs.Annotation Product Family']
 ---
 

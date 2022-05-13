@@ -5,7 +5,7 @@ draft: false
 url: /2018/06/29/lock-watermark-in-word-documents-groupdocs.watermark-for-.net-18.6/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'lock watermark in word', 'lock watermark in word document', 'Watermark', 'watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
+tags: ['dotNET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'lock watermark in word', 'lock watermark in word document', 'Watermark', 'watermarking', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET', 'GroupDocs.Watermark for .NET Release']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

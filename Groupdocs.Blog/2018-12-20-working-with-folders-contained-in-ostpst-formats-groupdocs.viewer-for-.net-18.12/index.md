@@ -5,7 +5,7 @@ draft: false
 url: /2018/12/20/working-with-folders-contained-in-ostpst-formats-groupdocs.viewer-for-.net-18.12/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.net document viewer API', '.net pdf viewer', 'asp.net document viewer API', 'asp.net pdf viewer', 'C# document viewer API', 'GroupDocs.Viewer for .NET', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document viewer API', 'dotNET pdf viewer', 'asp.net document viewer API', 'asp.net pdf viewer', 'C# document viewer API', 'GroupDocs.Viewer for .NET', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

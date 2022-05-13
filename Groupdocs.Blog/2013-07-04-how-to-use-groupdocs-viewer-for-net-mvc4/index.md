@@ -5,7 +5,7 @@ draft: false
 url: /2013/07/04/how-to-use-groupdocs-viewer-for-net-mvc4/
 author: 'Derek Hyland'
 summary: ''
-tags: ['.NET', '.NET MVC4', 'document viewer', 'GroupDocs Viewer for .NET', 'online document viewer', 'View documents online', 'zArchive']
+tags: ['dotNET', 'dotNET MVC4', 'document viewer', 'GroupDocs Viewer for .NET', 'online document viewer', 'View documents online', 'zArchive']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

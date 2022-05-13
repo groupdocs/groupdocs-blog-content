@@ -7,7 +7,7 @@ aliases:
     - /2018/02/23/multi-threaded-indexing-in-groupdocs.search-for-.net-18.2/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['.NET Text Searching API', 'compact indexing', 'compact indexing in csharp', 'indexing in csharp', 'multi-threaded indexing', 'multi-threaded indexing in csharp']
+tags: ['dotNET Text Searching API', 'compact indexing', 'compact indexing in csharp', 'indexing in csharp', 'multi-threaded indexing', 'multi-threaded indexing in csharp']
 categories: ['GroupDocs.Search Product Family']
 ---
 

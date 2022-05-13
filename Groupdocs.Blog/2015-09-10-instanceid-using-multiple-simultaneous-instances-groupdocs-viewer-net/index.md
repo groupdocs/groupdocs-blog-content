@@ -5,7 +5,7 @@ draft: false
 url: /2015/09/10/instanceid-using-multiple-simultaneous-instances-groupdocs-viewer-net/
 author: 'Stanislav Tatarin'
 summary: ''
-tags: ['.net library', 'zArchive']
+tags: ['dotNET library', 'zArchive']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

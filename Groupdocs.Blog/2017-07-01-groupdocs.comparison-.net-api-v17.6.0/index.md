@@ -5,7 +5,7 @@ draft: false
 url: /2017/07/01/groupdocs.comparison-.net-api-v17.6.0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET API', 'Cells', 'compare documents', 'Compare Emails format', 'Docuement Comparison', 'Download', 'HTML', 'Improved', 'Latest API', 'Metadate Cloning', 'Performance', 'Words', 'GroupDocs.Comparison for .NET Releases']
+tags: ['dotNET API', 'Cells', 'compare documents', 'Compare Emails format', 'Docuement Comparison', 'Download', 'HTML', 'Improved', 'Latest API', 'Metadate Cloning', 'Performance', 'Words', 'GroupDocs.Comparison for .NET Releases']
 categories: ['GroupDocs.Comparison Product Family']
 ---
 

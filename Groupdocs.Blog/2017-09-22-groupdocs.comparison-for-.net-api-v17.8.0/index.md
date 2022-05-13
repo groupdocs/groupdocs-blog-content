@@ -5,7 +5,7 @@ draft: false
 url: /2017/09/22/groupdocs.comparison-for-.net-api-v17.8.0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET', '.NET API', 'Cells', 'compare documents', 'Document Manipulation', 'Footer comparison', 'Header Comparison', 'Hyperlinks', 'OneNote', 'Pivot Table', 'Slides']
+tags: ['dotNET', 'dotNET API', 'Cells', 'compare documents', 'Document Manipulation', 'Footer comparison', 'Header Comparison', 'Hyperlinks', 'OneNote', 'Pivot Table', 'Slides']
 categories: ['GroupDocs.Comparison Product Family']
 ---
 

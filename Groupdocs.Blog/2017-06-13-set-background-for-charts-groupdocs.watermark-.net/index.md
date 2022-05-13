@@ -5,7 +5,7 @@ draft: false
 url: /2017/06/13/set-background-for-charts-groupdocs.watermark-.net/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'Document Watermarking', 'PDF Rasterization', 'GroupDocs.Watermark for .NET Release']
+tags: ['dotNET Watermarking API', 'Document Watermarking', 'PDF Rasterization', 'GroupDocs.Watermark for .NET Release']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

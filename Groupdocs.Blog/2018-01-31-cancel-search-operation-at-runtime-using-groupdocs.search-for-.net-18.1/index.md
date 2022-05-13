@@ -5,7 +5,7 @@ draft: false
 url: /2018/01/31/cancel-search-operation-at-runtime-using-groupdocs.search-for-.net-18.1/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['.NET Text Searching API', 'advance searching', 'search API for .NET', 'GroupDocs.Search', 'GroupDocs.Search for .NET Releases']
+tags: ['dotNET Text Searching API', 'advance searching', 'search API for .NET', 'GroupDocs.Search', 'GroupDocs.Search for .NET Releases']
 categories: ['GroupDocs.Search Product Family']
 ---
 

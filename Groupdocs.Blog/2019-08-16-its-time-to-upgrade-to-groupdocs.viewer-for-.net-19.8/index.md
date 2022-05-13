@@ -5,7 +5,7 @@ draft: false
 url: /2019/08/16/its-time-to-upgrade-to-groupdocs.viewer-for-.net-19.8/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', 'CAD viewer', 'document viewer', 'Document viewer API', 'document viewer API for asp.net', 'Office Viewer', 'online document viewer', 'PDF viewer', 'render as PDF', 'word to pdf', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document rendering API', 'CAD viewer', 'document viewer', 'Document viewer API', 'document viewer API for asp.net', 'Office Viewer', 'online document viewer', 'PDF viewer', 'render as PDF', 'word to pdf', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

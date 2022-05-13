@@ -7,7 +7,7 @@ draft: false
 url: /2021/07/27/watermark-pdf-files-using-csharp/
 author: 'Shoaib Khan'
 summary: "To protect your files from any illegal use or to apply branding to your documents, watermarks can be used . In this article, you will learn to programmatically add the watermarks to PDF files using C#. We will separately looking into adding watermark text and image watermarks."
-tags: ['.NET Watermarking API', 'Image Watermark in C#', 'Watermark in C#', 'Watermark PDF in C#', 'Watermark Text in C#']
+tags: ['dotNET Watermarking API', 'Image Watermark in C#', 'Watermark in C#', 'Watermark PDF in C#', 'Watermark Text in C#']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

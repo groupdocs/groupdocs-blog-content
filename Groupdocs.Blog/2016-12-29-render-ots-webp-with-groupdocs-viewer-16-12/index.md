@@ -5,7 +5,7 @@ draft: false
 url: /2016/12/29/render-ots-webp-with-groupdocs-viewer-16-12/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET API', '.net document viewer API', 'online document viewer', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET API', 'dotNET document viewer API', 'online document viewer', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

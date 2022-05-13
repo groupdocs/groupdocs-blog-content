@@ -5,7 +5,7 @@ draft: false
 url: /2017/09/21/groupdocs.annotation-.net-api-v17.8.0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET', '.NET API', 'Annotation', 'Export Annotation', 'Import Annotations', 'opacity', 'Slides', 'Text Annotation', 'Text Strikeout', 'Words']
+tags: ['dotNET', 'dotNET API', 'Annotation', 'Export Annotation', 'Import Annotations', 'opacity', 'Slides', 'Text Annotation', 'Text Strikeout', 'Words']
 categories: ['GroupDocs.Annotation Product Family']
 ---
 

@@ -5,7 +5,7 @@ draft: false
 url: /2019/07/25/restart-the-list-numbering-dynamically-within-your-document/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET', 'API', 'document automation', 'Dynamic Report Generation', 'Generate Reports', 'java', 'numbered list', 'Report Generation API for .NET', 'Report Generation API for Java', 'restart numbered list', 'GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly for Java Releases']
+tags: ['dotNET', 'API', 'document automation', 'Dynamic Report Generation', 'Generate Reports', 'java', 'numbered list', 'Report Generation API for .NET', 'Report Generation API for Java', 'restart numbered list', 'GroupDocs.Assembly for .NET Releases', 'GroupDocs.Assembly for Java Releases']
 categories: ['GroupDocs.Assembly Product Family']
 ---
 

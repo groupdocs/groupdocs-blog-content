@@ -5,7 +5,7 @@ draft: false
 url: /2015/03/04/asp-net-pdf-viewer-built-based-on-the-groupdocs-viewer-for-net-library/
 author: 'Stanislav Tatarin'
 summary: ''
-tags: ['.net library', 'asp.net pdf viewer', 'c# demo', 'GroupDocs Viewer', 'PDF viewer']
+tags: ['dotNET library', 'asp.net pdf viewer', 'c# demo', 'GroupDocs Viewer', 'PDF viewer']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

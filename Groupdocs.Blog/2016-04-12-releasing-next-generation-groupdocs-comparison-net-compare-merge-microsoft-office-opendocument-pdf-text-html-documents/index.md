@@ -5,7 +5,7 @@ draft: false
 url: /2016/04/12/releasing-next-generation-groupdocs-comparison-net-compare-merge-microsoft-office-opendocument-pdf-text-html-documents/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET', 'API', 'Comparison', 'Document', 'GroupDocs', 'Microsoft', 'Office', 'PDF', 'Spreadsheet', 'Word']
+tags: ['dotNET', 'API', 'Comparison', 'Document', 'GroupDocs', 'Microsoft', 'Office', 'PDF', 'Spreadsheet', 'Word']
 categories: ['GroupDocs.Comparison Product Family']
 ---
 

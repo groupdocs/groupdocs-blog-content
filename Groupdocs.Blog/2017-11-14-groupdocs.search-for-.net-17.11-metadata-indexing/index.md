@@ -5,7 +5,7 @@ draft: false
 url: /2017/11/14/groupdocs.search-for-.net-17.11-metadata-indexing/
 author: 'Zeeshan Shafqat'
 summary: ''
-tags: ['.NET Text Searching API', 'GroupDocs', 'text-search', 'GroupDocs.Search', 'GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases']
+tags: ['dotNET Text Searching API', 'GroupDocs', 'text-search', 'GroupDocs.Search', 'GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases']
 categories: ['GroupDocs.Search Product Family']
 ---
 

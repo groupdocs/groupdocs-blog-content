@@ -5,7 +5,7 @@ draft: false
 url: /2017/12/01/improvements-and-fixes-in-groupdocs.viewer-for-.net-17.11/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', '.net document viewer API', 'document viewer API for .net', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document rendering API', 'dotNET document viewer API', 'document viewer API for .net', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

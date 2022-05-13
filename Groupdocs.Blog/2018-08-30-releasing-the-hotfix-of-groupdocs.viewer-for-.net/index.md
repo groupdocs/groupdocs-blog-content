@@ -5,7 +5,7 @@ draft: false
 url: /2018/08/30/releasing-the-hotfix-of-groupdocs.viewer-for-.net/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', '.net document viewer API', 'asp.net document viewer API', 'document viewer', 'Document viewer API', 'Document Viewer API C#', 'GroupDocs.Viewer for .NET', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document rendering API', 'dotNET document viewer API', 'asp.net document viewer API', 'document viewer', 'Document viewer API', 'Document Viewer API C#', 'GroupDocs.Viewer for .NET', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

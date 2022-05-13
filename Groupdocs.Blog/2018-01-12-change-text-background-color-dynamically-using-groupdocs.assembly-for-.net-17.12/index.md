@@ -5,7 +5,7 @@ draft: false
 url: /2018/01/12/change-text-background-color-dynamically-using-groupdocs.assembly-for-.net-17.12/
 author: 'Ali Ahmed'
 summary: ''
-tags: ['.NET Reporting API', 'Document Generation API for .NET', 'Reporting API for .NET', 'GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases']
+tags: ['dotNET Reporting API', 'Document Generation API for .NET', 'Reporting API for .NET', 'GroupDocs.Assembly for .NET', 'GroupDocs.Assembly for .NET Releases']
 categories: ['GroupDocs.Assembly Product Family']
 ---
 

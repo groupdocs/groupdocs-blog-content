@@ -5,7 +5,7 @@ draft: false
 url: /2018/01/25/render-slide-notes-in-presentation-document-groupdocs.viewer-for-.net-18.1/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET API', '.NET document rendering API', '.net document viewer API', 'asp.net document viewer API', 'document rendering API', 'document viewer', 'Document Viewer API C#', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET API', 'dotNET document rendering API', 'dotNET document viewer API', 'asp.net document viewer API', 'document rendering API', 'document viewer', 'Document Viewer API C#', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

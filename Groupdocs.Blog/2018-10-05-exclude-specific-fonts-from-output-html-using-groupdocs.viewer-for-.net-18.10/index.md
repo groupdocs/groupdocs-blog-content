@@ -5,7 +5,7 @@ draft: false
 url: /2018/10/05/exclude-specific-fonts-from-output-html-using-groupdocs.viewer-for-.net-18.10/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', '.net document viewer API', 'asp.net document viewer', 'C# document viewer API', 'document rendering API', 'document viewer', 'GroupDocs.Viewer for .NET', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document rendering API', 'dotNET document viewer API', 'asp.net document viewer', 'C# document viewer API', 'document rendering API', 'document viewer', 'GroupDocs.Viewer for .NET', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

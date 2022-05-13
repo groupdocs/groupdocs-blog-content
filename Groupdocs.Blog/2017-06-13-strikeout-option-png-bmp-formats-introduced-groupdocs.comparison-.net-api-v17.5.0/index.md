@@ -5,7 +5,7 @@ draft: false
 url: /2017/06/13/strikeout-option-png-bmp-formats-introduced-groupdocs.comparison-.net-api-v17.5.0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.net library', 'compare documents', 'GroupDocs Comparison', 'Text Strikeout']
+tags: ['dotNET library', 'compare documents', 'GroupDocs Comparison', 'Text Strikeout']
 categories: ['GroupDocs.Comparison Product Family']
 ---
 

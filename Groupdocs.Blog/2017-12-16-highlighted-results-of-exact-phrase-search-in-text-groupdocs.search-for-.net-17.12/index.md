@@ -5,7 +5,7 @@ draft: false
 url: /2017/12/16/highlighted-results-of-exact-phrase-search-in-text-groupdocs.search-for-.net-17.12/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Searching API', 'c# search documents', 'search API for .NET', 'GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases']
+tags: ['dotNET Text Searching API', 'c# search documents', 'search API for .NET', 'GroupDocs.Search for .NET', 'GroupDocs.Search for .NET Releases']
 categories: ['GroupDocs.Search Product Family']
 ---
 

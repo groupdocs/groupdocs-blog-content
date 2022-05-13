@@ -5,7 +5,7 @@ draft: false
 url: /2017/09/06/releasing-groupdocs-viewer-.net-17.8.0/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET document rendering API', '.net document viewer API', 'document viewer for .net', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document rendering API', 'dotNET document viewer API', 'document viewer for .net', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

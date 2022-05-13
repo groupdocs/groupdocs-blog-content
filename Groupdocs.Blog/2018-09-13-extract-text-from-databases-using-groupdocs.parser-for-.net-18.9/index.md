@@ -5,7 +5,7 @@ draft: false
 url: /2018/09/13/extract-text-from-databases-using-groupdocs.parser-for-.net-18.9/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Text Extractor', 'Dcoument Parsing API', 'Document Parser', 'text parser', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
+tags: ['dotNET Text Extractor', 'Dcoument Parsing API', 'Document Parser', 'text parser', 'GroupDocs.Parser for .NET', 'GroupDocs.Parser for .NET Releases']
 categories: ['GroupDocs.Parser Product Family']
 ---
 

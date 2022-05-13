@@ -5,7 +5,7 @@ draft: false
 url: /2017/08/27/document.comparison-api-for-.net-v17.7.0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.NET', '.NET API', 'Cells', 'Clone Password', 'document comparison', 'HTML', 'Metadata', 'PDF', 'Strike through', 'Words']
+tags: ['dotNET', 'dotNET API', 'Cells', 'Clone Password', 'document comparison', 'HTML', 'Metadata', 'PDF', 'Strike through', 'Words']
 categories: ['GroupDocs.Comparison Product Family']
 ---
 

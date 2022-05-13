@@ -5,7 +5,7 @@ draft: false
 url: /2018/02/07/edit-watermark-objects-in-word-documents-groupdocs.watermark-for-.net-18.2/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.NET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'document-watermark', 'Watermarking API C#', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET Release']
+tags: ['dotNET Watermarking API', 'C# Watermarking API', 'Document Watermarking', 'document-watermark', 'Watermarking API C#', 'Watermarking API for .NET', 'GroupDocs.Watermark for .NET Release']
 categories: ['GroupDocs.Watermark Product Family']
 ---
 

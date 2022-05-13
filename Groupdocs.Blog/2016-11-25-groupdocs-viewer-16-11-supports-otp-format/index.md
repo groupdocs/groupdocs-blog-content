@@ -5,7 +5,7 @@ draft: false
 url: /2016/11/25/groupdocs-viewer-16-11-supports-otp-format/
 author: 'Usman Aziz'
 summary: ''
-tags: ['.net document viewer API', 'document viewer', 'online document viewer', 'GroupDocs.Viewer for .NET Releases']
+tags: ['dotNET document viewer API', 'document viewer', 'online document viewer', 'GroupDocs.Viewer for .NET Releases']
 categories: ['GroupDocs.Viewer Product Family']
 ---
 

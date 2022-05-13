@@ -5,7 +5,7 @@ draft: false
 url: /2017/07/16/annotate-vss-vsd-diagram-formats-using-groupdocs.annotation-.net-v17.6.0/
 author: 'Muhammad Rizwan'
 summary: ''
-tags: ['.net library', 'Annotation for .NET Library', 'Area Annotation', 'Diagram Annotation', 'Improved', 'Textfield Annotation', 'VSD', 'VSS']
+tags: ['dotNET library', 'Annotation for .NET Library', 'Area Annotation', 'Diagram Annotation', 'Improved', 'Textfield Annotation', 'VSD', 'VSS']
 categories: ['GroupDocs.Annotation Product Family']
 ---
 
