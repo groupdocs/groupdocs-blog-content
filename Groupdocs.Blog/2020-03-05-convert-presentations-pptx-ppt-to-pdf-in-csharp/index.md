@@ -4,10 +4,7 @@ title: 'Convert PowerPoint PPT, PPTX and OpenOffice Presentations to PDF in C#'
 date: Thu, 05 Mar 2020 21:59:00 +0000
 draft: false
 url: /2020/03/05/convert-presentations-pptx-ppt-to-pdf-in-csharp/
-aliases:
-    - /2020/03/05/convert-pptx-to-pdf-in-csharp/
-    - /2020/03/05/convert-ppt-to-pdf-in-csharp/
-    - /2020/03/05/convert-pptx-ppt-to-pdf-in-csharp/
+aliases: ["/2020/03/05/convert-pptx-to-pdf-in-csharp/", "/2020/03/05/convert-ppt-to-pdf-in-csharp/", "/2020/03/05/convert-pptx-ppt-to-pdf-in-csharp/","testing-aliases"]
 author: 'Shoaib Khan'
 description: "Convert PowerPoint PPT, PPTX to PDF in .NET. C# code examples show the conversion of selective, consecutive slides, and watermarking using Conversion API."
 summary: '[PDF][1] is no doubt the [Portable Document Format][2], which is one of the most commonly used file formats. [PPT][3] and [PPTX][4] formats of Microsoft PowerPoint share the popularity in business documents. Due to the popularity of both the document formats and the fixed layout nature of PDF format, there comes the requirement to **convert PPT/PPTX to PDF** format.'
