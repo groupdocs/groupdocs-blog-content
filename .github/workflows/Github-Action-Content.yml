@@ -1,15 +1,17 @@
 name: Github Action Content
 on: [push]
 jobs:
-  Copy-Content:
+  Sync-Content:
     runs-on: ubuntu-latest
     steps:
-      - name: Copy
-        uses: andstor/copycat-action@v3
+      - name: Run GitHub File Sync
+        uses: adrianjost/files-sync-action@v1.4.1
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          src_path: /Groupdocs.Blog/
-          dst_path: /content/
-          dst_owner: groupdocs
-          dst_repo_name: groupdocs-blog
-          dst_branch: master
+          FILE_PATTERNS: |
+            ^.+/.+\.md$
+            ^.+/images/.+\..{3,5}$
+          TARGET_REPOS: |
+            groupdocs/groupdocs-blog
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          SRC_ROOT: /Groupdocs.Blog/
+          TARGET_ROOT: /content/Groupdocs.Blog/
